@@ -14,5 +14,10 @@
         "version": "745",
         "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
         "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-745-x86_64.AppImage"
+    }, {
+        "name": "lmms",
+        "version": "1.3.0",
+        "description": "A Free & Open Source Software To Help Make Music",
+        "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
     }
 ]
