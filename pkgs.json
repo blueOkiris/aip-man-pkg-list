@@ -9,5 +9,10 @@
         "version": "2.7.0",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.7.0/Slippi-Launcher-2.7.0-x86_64.AppImage"
+    }, {
+        "name": "appimaged",
+        "version": "745",
+        "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
+        "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-745-x86_64.AppImage"
     }
 ]
