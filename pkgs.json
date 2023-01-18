@@ -24,5 +24,10 @@
         "version": "2.3.2",
         "description": "Project+ is a community driven patch for Project M, a game modification for Super Smash Bros. Brawl",
         "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v2.3.2/Faster_Project_Plus-x86-64.AppImage"
+    }, {
+        "name": "blender",
+        "version": "2.90",
+        "description": "Blender is a FOSS 3D modeling an animation application.",
+        "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
     }
 ]
