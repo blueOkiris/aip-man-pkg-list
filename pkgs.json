@@ -29,5 +29,10 @@
         "version": "2.90",
         "description": "Blender is a FOSS 3D modeling an animation application.",
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
+    }, {
+        "name": "nextcloud",
+        "version": "3.6.4",
+        "description": "Online collaboration solution",
+        "url": "https://github.com/nextcloud/desktop/releases/download/v3.6.4/Nextcloud-3.6.4-x86_64.AppImage"
     }
 ]
