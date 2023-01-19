@@ -94,10 +94,5 @@
         "version": "1.2.2",
         "description": "A Free and open source vector graphics editor.",
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
-    }, {
-        "name": "mupdf",
-        "version": "1.18.0",
-        "description": "Lightweight PDF, XPS, and E-book viewer",
-        "url": "https://github.com/m59peacemaker/mupdf-appimage/releases/download/1.18.0/MuPDF-1.18.0-x86_64.AppImage"
     }
 ]
