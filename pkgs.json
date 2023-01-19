@@ -82,7 +82,12 @@
     }, {
         "name": "spotify",
         "version": "1.1.84.716",
-        "description": "Spotify is a music streaming service.",
+        "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
         "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
+    }, {
+        "name": "gimp",
+        "version": "2.10.13",
+        "description": "Create images and edit photographs.",
+        "url": "https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }
 ]
