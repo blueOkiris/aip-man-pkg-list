@@ -44,5 +44,10 @@
         "version": "0.0.24",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
         "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.24-x86_64.AppImage"
+    }, {
+        "name": "musescore",
+        "version": "4.0.1",
+        "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
+        "url": "https://cdn.jsdelivr.net/musescore/v4.0.1/MuseScore-4.0.1.230121751-x86_64.AppImage"
     }
 ]
