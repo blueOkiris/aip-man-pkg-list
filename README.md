@@ -23,6 +23,6 @@ Format package listings as so:
     ...
 ]
 ```
-Make a commit like "Add \<whatever application\>" or "Update for \<application\> to \<version\>," post a PR, and I'll look at it an merge it in.
+Make a commit like "Add \<whatever application\>" or "Update for \<application\> to \<version\>," post a PR, and I'll look at it and merge it in.
 
 Thanks!
