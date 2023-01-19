@@ -79,5 +79,10 @@
         "version": "22.12.1",
         "description": "Kdenlive is a non linear video editor.",
         "url": "https://mirror2.sandyriver.net/pub/software/kde/stable/kdenlive/22.12/linux/kdenlive-22.12.1-x86_64.AppImage"
+    }, {
+        "name": "spotify",
+        "version": "1.1.84.716",
+        "description": "Spotify is a music streaming service.",
+        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
     }
 ]
