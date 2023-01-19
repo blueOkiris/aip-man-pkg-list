@@ -94,5 +94,10 @@
         "version": "1.2.2",
         "description": "A Free and open source vector graphics editor.",
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
+    }, {
+        "name": "freecad",
+        "version": "0.20.2",
+        "description": "FreeCAD is a parametric 3D modeler.",
+        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.20.2/FreeCAD_0.20.2-2022-12-27-conda-Linux-x86_64-py310.AppImage"
     }
 ]
