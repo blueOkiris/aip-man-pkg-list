@@ -34,5 +34,10 @@
         "version": "3.6.4",
         "description": "Online collaboration solution",
         "url": "https://github.com/nextcloud/desktop/releases/download/v3.6.4/Nextcloud-3.6.4-x86_64.AppImage"
+    }, {
+        "name": "android-studio",
+        "version": "2021.3.1",
+        "description": "Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.",
+        "url": "https://apprepo.de/appimage/download/android-studio"
     }
 ]
