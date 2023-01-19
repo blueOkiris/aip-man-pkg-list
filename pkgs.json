@@ -49,5 +49,10 @@
         "version": "4.0.1",
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
         "url": "https://cdn.jsdelivr.net/musescore/v4.0.1/MuseScore-4.0.1.230121751-x86_64.AppImage"
+    }, {
+        "name": "zoom",
+        "version": "5.13.4.711",
+        "description": "Zoom Video Conference",
+        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.4.711.glibc2.17-x86_64.AppImage"
     }
 ]
