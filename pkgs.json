@@ -59,5 +59,10 @@
         "version": "7.4.4.2",
         "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
         "url": "https://appimages.libreitalia.org/LibreOffice-fresh.basic-x86_64.AppImage"
+    }, {
+        "name": "firefox",
+        "version": "109",
+        "description": "Browse the World Wide Web",
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-109.0.r20230112150232-x86_64.AppImage"
     }
 ]
