@@ -54,5 +54,10 @@
         "version": "5.13.4.711",
         "description": "Zoom Video Conference",
         "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.4.711.glibc2.17-x86_64.AppImage"
+    }, {
+        "name": "libreoffice-fresh-basic",
+        "version": "7.4.4.2",
+        "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
+        "url": "https://appimages.libreitalia.org/LibreOffice-fresh.basic-x86_64.AppImage"
     }
 ]
