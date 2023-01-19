@@ -89,5 +89,10 @@
         "version": "2.10.13",
         "description": "Create images and edit photographs.",
         "url": "https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
+    }, {
+        "name": "inkscape",
+        "version": "1.2.2",
+        "description": "A Free and open source vector graphics editor.",
+        "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
     }
 ]
