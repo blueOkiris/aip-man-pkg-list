@@ -104,5 +104,10 @@
         "version": "2.0.0",
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
         "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
+    }, {
+        "name": "pkg2appimage",
+        "version": "1807",
+        "description": "Generate AppImages from existing binary packages.",
+        "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
     }
 ]
