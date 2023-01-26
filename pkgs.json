@@ -109,5 +109,10 @@
         "version": "1807",
         "description": "Generate AppImages from existing binary packages.",
         "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
+    }, {
+        "name": "appimagetool",
+        "version": "13",
+        "description": "Build AppImages.",
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }
 ]
