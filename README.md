@@ -1,5 +1,7 @@
 # The Global Package List for the Aip-Man
 
+## Description
+
 The [AppImage Package Manager](https://github.com/blueOkiris/aip-man) pulls the pkgs.json file from this repo, parses it, and uses it to install and upgrade packages.
 
 If you'd like to add a package, you're simple one commit and PR away!
@@ -26,3 +28,9 @@ Format package listings as so:
 Make a commit like "Add \<whatever application\>" or "Update for \<application\> to \<version\>," post a PR, and I'll look at it and merge it in.
 
 Thanks!
+
+## Maintaining
+
+I, blueOkiris, will keep the download links and versions up to date from their mainstream monthly (1st weekend of each month) or when I happen to notice a new version and can get to it. I use aip-man myself, so I want my packages up to date.
+
+However, I'm one person, so if you see a chance to update, create a PR. I'd love your help.
