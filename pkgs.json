@@ -114,5 +114,10 @@
         "version": "13",
         "description": "Build AppImages.",
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
+    }, {
+        "name": "neovim",
+        "version": "0.8.2",
+        "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
+        "url": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim.appimage"
     }
 ]
