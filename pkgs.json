@@ -119,5 +119,9 @@
         "version": "0.8.2",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
         "url": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim.appimage"
-    }
+    }, {
+        "name": "obs-studio",
+        "version": "29.0.0",
+        "description": "Free and open source software for video recording and live streaming.",
+        "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
 ]
