@@ -129,10 +129,5 @@
         "version": "0.11.0",
         "description": "A fast, cross-platform, OpenGL terminal emulator",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/alacritty-0.11.0/alacritty-x86_64-0.11.0.AppImage"
-    }, {
-        "name": "baobab",
-        "version": "43.0",
-        "description": "Baobab is a simple application which can scan either specific folders (local or remote) or volumes and give a graphical representation including each directory size or percentage in the branch. It also auto-detects any mounted/unmounted device.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/baobab-v43.0/baobab-x86_64-43.0.AppImage"
     }
 ]
