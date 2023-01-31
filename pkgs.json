@@ -13,7 +13,7 @@
         "name": "appimaged",
         "version": "745",
         "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
-        "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-745-x86_64.AppImage"
+        "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-754-x86_64.AppImage"
     }, {
         "name": "lmms",
         "version": "1.3.0",
