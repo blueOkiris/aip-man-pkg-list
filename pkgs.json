@@ -11,7 +11,7 @@
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.7.0/Slippi-Launcher-2.7.0-x86_64.AppImage"
     }, {
         "name": "appimaged",
-        "version": "745",
+        "version": "754",
         "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
         "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-754-x86_64.AppImage"
     }, {
