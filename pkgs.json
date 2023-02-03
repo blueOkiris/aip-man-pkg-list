@@ -134,5 +134,10 @@
         "version": "1.21.1",
         "description": "A simple pdf reader.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/mupdf-1.21.1/mupdf-x86_64-1.21.1.AppImage"
+    }, {
+        "name": "thunar",
+        "version": "4.18.3",
+        "description": "Xfce4 file manager.",
+        "utl": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/thunar-4.18.3/thunar-4.18.3-x86_64.AppImage"
     }
 ]
