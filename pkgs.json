@@ -96,9 +96,9 @@
         "url": "https://cdn.jsdelivr.net/musescore/v4.0.1/MuseScore-4.0.1.230121751-x86_64.AppImage"
     }, {
         "name": "neovim",
-        "version": "0.8.2",
+        "version": "0.8.3",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
-        "url": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim.appimage"
+        "url": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim.appimage"
     }, {
         "name": "nextcloud",
         "version": "3.6.6",
