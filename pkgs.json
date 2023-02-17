@@ -106,7 +106,7 @@
         "url": "https://github.com/nextcloud/desktop/releases/download/v3.7.3/Nextcloud-3.7.3-x86_64.AppImage"
     }, {
         "name": "obs-studio",
-        "version": "29.0.0",
+        "version": "29.0.2",
         "description": "Free and open source software for video recording and live streaming.",
         "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
     }, {
