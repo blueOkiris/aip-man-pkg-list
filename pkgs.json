@@ -136,8 +136,8 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/thunar-4.18.3/thunar-4.18.3-x86_64.AppImage"
     }, {
         "name": "zoom",
-        "version": "5.13.4.711",
+        "version": "5.13.7.683",
         "description": "Zoom Video Conference",
-        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.4.711.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
     }
 ]
