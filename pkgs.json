@@ -121,9 +121,9 @@
         "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v2.3.2/Faster_Project_Plus-x86-64.AppImage"
     }, {
         "name": "slippi-launcher",
-        "version": "2.7.0",
+        "version": "2.8.1",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
-        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.7.0/Slippi-Launcher-2.7.0-x86_64.AppImage"
+        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.8.1/Slippi-Launcher-2.8.1-x86_64.AppImage"
     }, {
         "name": "spotify",
         "version": "1.1.84.716",
