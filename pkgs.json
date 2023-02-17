@@ -1,89 +1,64 @@
 [
     {
-        "name": "audacity",
-        "version": "3.2.3",
-        "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.3/audacity-linux-3.2.3-x64.AppImage"
-    }, {
-        "name": "slippi-launcher",
-        "version": "2.7.0",
-        "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
-        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.7.0/Slippi-Launcher-2.7.0-x86_64.AppImage"
-    }, {
-        "name": "appimaged",
-        "version": "754",
-        "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
-        "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-754-x86_64.AppImage"
-    }, {
-        "name": "lmms",
-        "version": "1.3.0",
-        "description": "A Free & Open Source Software To Help Make Music",
-        "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
-    }, {
-        "name": "project-plus-launcher",
-        "version": "2.3.2",
-        "description": "Project+ is a community driven patch for Project M, a game modification for Super Smash Bros. Brawl",
-        "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v2.3.2/Faster_Project_Plus-x86-64.AppImage"
-    }, {
-        "name": "blender",
-        "version": "2.90",
-        "description": "Blender is a FOSS 3D modeling an animation application.",
-        "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
-    }, {
-        "name": "nextcloud",
-        "version": "3.6.6",
-        "description": "Online collaboration solution",
-        "url": "https://github.com/nextcloud/desktop/releases/download/v3.6.6/Nextcloud-3.6.6-x86_64.AppImage"
+        "name": "alacritty",
+        "version": "0.11.0",
+        "description": "A fast, cross-platform, OpenGL terminal emulator",
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/alacritty-0.11.0/alacritty-x86_64-0.11.0.AppImage"
     }, {
         "name": "android-studio",
         "version": "2021.3.1",
         "description": "Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.",
         "url": "https://apprepo.de/appimage/download/android-studio"
     }, {
-        "name": "discord",
-        "version": "0.0.25",
-        "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
-        "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
+        "name": "appimage-update",
+        "version": "2.0.0",
+        "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
+        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
     }, {
-        "name": "musescore",
-        "version": "4.0.1",
-        "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
-        "url": "https://cdn.jsdelivr.net/musescore/v4.0.1/MuseScore-4.0.1.230121751-x86_64.AppImage"
+        "name": "appimaged",
+        "version": "754",
+        "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
+        "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-754-x86_64.AppImage"
     }, {
-        "name": "zoom",
-        "version": "5.13.4.711",
-        "description": "Zoom Video Conference",
-        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.4.711.glibc2.17-x86_64.AppImage"
+        "name": "appimagetool",
+        "version": "13",
+        "description": "Build AppImages.",
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
-        "name": "libreoffice-fresh-basic",
-        "version": "7.4.4.2",
-        "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
-        "url": "https://appimages.libreitalia.org/LibreOffice-fresh.basic-x86_64.AppImage"
+        "name": "audacity",
+        "version": "3.2.3",
+        "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.3/audacity-linux-3.2.3-x64.AppImage"
     }, {
-        "name": "firefox",
-        "version": "109",
-        "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-109.0.r20230112150232-x86_64.AppImage"
+        "name": "blender",
+        "version": "2.90",
+        "description": "Blender is a FOSS 3D modeling an animation application.",
+        "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
     }, {
         "name": "cura",
         "version": "5.2.1",
         "description": "Ultimaker Cura is a slicer, an application that prepares your model for 3D printing.",
         "url": "https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-linux-modern.AppImage"
     }, {
+        "name": "discord",
+        "version": "0.0.25",
+        "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+        "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
+    }, {
+        "name": "firefox",
+        "version": "109",
+        "description": "Browse the World Wide Web",
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-109.0.r20230112150232-x86_64.AppImage"
+    }, {
         "name": "fontforge",
         "version": "2023.1.1",
         "description": "FontForge is a font editor for outline and bitmap fonts that lets you create, edit, or convert, a range of fonts, including PostScript, TrueType, OpenType, cid-keyed, multi-master, cff, SVG and BitMap (bdf, FON, NFNT) fonts.",
         "url": "https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage"
     }, {
-        "name": "kdenlive",
-        "version": "22.12.1",
-        "description": "Kdenlive is a non linear video editor.",
-        "url": "https://mirror2.sandyriver.net/pub/software/kde/stable/kdenlive/22.12/linux/kdenlive-22.12.1-x86_64.AppImage"
-    }, {
-        "name": "spotify",
-        "version": "1.1.84.716",
-        "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
-        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
+        "name": "freecad",
+        "version": "0.20.2",
+        "description": "FreeCAD is a parametric 3D modeler.",
+        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.20.2/FreeCAD_0.20.2-2022-12-27-conda-Linux-x86_64-py310.AppImage"
     }, {
         "name": "gimp",
         "version": "2.10.13",
@@ -95,49 +70,74 @@
         "description": "A Free and open source vector graphics editor.",
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
     }, {
-        "name": "freecad",
-        "version": "0.20.2",
-        "description": "FreeCAD is a parametric 3D modeler.",
-        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.20.2/FreeCAD_0.20.2-2022-12-27-conda-Linux-x86_64-py310.AppImage"
+        "name": "kdenlive",
+        "version": "22.12.1",
+        "description": "Kdenlive is a non linear video editor.",
+        "url": "https://mirror2.sandyriver.net/pub/software/kde/stable/kdenlive/22.12/linux/kdenlive-22.12.1-x86_64.AppImage"
     }, {
-        "name": "appimage-update",
-        "version": "2.0.0",
-        "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
-        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
+        "name": "libreoffice-fresh-basic",
+        "version": "7.4.4.2",
+        "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
+        "url": "https://appimages.libreitalia.org/LibreOffice-fresh.basic-x86_64.AppImage"
     }, {
-        "name": "pkg2appimage",
-        "version": "1807",
-        "description": "Generate AppImages from existing binary packages.",
-        "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
-    }, {
-        "name": "appimagetool",
-        "version": "13",
-        "description": "Build AppImages.",
-        "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
-    }, {
-        "name": "neovim",
-        "version": "0.8.2",
-        "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
-        "url": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim.appimage"
-    }, {
-        "name": "obs-studio",
-        "version": "29.0.0",
-        "description": "Free and open source software for video recording and live streaming.",
-        "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
-    }, {
-        "name": "alacritty",
-        "version": "0.11.0",
-        "description": "A fast, cross-platform, OpenGL terminal emulator",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/alacritty-0.11.0/alacritty-x86_64-0.11.0.AppImage"
+        "name": "lmms",
+        "version": "1.3.0",
+        "description": "A Free & Open Source Software To Help Make Music",
+        "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
     }, {
         "name": "mupdf",
         "version": "1.21.1",
         "description": "A simple pdf reader.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/mupdf-1.21.1/mupdf-x86_64-1.21.1.AppImage"
     }, {
+        "name": "musescore",
+        "version": "4.0.1",
+        "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
+        "url": "https://cdn.jsdelivr.net/musescore/v4.0.1/MuseScore-4.0.1.230121751-x86_64.AppImage"
+    }, {
+        "name": "neovim",
+        "version": "0.8.2",
+        "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
+        "url": "https://github.com/neovim/neovim/releases/download/v0.8.2/nvim.appimage"
+    }, {
+        "name": "nextcloud",
+        "version": "3.6.6",
+        "description": "Online collaboration solution",
+        "url": "https://github.com/nextcloud/desktop/releases/download/v3.6.6/Nextcloud-3.6.6-x86_64.AppImage"
+    }, {
+        "name": "obs-studio",
+        "version": "29.0.0",
+        "description": "Free and open source software for video recording and live streaming.",
+        "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
+    }, {
+        "name": "pkg2appimage",
+        "version": "1807",
+        "description": "Generate AppImages from existing binary packages.",
+        "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
+    }, {
+        "name": "project-plus-launcher",
+        "version": "2.3.2",
+        "description": "Project+ is a community driven patch for Project M, a game modification for Super Smash Bros. Brawl",
+        "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v2.3.2/Faster_Project_Plus-x86-64.AppImage"
+    }, {
+        "name": "slippi-launcher",
+        "version": "2.7.0",
+        "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
+        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.7.0/Slippi-Launcher-2.7.0-x86_64.AppImage"
+    }, {
+        "name": "spotify",
+        "version": "1.1.84.716",
+        "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
+        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
+    }, {
         "name": "thunar",
         "version": "4.18.3",
         "description": "Xfce4 file manager.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/thunar-4.18.3/thunar-4.18.3-x86_64.AppImage"
+    }, {
+        "name": "zoom",
+        "version": "5.13.4.711",
+        "description": "Zoom Video Conference",
+        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.4.711.glibc2.17-x86_64.AppImage"
     }
 ]
