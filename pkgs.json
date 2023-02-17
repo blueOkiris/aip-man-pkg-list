@@ -46,9 +46,9 @@
         "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
     }, {
         "name": "firefox",
-        "version": "109",
+        "version": "110",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-109.0.r20230112150232-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-110.0.r20230214051806-x86_64.AppImage"
     }, {
         "name": "fontforge",
         "version": "2023.1.1",
