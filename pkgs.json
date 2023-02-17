@@ -71,9 +71,9 @@
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
     }, {
         "name": "kdenlive",
-        "version": "22.12.1",
+        "version": "22.12.2",
         "description": "Kdenlive is a non linear video editor.",
-        "url": "https://mirror2.sandyriver.net/pub/software/kde/stable/kdenlive/22.12/linux/kdenlive-22.12.1-x86_64.AppImage"
+        "url": "https://download.kde.org/stable/kdenlive/22.12/linux/kdenlive-22.12.2-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.4.4.2",
