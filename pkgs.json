@@ -41,9 +41,9 @@
         "url": "https://apprepo.de/appimage/download/android-studio"
     }, {
         "name": "discord",
-        "version": "0.0.24",
+        "version": "0.0.25",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
-        "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.24-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
     }, {
         "name": "musescore",
         "version": "4.0.1",
