@@ -36,9 +36,9 @@
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
     }, {
         "name": "cura",
-        "version": "5.2.1",
+        "version": "5.2.2",
         "description": "Ultimaker Cura is a slicer, an application that prepares your model for 3D printing.",
-        "url": "https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-linux-modern.AppImage"
+        "url": "https://github.com/Ultimaker/Cura/releases/download/5.2.2/UltiMaker-Cura-5.2.2-linux-modern.AppImage"
     }, {
         "name": "discord",
         "version": "0.0.25",
