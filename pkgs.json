@@ -10,6 +10,11 @@
         "description": "A fast, cross-platform, OpenGL terminal emulator.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/alacritty-0.11.0/alacritty-x86_64-0.11.0.AppImage"
     }, {
+        "name": "allusion",
+        "version": "1.0.0-rc.10",
+        "description": "A free and open source desktop application for managing your visual library.",
+        "url": "https://github.com/allusion-app/Allusion/releases/download/v1.0.0-rc.10/Allusion-1.0.0-rc.10.AppImage"    
+    }, {
         "name": "android-studio",
         "version": "2021.3.1",
         "description": "Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.",
@@ -55,6 +60,21 @@
         "description": "Blender is a FOSS 3D modeling an animation application.",
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
     }, {
+        "name": "butterfly",
+        "version": "2.90",
+        "description": "Blender is a FOSS 3D modeling an animation application.",
+        "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
+    }, {
+        "name": "chatterino",
+        "version": "2.4.1",
+        "description": "Chat client for https://twitch.tv.",
+        "url": "https://github.com/Chatterino/chatterino2/releases/latest/download/Chatterino-x86_64.AppImage"
+    }, {
+        "name": "cherrytree",
+        "version": "0.99.54",
+        "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
+        "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.54/CherryTree-0.99.54-x86_64.AppImage"
+    }, {
         "name": "cinny",
         "version": "2.2.4",
         "description": "Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.",
@@ -65,10 +85,20 @@
         "description": "Ultimaker Cura is a slicer, an application that prepares your model for 3D printing.",
         "url": "https://github.com/Ultimaker/Cura/releases/download/5.2.2/UltiMaker-Cura-5.2.2-linux-modern.AppImage"
     }, {
+        "name": "deltachat",
+        "version": "1.34.4",
+        "description": "Email-based instant messaging for Desktop.",
+        "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.34.4/DeltaChat-1.34.4.AppImage"
+    }, {
         "name": "discord",
         "version": "0.0.25",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
         "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
+    }, {
+        "name": "etcher",
+        "version": "1.14.3",
+        "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+        "url": "https://github.com/balena-io/etcher/releases/download/v1.14.3/balenaEtcher-1.14.3-x64.AppImage"    
     }, {
         "name": "firefox",
         "version": "110",
@@ -77,13 +107,23 @@
     }, { 
         "name": "flake",
         "version": "0.0.3",
-        "description": "user interface for appimagekit to let you create AppImages with ease",
+        "description": "User interface for appimagekit to let you create AppImages with ease",
         "url": "https://github.com/SalaniLeo/Flake/releases/download/v0.0.3/Flake-0.0.3-x86_64.AppImage"   
+    }, {
+        "name": "fluentreader",
+        "version": "1.1.3",
+        "description": "Modern desktop RSS reader built with Electron, React, and Fluent UI",
+        "url": "https://github.com/yang991178/fluent-reader/releases/download/v1.1.3/Fluent.Reader.1.1.3.AppImage"   
     }, {
         "name": "fontforge",
         "version": "2023.1.1",
         "description": "FontForge is a font editor for outline and bitmap fonts that lets you create, edit, or convert, a range of fonts, including PostScript, TrueType, OpenType, cid-keyed, multi-master, cff, SVG and BitMap (bdf, FON, NFNT) fonts.",
         "url": "https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage"
+    }, {
+        "name": "franz",
+        "version": "5.9.2",
+        "description": "Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.",
+        "url": "https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.AppImage"
     }, {
         "name": "freecad",
         "version": "0.20.2",
@@ -99,6 +139,11 @@
         "version": "1.2.2",
         "description": "A Free and open source vector graphics editor.",
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
+    }, {
+        "name": "joplin",
+        "version": "2.9.17",
+        "description": "Open source note taking and to-do application with synchronisation capabilities .",
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.9.17/Joplin-2.9.17.AppImage"
     }, {
         "name": "kdenlive",
         "version": "22.12.2",
@@ -124,6 +169,11 @@
         "version": "1.3.0",
         "description": "A Free & Open Source Software To Help Make Music",
         "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
+    }, {
+        "name": "logseq",
+        "version": "0.8.17",
+        "description": "A privacy-first, open-source platform for knowledge management and collaboration",
+        "url": "https://github.com/logseq/logseq/releases/download/0.8.17/Logseq-linux-x64-0.8.17.AppImage"
     }, {
         "name": "localsend",
         "version": "1.7.0",
@@ -155,10 +205,25 @@
         "description": "Desktop client for Matrix using Qt and C++20.",
         "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.1/nheko-v0.11.1-x86_64.AppImage"
     }, {
+        "name": "notepadnext",
+        "version": "0.6",
+        "description": "A cross-platform, reimplementation of Notepad++.",
+        "url": "https://github.com/dail8859/NotepadNext/releases/download/v0.6/NotepadNext-x86_64.AppImage"
+    }, {
+        "name": "notesnook",
+        "version": "2.4.3",
+        "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.3/notesnook_linux_x86_64.AppImage"
+    }, {
         "name": "obs-studio",
         "version": "29.0.2",
         "description": "Free and open source software for video recording and live streaming.",
         "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
+    }, {
+        "name": "obsidian",
+        "version": "1.1.9",
+        "description": "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.",
+        "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian-1.1.9.AppImage"
     }, {
         "name": "openscad",
         "version": "2023.0.2",
@@ -190,25 +255,60 @@
         "description": "A Community-led Hyper-Hackable Text Editor.",
         "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.102.0/Linux.1.102.0.AppImage"
     }, {
+        "name": "revoltchat",
+        "version": "1.0.6",
+        "description": "Open source user-first chat platform..",
+        "url": "https://github.com/revoltchat/desktop/releases/download/v1.0.6/Revolt-1.0.6.AppImage"
+    }, {
+        "name": "ricochet-refresh",
+        "version": "3.0.15-release",
+        "description": "Anonymous peer-to-peer instant messaging.",
+        "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
+    }, {
         "name": "saber",
         "version": "0.9.3",
         "description": "Cross-platform libre handwritten notes app",
         "url": "https://github.com/adil192/saber/releases/download/v0.9.3/Saber-0.9.3-x86_64.AppImage"
+    }, {
+        "name": "schildichat",
+        "version": "1.11.22",
+        "description": "SchildiChat Desktop is a fork of Element, popular Matrix messenger",
+        "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.22-sc.1/SchildiChat-1.11.22-sc.1.AppImage"
     }, {
         "name": "shotcut",
         "version": "22.12.21",
         "description": "Shotcut - a free, open source, cross-platform video editor",
         "url": "https://github.com/mltframework/shotcut/releases/download/v22.12.21/shotcut-linux-x86_64-221221.AppImage"
     }, {
+        "name": "session",
+        "version": "1.10.7",
+        "description": "Session Desktop - Onion routing based messenger",
+        "url": "https://github.com/oxen-io/session-desktop/releases/download/v1.10.7/session-desktop-linux-x86_64-1.10.7.AppImage"
+    }, {
+        "name": "simplenote",
+        "version": "2.21.0",
+        "description": "The simplest way to keep notes.",
+        "url": "https://github.com/Automattic/simplenote-electron/releases/download/v2.21.0/Simplenote-linux-2.21.0-x86_64.AppImage"
+    }, {
         "name": "slippi-launcher",
         "version": "2.8.1",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.8.1/Slippi-Launcher-2.8.1-x86_64.AppImage"
     }, {
+        "name": "speek",
+        "version": "1.7.0",
+        "description": "Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications.",
+        "url": "https://github.com/Speek-App/Speek/releases/download/v1.7.0-release/Speek.Chat-1.7.0-linux-x86_64.AppImage"
+    }, {
         "name": "spotify",
         "version": "1.1.84.716",
         "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
         "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
+    }, {
+        "name": "standard-notes",
+        "version": "3.149.5",
+        "description": "End-to-end encrypted notes app.",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.149.5/standard-notes-3.149.5-linux-x86_64.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
@@ -222,13 +322,23 @@
     }, {
         "name": "vscodium",
         "version": "1.75.1",
-        "description": "binary releases of VS Code without MS branding/telemetry/licensing.",
+        "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
         "url": "https://github.com/VSCodium/vscodium/releases/download/1.75.1.23040/VSCodium-1.75.1.23040.glibc2.17-x86_64.AppImage"
+    }, {
+        "name": "wavebox",
+        "version": "10.110.18-stable",
+        "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
+        "url": "https://download.wavebox.app/latest/stable/linux/appimage"
     }, {
         "name": "wezterm",
         "version": "20221119-145034-49b9839f",
         "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.",
         "url": "https://github.com/wez/wezterm/releases/download/20221119-145034-49b9839f/WezTerm-20221119-145034-49b9839f-Ubuntu18.04.AppImage"
+    }, {
+        "name": "wire",
+        "version": "3.30.3018",
+        "description": "Wire is an encrypted communication and collaboration platform, based on edge computing and zero trust architectur.",
+        "url": "https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.30.3018/Wire-3.30.3018_x86_64.AppImage"
     }, {
         "name": "zoom",
         "version": "5.13.7.683",
