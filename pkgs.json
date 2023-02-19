@@ -60,10 +60,25 @@
         "description": "Blender is a FOSS 3D modeling an animation application.",
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
     }, {
+        "name": "boostnote",
+        "version": "0.23.1",
+        "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
+        "url": "https://github.com/BoostIO/BoostNote-App/releases/latest/download/boost-note-linux.AppImage"
+    }, {
         "name": "butterfly",
         "version": "2.90",
         "description": "Blender is a FOSS 3D modeling an animation application.",
         "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
+    }, {
+        "name": "caprine",
+        "version": "2.57.0",
+        "description": "Elegant Facebook Messenger desktop app.",
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.0/Caprine-2.57.0.AppImage"
+    }, {
+        "name": "cerebro",
+        "version": "0.11.0",
+        "description": "Cerebro is an open-source launcher to improve your productivity and efficiency.",
+        "url": "https://github.com/cerebroapp/cerebro/releases/download/v0.11.0/Cerebro-0.11.0.AppImage"
     }, {
         "name": "chatterino",
         "version": "2.4.1",
@@ -75,15 +90,30 @@
         "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
         "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.54/CherryTree-0.99.54-x86_64.AppImage"
     }, {
+        "name": "cinelerra-gg",
+        "version": "20230101",
+        "description": "Cinelerra GG Infinity is a free and open source video editing software for Linux.",
+        "url": "https://cinelerra-gg.org/download/images/CinGG-20230101-x86_64.AppImage"
+    }, {
         "name": "cinny",
         "version": "2.2.4",
         "description": "Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.",
         "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.4/Cinny_desktop-x86_64.AppImage"
     }, {
+        "name": "coolercontrol",
+        "version": "0.14.4",
+        "description": "A program to monitor and control your cooling devices",
+        "url": "https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.14.4/downloads/packages/CoolerControl-x86_64.AppImage"
+    }, {
         "name": "cura",
         "version": "5.2.2",
         "description": "Ultimaker Cura is a slicer, an application that prepares your model for 3D printing.",
         "url": "https://github.com/Ultimaker/Cura/releases/download/5.2.2/UltiMaker-Cura-5.2.2-linux-modern.AppImage"
+    }, {
+        "name": "czkawka",
+        "version": "5.2.2",
+        "description": "Multi functional app to find duplicates, empty folders, similar images etc..",
+        "url": "https://github.com/qarmin/czkawka/releases/download/5.1.0/linux_czkawk_gui.AppImage"
     }, {
         "name": "deltachat",
         "version": "1.34.4",
@@ -95,10 +125,25 @@
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
         "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
     }, {
+        "name": "ente",
+        "version": "1.6.21",
+        "description": "Desktop app for ente.io.",
+        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.21/ente-1.6.21.AppImage"    
+    }, {
         "name": "etcher",
         "version": "1.14.3",
         "description": "Flash OS images to SD cards & USB drives, safely and easily.",
         "url": "https://github.com/balena-io/etcher/releases/download/v1.14.3/balenaEtcher-1.14.3-x64.AppImage"    
+    }, {
+        "name": "extraterm",
+        "version": "0.70.0",
+        "description": "Extraterm is an open source project to build a terminal emulator and expand it with new features to support modern workflows and do more than just act like a glorified teletype.",
+        "url": "https://github.com/sedwards2009/extraterm/releases/download/v0.70.0/ExtratermQt-0.70.0.glibc2.29-x86_64.AppImage"    
+    }, {
+        "name": "ferdium",
+        "version": "6.2.4",
+        "description": "Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.",
+        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.2.4/Ferdium-linux-Portable-6.2.4-x86_64.AppImage"
     }, {
         "name": "firefox",
         "version": "110",
@@ -140,6 +185,11 @@
         "description": "A Free and open source vector graphics editor.",
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
     }, {
+        "name": "heroic",
+        "version": "2.6.2",
+        "description": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
+        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.2/Heroic-2.6.2.AppImage"
+    }, {
         "name": "joplin",
         "version": "2.9.17",
         "description": "Open source note taking and to-do application with synchronisation capabilities .",
@@ -154,6 +204,11 @@
         "version": "5.1.5",
         "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
         "url": "https://download.kde.org/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
+    }, {
+        "name": "kuro",
+        "version": "8.1.9",
+        "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).",
+        "url": "https://github.com/davidsmorais/kuro/releases/download/v8.1.9/Kuro-8.1.9.AppImage"
     }, {
         "name": "librecad",
         "version": "2.2.0",
@@ -180,6 +235,11 @@
         "description": "An open source cross-platform alternative to AirDrop",
         "url": "https://github.com/localsend/localsend/releases/download/v1.7.0/LocalSend-1.7.0.AppImage"
     }, {
+        "name": "moosync",
+        "version": "7.1.0",
+        "description": "Music player capable of playing local audio or from Youtube, Spotify and many more",
+        "url":"https://github.com/Moosync/Moosync/releases/download/v7.1.0/Moosync-7.1.0-linux-x86_64.AppImage"
+    }, {
         "name": "mupdf",
         "version": "1.21.1",
         "description": "A simple pdf reader.",
@@ -194,6 +254,11 @@
         "version": "0.8.3",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
         "url": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim.appimage"
+    }, {
+        "name": "netbeans",
+        "version": "v16-build1",
+        "description": "Apache NetBeans installers.",
+        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache_NetBeans-16-x86_64.AppImage"
     }, {
         "name": "nextcloud",
         "version": "3.7.3",
@@ -210,10 +275,20 @@
         "description": "A cross-platform, reimplementation of Notepad++.",
         "url": "https://github.com/dail8859/NotepadNext/releases/download/v0.6/NotepadNext-x86_64.AppImage"
     }, {
+        "name": "notes",
+        "version": "2.0.0",
+        "description": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
+        "url": "https://github.com/nuttyartist/notes/releases/latest/download/Notes-x86_64.appimage"
+    }, {
         "name": "notesnook",
         "version": "2.4.3",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
         "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.3/notesnook_linux_x86_64.AppImage"
+    }, {
+        "name": "nuclear",
+        "version": "fd06a3",
+        "description": "Streaming music player that finds free music for you.",
+        "url": "https://github.com/nukeop/nuclear/releases/download/fd06a3/nuclear-fd06a3.AppImage"
     }, {
         "name": "obs-studio",
         "version": "29.0.2",
@@ -235,10 +310,25 @@
         "description": "OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.",
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.0.0/OpenShot-v3.0.0-x86_64.AppImage"
     }, {
+        "name": "pencil2d",
+        "version": "0.6.6",
+        "description": "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.",
+        "url": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-amd64-0.6.6.AppImage"
+    }, {
+        "name": "picocrypt",
+        "version": "1.31",
+        "description": "A very small, very simple, yet very secure encryption tool.",
+        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/latest/Picocrypt.AppImage"
+    }, {
         "name": "pkg2appimage",
         "version": "1807",
         "description": "Generate AppImages from existing binary packages.",
         "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
+    }, {
+        "name": "pocket-browser",
+        "version": "1.8.0",
+        "description": "An open-source browser made for privacy and going towards security.",
+        "url": "https://github.com/PocketStudios/Pocket-Browser/releases/download/v1.8.0/pocket-browser-1.8.0.AppImage"
     }, {
         "name": "project-plus-launcher",
         "version": "2.3.2",
@@ -255,9 +345,19 @@
         "description": "A Community-led Hyper-Hackable Text Editor.",
         "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.102.0/Linux.1.102.0.AppImage"
     }, {
-        "name": "revoltchat",
+        "name": "quaternion",
+        "version": "0.0.95.1",
+        "description": "A Qt5-based IM client for Matrix.",
+        "url": "https://github.com/quotient-im/Quaternion/releases/download/0.0.95.1/quaternion-0.0.95.1.AppImage"
+    }, {
+        "name": "retroshare",
+        "version": "0.6.4",
+        "description": "RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.",
+        "url": "https://download.opensuse.org/repositories/network:/retroshare/AppImage/retroshare-gui-0.6.4-latest-x86_64.AppImage"
+    }, {
+        "name": "revolt",
         "version": "1.0.6",
-        "description": "Open source user-first chat platform..",
+        "description": "Open source user-first chat platform.",
         "url": "https://github.com/revoltchat/desktop/releases/download/v1.0.6/Revolt-1.0.6.AppImage"
     }, {
         "name": "ricochet-refresh",
@@ -339,6 +439,16 @@
         "version": "3.30.3018",
         "description": "Wire is an encrypted communication and collaboration platform, based on edge computing and zero trust architectur.",
         "url": "https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.30.3018/Wire-3.30.3018_x86_64.AppImage"
+    }, {
+        "name": "yesplaymusic",
+        "version": "0.4.7",
+        "description": "High Appearance Third-Party Netease CloudMusic Player",
+        "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
+    }, {
+        "name": "ytmdesktop",
+        "version": "1.13.0",
+        "description": "A Desktop App for YouTube Music",
+        "url": "https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.13.0/YouTube-Music-Desktop-App-1.13.0.AppImage"
     }, {
         "name": "zoom",
         "version": "5.13.7.683",
