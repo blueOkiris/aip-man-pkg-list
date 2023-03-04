@@ -278,7 +278,7 @@
         "name": "notes",
         "version": "2.0.0",
         "description": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
-        "url": "https://github.com/nuttyartist/notes/releases/latest/download/Notes-x86_64.appimage"
+        "url": "https://github.com/nuttyartist/notes/releases/download/v2.0.0/Notes-x86_64.appimage"
     }, {
         "name": "notesnook",
         "version": "2.4.3",
