@@ -323,7 +323,7 @@
         "name": "pkg2appimage",
         "version": "1807",
         "description": "Generate AppImages from existing binary packages.",
-        "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/pkg2appimage-1807/pkg2appimage-1807-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
@@ -403,7 +403,7 @@
         "name": "spotify",
         "version": "1.1.84.716",
         "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
-        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
+        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/1.1.84.716-2/Spotify-1.1.84.716-2-x86_64.AppImage"
     }, {
         "name": "standard-notes",
         "version": "3.149.5",
