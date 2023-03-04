@@ -51,7 +51,7 @@
         "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage"    
     }, {
         "name": "bitwarden",
-        "version": "dekstop-v2023.2.0",
+        "version": "desktop-v2023.2.0",
         "description": "Open source password management solutions for individuals, teams, and business organizations.",
         "url": "https://vault.bitwarden.com/download/?app=desktop&platform=linux"
     }, {
@@ -63,7 +63,7 @@
         "name": "boostnote",
         "version": "0.23.1",
         "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
-        "url": "https://github.com/BoostIO/BoostNote-App/releases/latest/download/boost-note-linux.AppImage"
+        "url": "https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage"
     }, {
         "name": "butterfly",
         "version": "2.90",
