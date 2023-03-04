@@ -178,7 +178,7 @@
         "name": "gimp",
         "version": "2.10.13",
         "description": "Create images and edit photographs.",
-        "url": "https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/gimp-2.10.13/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }, {
         "name": "inkscape",
         "version": "1.2.2",
