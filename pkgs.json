@@ -41,9 +41,9 @@
         "url": "https://files.astrofox.io/download/Astrofox-1.4.0.AppImage"
     }, {
         "name": "audacity",
-        "version": "3.2.4",
+        "version": "3.2.5",
         "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.4/audacity-linux-3.2.4-x64.AppImage"
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.5/audacity-linux-3.2.5-x64.AppImage"
     }, {
         "name": "avidemux",
         "version": "2.8.1",
