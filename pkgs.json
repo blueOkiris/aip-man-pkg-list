@@ -453,7 +453,7 @@
         "name": "zoom",
         "version": "5.13.7.683",
         "description": "Zoom Video Conference",
-        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/zoom-5.13.7.683/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
     }, {
         "name": "zrythm",
         "version": "v1.0.0-beta.4.5.62",
