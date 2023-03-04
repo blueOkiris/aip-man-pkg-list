@@ -66,8 +66,8 @@
         "url": "https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage"
     }, {
         "name": "butterfly",
-        "version": "2.90",
-        "description": "Blender is a FOSS 3D modeling an animation application.",
+        "version": "1.6.1",
+        "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
         "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
