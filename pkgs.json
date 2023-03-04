@@ -146,9 +146,9 @@
         "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.2.4/Ferdium-linux-Portable-6.2.4-x86_64.AppImage"
     }, {
         "name": "firefox",
-        "version": "110",
+        "version": "110.1",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-110.0.r20230214051806-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-110.0.r20230227191043-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
