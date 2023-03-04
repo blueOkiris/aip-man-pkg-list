@@ -318,7 +318,7 @@
         "name": "picocrypt",
         "version": "1.31",
         "description": "A very small, very simple, yet very secure encryption tool.",
-        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/latest/Picocrypt.AppImage"
+        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/1.31/Picocrypt.AppImage"
     }, {
         "name": "pkg2appimage",
         "version": "1807",
