@@ -83,7 +83,7 @@
         "name": "chatterino",
         "version": "2.4.1",
         "description": "Chat client for https://twitch.tv.",
-        "url": "https://github.com/Chatterino/chatterino2/releases/latest/download/Chatterino-x86_64.AppImage"
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.1/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
         "version": "0.99.54",
