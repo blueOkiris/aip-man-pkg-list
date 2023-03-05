@@ -26,9 +26,9 @@
         "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
     }, {
         "name": "appimaged",
-        "version": "754",
+        "version": "765.1",
         "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
-        "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-754-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/appimaged-765/appimaged-765-x86_64.AppImage"
     }, {
         "name": "appimagetool",
         "version": "13",
@@ -41,9 +41,9 @@
         "url": "https://files.astrofox.io/download/Astrofox-1.4.0.AppImage"
     }, {
         "name": "audacity",
-        "version": "3.2.4",
+        "version": "3.2.5",
         "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.4/audacity-linux-3.2.4-x64.AppImage"
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.5/audacity-linux-3.2.5-x64.AppImage"
     }, {
         "name": "avidemux",
         "version": "2.8.1",
@@ -51,7 +51,7 @@
         "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage"    
     }, {
         "name": "bitwarden",
-        "version": "dekstop-v2023.2.0",
+        "version": "desktop-v2023.2.0",
         "description": "Open source password management solutions for individuals, teams, and business organizations.",
         "url": "https://vault.bitwarden.com/download/?app=desktop&platform=linux"
     }, {
@@ -63,11 +63,11 @@
         "name": "boostnote",
         "version": "0.23.1",
         "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
-        "url": "https://github.com/BoostIO/BoostNote-App/releases/latest/download/boost-note-linux.AppImage"
+        "url": "https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage"
     }, {
         "name": "butterfly",
-        "version": "2.90",
-        "description": "Blender is a FOSS 3D modeling an animation application.",
+        "version": "1.6.1",
+        "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
         "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
@@ -83,7 +83,7 @@
         "name": "chatterino",
         "version": "2.4.1",
         "description": "Chat client for https://twitch.tv.",
-        "url": "https://github.com/Chatterino/chatterino2/releases/latest/download/Chatterino-x86_64.AppImage"
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.1/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
         "version": "0.99.54",
@@ -123,7 +123,7 @@
         "name": "discord",
         "version": "0.0.25",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
-        "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.25-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/discord-0.0.25/Discord-0.0.25-x86_64.AppImage"
     }, {
         "name": "ente",
         "version": "1.6.21",
@@ -146,9 +146,9 @@
         "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.2.4/Ferdium-linux-Portable-6.2.4-x86_64.AppImage"
     }, {
         "name": "firefox",
-        "version": "110",
+        "version": "110.1",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-110.0.r20230214051806-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-110.0.r20230227191043-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
@@ -178,7 +178,7 @@
         "name": "gimp",
         "version": "2.10.13",
         "description": "Create images and edit photographs.",
-        "url": "https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/gimp-2.10.13/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }, {
         "name": "inkscape",
         "version": "1.2.2",
@@ -278,7 +278,7 @@
         "name": "notes",
         "version": "2.0.0",
         "description": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
-        "url": "https://github.com/nuttyartist/notes/releases/latest/download/Notes-x86_64.appimage"
+        "url": "https://github.com/nuttyartist/notes/releases/download/v2.0.0/Notes-x86_64.appimage"
     }, {
         "name": "notesnook",
         "version": "2.4.3",
@@ -318,12 +318,12 @@
         "name": "picocrypt",
         "version": "1.31",
         "description": "A very small, very simple, yet very secure encryption tool.",
-        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/latest/Picocrypt.AppImage"
+        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/1.31/Picocrypt.AppImage"
     }, {
         "name": "pkg2appimage",
         "version": "1807",
         "description": "Generate AppImages from existing binary packages.",
-        "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1807-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/pkg2appimage-1807/pkg2appimage-1807-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
@@ -403,7 +403,7 @@
         "name": "spotify",
         "version": "1.1.84.716",
         "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
-        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.1.84.716-4-x86_64.AppImage"
+        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/1.1.84.716-2/Spotify-1.1.84.716-2-x86_64.AppImage"
     }, {
         "name": "standard-notes",
         "version": "3.149.5",
@@ -453,7 +453,7 @@
         "name": "zoom",
         "version": "5.13.7.683",
         "description": "Zoom Video Conference",
-        "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/zoom-5.13.7.683/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
     }, {
         "name": "zrythm",
         "version": "v1.0.0-beta.4.5.62",
