@@ -21,9 +21,9 @@
         "url": "https://apprepo.de/appimage/download/android-studio"
     }, {
         "name": "appimage-update",
-        "version": "2.0.0",
+        "version": " 2.0.0-alpha-1-20230304",
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
-        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
+        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20230304/AppImageUpdate-x86_64.AppImage"
     }, {
         "name": "appimaged",
         "version": "765.1",
@@ -31,9 +31,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/appimaged-765/appimaged-765-x86_64.AppImage"
     }, {
         "name": "appimagetool",
-        "version": "13",
+        "version": "Continuous",
         "description": "Build AppImages.",
-        "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage"
     }, {
         "name": "astrofox",
         "version": "1.4.0",
@@ -83,7 +83,7 @@
         "name": "chatterino",
         "version": "2.4.1",
         "description": "Chat client for https://twitch.tv.",
-        "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.1/Chatterino-x86_64.AppImage"
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/latest/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
         "version": "0.99.54",
@@ -191,9 +191,9 @@
         "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.2/Heroic-2.6.2.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.9.17",
+        "version": "2.10.8",
         "description": "Open source note taking and to-do application with synchronisation capabilities .",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.9.17/Joplin-2.9.17.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.10.8/Joplin-2.10.8.AppImage"
     }, {
         "name": "kdenlive",
         "version": "22.12.2",
@@ -206,9 +206,9 @@
         "url": "https://download.kde.org/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
     }, {
         "name": "kuro",
-        "version": "8.1.9",
+        "version": "9.0.0",
         "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).",
-        "url": "https://github.com/davidsmorais/kuro/releases/download/v8.1.9/Kuro-8.1.9.AppImage"
+        "url": "https://github.com/davidsmorais/kuro/releases/download/v9.0.0/Kuro-9.0.0.AppImage"
     }, {
         "name": "librecad",
         "version": "2.2.0",
@@ -216,9 +216,9 @@
         "url": "https://github.com/LibreCAD/LibreCAD/releases/download/2.2.0/LibreCAD-2.2.0-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
-        "version": "7.5.0.3",
+        "version": "7.5.1.2",
         "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
-        "url": "https://appimages.libreitalia.org/LibreOffice-7.5.0.3.basic-x86_64.AppImage"
+        "url": "https://appimages.libreitalia.org/LibreOffice-fresh.basic-x86_64.AppImage"
     }, {
         "name": "lmms",
         "version": "1.3.0",
@@ -226,14 +226,14 @@
         "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
     }, {
         "name": "logseq",
-        "version": "0.8.17",
+        "version": "0.8.18",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
-        "url": "https://github.com/logseq/logseq/releases/download/0.8.17/Logseq-linux-x64-0.8.17.AppImage"
+        "url": "https://github.com/logseq/logseq/releases/download/0.8.18/Logseq-linux-x64-0.8.18.AppImage"
     }, {
         "name": "localsend",
-        "version": "1.7.0",
+        "version": "1.8.0",
         "description": "An open source cross-platform alternative to AirDrop",
-        "url": "https://github.com/localsend/localsend/releases/download/v1.7.0/LocalSend-1.7.0.AppImage"
+        "url": "https://github.com/localsend/localsend/releases/download/v1.8.0/LocalSend-1.8.0.AppImage"
     }, {
         "name": "moosync",
         "version": "7.1.0",
@@ -256,9 +256,9 @@
         "url": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim.appimage"
     }, {
         "name": "netbeans",
-        "version": "v16-build1",
+        "version": "v17-build1",
         "description": "Apache NetBeans installers.",
-        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache_NetBeans-16-x86_64.AppImage"
+        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v17-build1/Apache_NetBeans-17-x86_64.AppImage"
     }, {
         "name": "nextcloud",
         "version": "3.7.3",
@@ -266,9 +266,9 @@
         "url": "https://github.com/nextcloud/desktop/releases/download/v3.7.3/Nextcloud-3.7.3-x86_64.AppImage"
     }, {
         "name": "nheko",
-        "version": "0.11.1",
+        "version": "0.11.3",
         "description": "Desktop client for Matrix using Qt and C++20.",
-        "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.1/nheko-v0.11.1-x86_64.AppImage"
+        "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
     }, {
         "name": "notepadnext",
         "version": "0.6",
@@ -281,9 +281,9 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.0.0/Notes-x86_64.appimage"
     }, {
         "name": "notesnook",
-        "version": "2.4.3",
+        "version": "2.4.4",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.3/notesnook_linux_x86_64.AppImage"
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.4/notesnook_linux_x86_64.AppImage"
     }, {
         "name": "nuclear",
         "version": "fd06a3",
@@ -296,9 +296,9 @@
         "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
     }, {
         "name": "obsidian",
-        "version": "1.1.9",
+        "version": "1.1.16",
         "description": "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.",
-        "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian-1.1.9.AppImage"
+        "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/Obsidian-1.1.16.AppImage"
     }, {
         "name": "openscad",
         "version": "2023.0.2",
@@ -366,9 +366,9 @@
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.9.3",
+        "version": "0.9.6",
         "description": "Cross-platform libre handwritten notes app",
-        "url": "https://github.com/adil192/saber/releases/download/v0.9.3/Saber-0.9.3-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.9.6/Saber-0.9.6-x86_64.AppImage"
     }, {
         "name": "schildichat",
         "version": "1.11.22",
@@ -406,27 +406,32 @@
         "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/1.1.84.716-2/Spotify-1.1.84.716-2-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.149.5",
+        "version": "3.150.7",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.149.5/standard-notes-3.149.5-linux-x86_64.AppImage"
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.7/standard-notes-3.150.7-linux-x86_64.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
         "description": "Desktop-based products based on the Eclipse Theia platform.",
         "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage"
     }, {
+        "name": "thorium",
+        "version": "M110.0.5481.178",
+        "description": "Chromium fork with additional features",
+        "url": "https://github.com/Alex313031/thorium/releases/download/M110.0.5481.178/Thorium_Browser_110.0.5481.178_x64.AppImage"
+}, {
         "name": "thunar",
         "version": "4.18.3",
         "description": "Xfce4 file manager.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/thunar-4.18.3/thunar-4.18.3-x86_64.AppImage"
     }, {
         "name": "vscodium",
-        "version": "1.75.1",
+        "version": "1.76.0.23062",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.75.1.23040/VSCodium-1.75.1.23040.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.76.0.23062/VSCodium-1.76.0.23062.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
-        "version": "10.110.18-stable",
+        "version": "10.110.26",
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
         "url": "https://download.wavebox.app/latest/stable/linux/appimage"
     }, {
