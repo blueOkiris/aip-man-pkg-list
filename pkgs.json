@@ -21,7 +21,7 @@
         "url": "https://apprepo.de/appimage/download/android-studio"
     }, {
         "name": "appimage-update",
-        "version": " 2.0.0-alpha-1-20230304",
+        "version": "2.0.0-alpha-1-20230304",
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
         "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20230304/AppImageUpdate-x86_64.AppImage"
     }, {
@@ -83,7 +83,7 @@
         "name": "chatterino",
         "version": "2.4.1",
         "description": "Chat client for https://twitch.tv.",
-        "url": "https://github.com/Chatterino/chatterino2/releases/download/latest/Chatterino-x86_64.AppImage"
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.1/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
         "version": "0.99.54",
