@@ -228,7 +228,7 @@
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
         "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
-        "url": "http://appimages.libreitalia.org/LibreOffice-fresh.basic-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/libreoffice-fresh-basic/LibreOffice-fresh.basic-x86_64.AppImage"
     }, {
         "name": "lmms",
         "version": "1.3.0",
