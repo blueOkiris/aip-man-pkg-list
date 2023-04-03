@@ -201,9 +201,9 @@
         "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.2/Heroic-2.6.2.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.9.17",
+        "version": "2.10.12",
         "description": "Open source note taking and to-do application with synchronisation capabilities .",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.9.17/Joplin-2.9.17.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.10.12/Joplin-2.10.12.AppImage"
     }, {
         "name": "kdenlive",
         "version": "22.12.2",
