@@ -133,7 +133,7 @@
         "name": "discord",
         "version": "0.0.26",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/blob/discord/Discord-0.0.26-x86_64.AppImage?raw=true"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.26-x86_64.AppImage"
     }, {
         "name": "ente",
         "version": "1.6.21",
