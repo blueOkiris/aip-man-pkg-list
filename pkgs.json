@@ -236,9 +236,9 @@
         "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
     }, {
         "name": "logseq",
-        "version": "0.8.17",
+        "version": "0.9.1",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
-        "url": "https://github.com/logseq/logseq/releases/download/0.8.17/Logseq-linux-x64-0.8.17.AppImage"
+        "url": "https://github.com/logseq/logseq/releases/download/0.9.1/Logseq-linux-x64-0.9.1.AppImage"
     }, {
         "name": "localsend",
         "version": "1.7.0",
