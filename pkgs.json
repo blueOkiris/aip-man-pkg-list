@@ -141,9 +141,9 @@
         "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.21/ente-1.6.21.AppImage"    
     }, {
         "name": "etcher",
-        "version": "1.14.3",
+        "version": "1.18.6",
         "description": "Flash OS images to SD cards & USB drives, safely and easily.",
-        "url": "https://github.com/balena-io/etcher/releases/download/v1.14.3/balenaEtcher-1.14.3-x64.AppImage"    
+        "url": "https://github.com/balena-io/etcher/releases/download/v1.18.6/balenaEtcher-1.18.6-x64.AppImage"    
     }, {
         "name": "extraterm",
         "version": "0.70.0",
