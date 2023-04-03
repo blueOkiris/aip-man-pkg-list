@@ -66,9 +66,9 @@
         "url": "https://vault.bitwarden.com/download/?app=desktop&platform=linux"
     }, {
         "name": "blender",
-        "version": "2.90",
+        "version": "2.92",
         "description": "Blender is a FOSS 3D modeling an animation application.",
-        "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage"
+        "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-beta.5/Blender-v2.92-x86_64.AppImage"
     }, {
         "name": "boostnote",
         "version": "0.23.1",
@@ -116,9 +116,9 @@
         "url": "https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.14.4/downloads/packages/CoolerControl-x86_64.AppImage"
     }, {
         "name": "cura",
-        "version": "5.2.2",
+        "version": "5.3.0",
         "description": "Ultimaker Cura is a slicer, an application that prepares your model for 3D printing.",
-        "url": "https://github.com/Ultimaker/Cura/releases/download/5.2.2/UltiMaker-Cura-5.2.2-linux-modern.AppImage"
+        "url": "https://github.com/Ultimaker/Cura/releases/download/5.3.0/UltiMaker-Cura-5.3.0-linux.AppImage"
     }, {
         "name": "czkawka",
         "version": "5.2.2",
@@ -131,9 +131,9 @@
         "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.34.4/DeltaChat-1.34.4.AppImage"
     }, {
         "name": "discord",
-        "version": "0.0.25",
+        "version": "0.0.26",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/discord-0.0.25/Discord-0.0.25-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/discord-0.0.26/Discord-0.0.26-x86_64.AppImage"
     }, {
         "name": "ente",
         "version": "1.6.21",
