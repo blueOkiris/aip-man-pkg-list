@@ -333,7 +333,7 @@
         "name": "pkg2appimage",
         "version": "1807",
         "description": "Generate AppImages from existing binary packages.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/pkg2appimage-1807/pkg2appimage-1807-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/pkg2appimage/pkg2appimage-1807-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
