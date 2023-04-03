@@ -206,9 +206,9 @@
         "url": "https://github.com/laurent22/joplin/releases/download/v2.10.12/Joplin-2.10.12.AppImage"
     }, {
         "name": "kdenlive",
-        "version": "22.12.2",
+        "version": "22.12.3",
         "description": "Kdenlive is a non linear video editor.",
-        "url": "https://download.kde.org/stable/kdenlive/22.12/linux/kdenlive-22.12.2-x86_64.AppImage"
+        "url": "https://download.kde.org/stable/kdenlive/22.12/linux/kdenlive-22.12.3-x86_64.AppImage"
     }, {
         "name": "krita",
         "version": "5.1.5",
