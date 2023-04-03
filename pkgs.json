@@ -25,10 +25,10 @@
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
         "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
     }, {
-        "name": "appimaged",
+        "name": "appimaged-continuous",
         "version": "765.1",
         "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/appimaged-765/appimaged-765-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/appimaged-continuous/appimaged-765-x86_64.AppImage"
     }, {
         "name": "appimaged-stable",
         "version": "754",
