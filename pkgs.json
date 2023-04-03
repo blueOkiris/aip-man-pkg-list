@@ -306,9 +306,9 @@
         "url": "https://github.com/area-of-dev/OBSStudio.AppImage/releases/download/latest/OBSStudio.AppImage"
     }, {
         "name": "obsidian",
-        "version": "1.1.9",
+        "version": "1.1.16",
         "description": "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.",
-        "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.9/Obsidian-1.1.9.AppImage"
+        "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/Obsidian-1.1.16.AppImage"
     }, {
         "name": "openscad",
         "version": "2023.0.2",
