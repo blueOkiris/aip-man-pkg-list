@@ -35,10 +35,10 @@
         "description": "appimaged is an optional daemon that watches locations like ~/bin and ~/Downloads for AppImages and if it detects some, registers them with the system, so that they show up in the menu, have their icons show up, MIME types associated, etc.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/appimaged-stable-754/appimaged-754.AppImage"
     }, {
-        "name": "appimagetool",
-        "version": "2023.3.10.1",
+        "name": "appimagetool-continuous",
+        "version": "2023.3.10",
         "description": "Build AppImages.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/appimagetool-2023.3.10.1/appimagetool-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/appimagetool-continuous/appimagetool-x86_64.AppImage"
     }, {
         "name": "appimagetool-stable",
         "version": "13",
