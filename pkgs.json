@@ -256,9 +256,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/mupdf-1.21.1/mupdf-x86_64-1.21.1.AppImage"
     }, {
         "name": "musescore",
-        "version": "4.0.1",
+        "version": "4.0.2",
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
-        "url": "https://cdn.jsdelivr.net/musescore/v4.0.1/MuseScore-4.0.1.230121751-x86_64.AppImage"
+        "url": "https://cdn.jsdelivr.net/musescore/v4.0.2/MuseScore-4.0.2.230651545-x86_64.AppImage"
     }, {
         "name": "neovim",
         "version": "0.8.3",
