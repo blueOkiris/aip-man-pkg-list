@@ -8,7 +8,7 @@
         "name": "alacritty",
         "version": "0.11.0",
         "description": "A fast, cross-platform, OpenGL terminal emulator.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/alacritty-0.11.0/alacritty-x86_64-0.11.0.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/alacritty/alacritty-x86_64-0.11.0.AppImage"
     }, {
         "name": "allusion",
         "version": "1.0.0-rc.10",
