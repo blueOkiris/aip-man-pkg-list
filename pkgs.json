@@ -425,6 +425,11 @@
         "description": "Desktop-based products based on the Eclipse Theia platform.",
         "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage"
     }, {
+        "name": "thorium",
+        "version": "M111.0.5563.111",
+        "description": "Chromium fork with additional features",
+        "url": "https://github.com/Alex313031/thorium/releases/download/M111.0.5563.111/Thorium_Browser_111.0.5563.111_x64.AppImage"
+    }, {
         "name": "thunar",
         "version": "4.18.3",
         "description": "Xfce4 file manager.",
