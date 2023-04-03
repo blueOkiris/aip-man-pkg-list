@@ -291,9 +291,9 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.0.0/Notes-x86_64.appimage"
     }, {
         "name": "notesnook",
-        "version": "2.4.3",
+        "version": "2.4.6",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.3/notesnook_linux_x86_64.AppImage"
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.6/notesnook_linux_x86_64.AppImage"
     }, {
         "name": "nuclear",
         "version": "fd06a3",
