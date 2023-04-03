@@ -441,9 +441,9 @@
         "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.0.23090/VSCodium-1.77.0.23090.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
-        "version": "10.110.18-stable",
+        "version": "10.111.36-2",
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
-        "url": "https://download.wavebox.app/latest/stable/linux/appimage"
+        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.111.36-2_x86_64.AppImage"
     }, {
         "name": "wezterm",
         "version": "20221119-145034-49b9839f",
