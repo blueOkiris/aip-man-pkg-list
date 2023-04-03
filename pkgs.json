@@ -1,9 +1,9 @@
 [
     {
         "name": "acreom",
-        "version": "1.5.0",
+        "version": "1.5.8",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.5.0/acreom-1.5.0.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.5.8/acreom-1.5.8.AppImage"
     }, {
         "name": "alacritty",
         "version": "0.11.0",
