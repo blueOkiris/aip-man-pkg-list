@@ -216,9 +216,9 @@
         "url": "https://download.kde.org/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
     }, {
         "name": "kuro",
-        "version": "8.1.9",
+        "version": "9.0.0",
         "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).",
-        "url": "https://github.com/davidsmorais/kuro/releases/download/v8.1.9/Kuro-8.1.9.AppImage"
+        "url": "https://github.com/davidsmorais/kuro/releases/download/v9.0.0/Kuro-9.0.0.AppImage"
     }, {
         "name": "librecad",
         "version": "2.2.0",
