@@ -253,7 +253,7 @@
         "name": "mupdf",
         "version": "1.21.1",
         "description": "A simple pdf reader.",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/releases/download/mupdf-1.21.1/mupdf-x86_64-1.21.1.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/mupdf/mupdf-x86_64-1.21.1.AppImage"
     }, {
         "name": "musescore",
         "version": "4.0.2",
