@@ -276,9 +276,9 @@
         "url": "https://github.com/nextcloud/desktop/releases/download/v3.8.0/Nextcloud-3.8.0-x86_64.AppImage"
     }, {
         "name": "nheko",
-        "version": "0.11.1",
+        "version": "0.11.3",
         "description": "Desktop client for Matrix using Qt and C++20.",
-        "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.1/nheko-v0.11.1-x86_64.AppImage"
+        "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
     }, {
         "name": "notepadnext",
         "version": "0.6",
