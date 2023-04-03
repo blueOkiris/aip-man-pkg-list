@@ -266,9 +266,9 @@
         "url": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim.appimage"
     }, {
         "name": "netbeans",
-        "version": "v16-build1",
+        "version": "v17-build1",
         "description": "Apache NetBeans installers.",
-        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache_NetBeans-16-x86_64.AppImage"
+        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache_NetBeans-17-x86_64.AppImage"
     }, {
         "name": "nextcloud",
         "version": "3.7.4",
