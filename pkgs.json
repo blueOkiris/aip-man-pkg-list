@@ -416,9 +416,9 @@
         "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/1.1.84.716-2/Spotify-1.1.84.716-2-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.149.5",
+        "version": "3.150.38",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.149.5/standard-notes-3.149.5-linux-x86_64.AppImage"
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.38/standard-notes-3.150.38-linux-x86_64.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
