@@ -316,9 +316,9 @@
         "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.02.15.ai13654-x86_64.AppImage"
     }, {
         "name": "openshot",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "description": "OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.",
-        "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.0.0/OpenShot-v3.0.0-x86_64.AppImage"
+        "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86_64.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -376,24 +376,24 @@
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.10.0",
+        "version": "0.11.3",
         "description": "Cross-platform libre handwritten notes app",
         "url": "https://github.com/adil192/saber/releases/download/v0.11.3/Saber-0.11.3-x86_64.AppImage"
     }, {
         "name": "schildichat",
-        "version": "1.11.22",
+        "version": "1.11.26-sc.1",
         "description": "SchildiChat Desktop is a fork of Element, popular Matrix messenger",
         "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.26-sc.1/SchildiChat-1.11.26-sc.1.AppImage"
     }, {
         "name": "shotcut",
-        "version": "22.12.21",
+        "version": "23.04.03",
         "description": "Shotcut - a free, open source, cross-platform video editor",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v22.12.21/shotcut-linux-x86_64-221221.AppImage"
+        "url": "https://github.com/mltframework/shotcut/releases/download/v23.04.03/shotcut-linux-x86_64-230403.AppImage"
     }, {
         "name": "session",
-        "version": "1.10.7",
+        "version": "1.10.8",
         "description": "Session Desktop - Onion routing based messenger",
-        "url": "https://github.com/oxen-io/session-desktop/releases/download/v1.10.7/session-desktop-linux-x86_64-1.10.7.AppImage"
+        "url": "https://github.com/oxen-io/session-desktop/releases/download/v1.10.8/session-desktop-linux-x86_64-1.10.8.AppImage"
     }, {
         "name": "simplenote",
         "version": "2.21.0",
