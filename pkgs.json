@@ -383,7 +383,7 @@
         "name": "schildichat",
         "version": "1.11.22",
         "description": "SchildiChat Desktop is a fork of Element, popular Matrix messenger",
-        "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.22-sc.1/SchildiChat-1.11.22-sc.1.AppImage"
+        "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.26-sc.1/SchildiChat-1.11.26-sc.1.AppImage"
     }, {
         "name": "shotcut",
         "version": "22.12.21",
