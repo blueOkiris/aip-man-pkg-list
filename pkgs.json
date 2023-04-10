@@ -61,9 +61,9 @@
         "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage"    
     }, {
         "name": "bitwarden",
-        "version": "desktop-v2023.2.0",
+        "version": "desktop-v2023.3.2",
         "description": "Open source password management solutions for individuals, teams, and business organizations.",
-        "url": "https://vault.bitwarden.com/download/?app=desktop&platform=linux"
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.3.2/Bitwarden-2023.3.2-x86_64.AppImage"
     }, {
         "name": "blender",
         "version": "2.92",
@@ -121,7 +121,7 @@
         "url": "https://github.com/Ultimaker/Cura/releases/download/5.3.0/UltiMaker-Cura-5.3.0-linux.AppImage"
     }, {
         "name": "czkawka",
-        "version": "5.2.2",
+        "version": "5.1.0",
         "description": "Multi functional app to find duplicates, empty folders, similar images etc..",
         "url": "https://github.com/qarmin/czkawka/releases/download/5.1.0/linux_czkawk_gui.AppImage"
     }, {
