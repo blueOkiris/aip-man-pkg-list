@@ -45,6 +45,11 @@
         "description": "Build AppImages.",
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
+        "name": "arduino-ide",
+        "version": "2.0.4",
+        "description": "Arduino is a development environment that implements the Processing/Wiring language.",
+        "url": "https://github.com/arduino/arduino-ide/releases/download/2.0.4/arduino-ide_2.0.4_Linux_64bit.AppImage"
+    }, {
         "name": "astrofox",
         "version": "1.4.0",
         "description": "Astrofox is a motion graphics program that lets you turn audio into amazing videos.",
@@ -136,9 +141,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.26-x86_64.AppImage"
     }, {
         "name": "ente",
-        "version": "1.6.21",
+        "version": "1.6.24",
         "description": "Desktop app for ente.io.",
-        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.21/ente-1.6.21.AppImage"    
+        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.24/ente-1.6.24.AppImage"    
     }, {
         "name": "etcher",
         "version": "1.18.6",
@@ -146,9 +151,9 @@
         "url": "https://github.com/balena-io/etcher/releases/download/v1.18.6/balenaEtcher-1.18.6-x64.AppImage"    
     }, {
         "name": "extraterm",
-        "version": "0.70.0",
+        "version": "0.71.0",
         "description": "Extraterm is an open source project to build a terminal emulator and expand it with new features to support modern workflows and do more than just act like a glorified teletype.",
-        "url": "https://github.com/sedwards2009/extraterm/releases/download/v0.70.0/ExtratermQt-0.70.0.glibc2.29-x86_64.AppImage"    
+        "url": "https://github.com/sedwards2009/extraterm/releases/download/v0.71.0/ExtratermQt-0.71.0.glibc2.29-x86_64.AppImage"    
     }, {
         "name": "ferdium",
         "version": "6.2.4",
@@ -196,14 +201,14 @@
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
     }, {
         "name": "heroic",
-        "version": "2.6.2",
+        "version": "2.7.0",
         "description": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
-        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.2/Heroic-2.6.2.AppImage"
+        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.7.0/Heroic-2.7.0.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.10.12",
+        "version": "2.10.13",
         "description": "Open source note taking and to-do application with synchronisation capabilities .",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.10.12/Joplin-2.10.12.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.10.13/Joplin-2.10.13.AppImage"
     }, {
         "name": "kdenlive",
         "version": "22.12.3",
@@ -246,9 +251,9 @@
         "url": "https://github.com/localsend/localsend/releases/download/v1.7.0/LocalSend-1.8.0.AppImage"
     }, {
         "name": "moosync",
-        "version": "7.1.0",
+        "version": "8.0.0",
         "description": "Music player capable of playing local audio or from Youtube, Spotify and many more",
-        "url":"https://github.com/Moosync/Moosync/releases/download/v7.1.0/Moosync-7.1.0-linux-x86_64.AppImage"
+        "url": "https://github.com/Moosync/Moosync/releases/download/v8.0.0/Moosync-8.0.0-linux-x86_64.AppImage"
     }, {
         "name": "mupdf",
         "version": "1.21.1",
@@ -258,12 +263,12 @@
         "name": "musescore",
         "version": "4.0.2",
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
-        "url": "https://cdn.jsdelivr.net/musescore/v4.0.2/MuseScore-4.0.2.230651545-x86_64.AppImage"
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651545-x86_64.AppImage"
     }, {
         "name": "neovim",
-        "version": "0.8.3",
+        "version": "0.9.0",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
-        "url": "https://github.com/neovim/neovim/releases/download/v0.8.3/nvim.appimage"
+        "url": "https://github.com/neovim/neovim/releases/download/v0.9.0/nvim.appimage"
     }, {
         "name": "netbeans",
         "version": "v17-build1",
@@ -281,24 +286,24 @@
         "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
     }, {
         "name": "notepadnext",
-        "version": "0.6",
+        "version": "0.6.1",
         "description": "A cross-platform, reimplementation of Notepad++.",
-        "url": "https://github.com/dail8859/NotepadNext/releases/download/v0.6/NotepadNext-x86_64.AppImage"
+        "url": "https://github.com/dail8859/NotepadNext/releases/download/v0.6.1/NotepadNext-x86_64.AppImage"
     }, {
         "name": "notes",
-        "version": "2.0.0",
+        "version": "2.1.0",
         "description": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
-        "url": "https://github.com/nuttyartist/notes/releases/download/v2.0.0/Notes-x86_64.appimage"
+        "url": "https://github.com/nuttyartist/notes/releases/download/v2.1.0/Notes_2.1.0-Qt6.3.2-x86_64.AppImage"
     }, {
         "name": "notesnook",
-        "version": "2.4.6",
+        "version": "2.4.7",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.6/notesnook_linux_x86_64.AppImage"
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.7/notesnook_linux_x86_64.AppImage"
     }, {
         "name": "nuclear",
-        "version": "fd06a3",
+        "version": "15c5eb",
         "description": "Streaming music player that finds free music for you.",
-        "url": "https://github.com/nukeop/nuclear/releases/download/fd06a3/nuclear-fd06a3.AppImage"
+        "url": "https://github.com/nukeop/nuclear/releases/download/15c5eb/nuclear-15c5eb.AppImage"
     }, {
         "name": "obs-studio",
         "version": "29.0.2",
@@ -346,19 +351,19 @@
         "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v2.3.2/Faster_Project_Plus-x86-64.AppImage"
     }, {
         "name": "protonup-qt",
-        "version": "2.7.7",
+        "version": "2.8.0",
         "description": "Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.",
-        "url": "https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.7.7/ProtonUp-Qt-2.7.7-x86_64.AppImage"
+        "url": "https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.8.0/ProtonUp-Qt-2.8.0-x86_64.AppImage"
     }, {
         "name": "pulsar",
-        "version": "1.102.0",
+        "version": "1.103.0",
         "description": "A Community-led Hyper-Hackable Text Editor.",
-        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.102.0/Linux.1.102.0.AppImage"
+        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.103.0/Linux.1.103.0.AppImage"
     }, {
         "name": "quaternion",
-        "version": "0.0.95.1",
+        "version": "0.0.96.1",
         "description": "A Qt5-based IM client for Matrix.",
-        "url": "https://github.com/quotient-im/Quaternion/releases/download/0.0.95.1/quaternion-0.0.95.1.AppImage"
+        "url": "https://github.com/quotient-im/Quaternion/releases/download/0.0.96-beta1/quaternion-0.0.96-beta1.AppImage"
     }, {
         "name": "retroshare",
         "version": "0.6.4",
@@ -411,19 +416,19 @@
         "url": "https://github.com/Speek-App/Speek/releases/download/v1.7.0-release/Speek.Chat-1.7.0-linux-x86_64.AppImage"
     }, {
         "name": "spotify",
-        "version": "1.1.84.716",
+        "version": "1.2.8.923",
         "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
-        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/1.1.84.716-2/Spotify-1.1.84.716-2-x86_64.AppImage"
+        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.2.8.923-1-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.150.38",
+        "version": "3.150.48",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.38/standard-notes-3.150.38-linux-x86_64.AppImage"
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.48/standard-notes-3.150.48-linux-x86_64.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
         "description": "Desktop-based products based on the Eclipse Theia platform.",
-        "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage"
+        "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage&r=1"
     }, {
         "name": "thorium",
         "version": "M111.0.5563.111",
@@ -436,19 +441,19 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/thunar/thunar-4.18.3-x86_64.AppImage"
     }, {
         "name": "vscodium",
-        "version": "1.77.0",
+        "version": "1.77.2.23101",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.0.23090/VSCodium-1.77.0.23090.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.2.23101/VSCodium-1.77.2.23101.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
-        "version": "10.111.36-2",
+        "version": "10.112.6-2",
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
-        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.111.36-2_x86_64.AppImage"
+        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.112.6-2_x86_64.AppImage"
     }, {
         "name": "wezterm",
-        "version": "20221119-145034-49b9839f",
+        "version": "20230408-112425-69ae8472",
         "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.",
-        "url": "https://github.com/wez/wezterm/releases/download/20221119-145034-49b9839f/WezTerm-20221119-145034-49b9839f-Ubuntu18.04.AppImage"
+        "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
     }, {
         "name": "wire",
         "version": "3.30.3018",
@@ -460,19 +465,9 @@
         "description": "High Appearance Third-Party Netease CloudMusic Player",
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
-        "name": "ytmdesktop",
-        "version": "1.13.0",
-        "description": "A Desktop App for YouTube Music",
-        "url": "https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.13.0/YouTube-Music-Desktop-App-1.13.0.AppImage"
-    }, {
         "name": "zoom",
         "version": "5.13.7.683",
         "description": "Zoom Video Conference",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/zoom/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
-    }, {
-        "name": "zrythm",
-        "version": "v1.0.0-beta.4.5.62",
-        "description": "Zrythm is a digital audio workstation designed to be featureful and easy to use",
-        "url": "https://www.zrythm.org/downloads/zrythm-trial-1.0.0.beta.4.5.62-x86_64.AppImage"
     }
 ]
