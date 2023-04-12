@@ -168,7 +168,7 @@
         "name": "filen",
         "version": "2.0.16",
         "description": "Zero knowledge end-to-end encrypted cloud storage.",
-        "url": " https://cdn.filen.io/desktop/release/filen_x86_64.AppImage
+        "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage"
     }, { 
         "name": "firefox",
         "version": "110.1",
@@ -229,7 +229,6 @@
         "version": "2.36.0",
         "description": "Crypto trading terminal with smart orders.",
         "url": "https://download.hypertrader.app/HyperTrader-2.36.0.AppImage"
-
     }, {
         "name": "joplin",
         "version": "2.10.13",
@@ -274,7 +273,17 @@
         "name": "localsend",
         "version": "1.8.0",
         "description": "An open source cross-platform alternative to AirDrop",
-        "url": "https://github.com/localsend/localsend/releases/download/v1.7.0/LocalSend-1.8.0.AppImage"
+        "url": "https://github.com/localsend/localsend/releases/download/v1.8.0/LocalSend-1.8.0.AppImage"
+    }, {
+        "name": "lunatask",
+        "version": "1.6.4",
+        "description": "Lunatask is an all-in-one encrypted to-do list, notebook, habit and mood tracker, and journaling app",
+        "url": "https://lunatask.app/download/Lunatask-1.6.4.AppImage"
+    }, {
+        "name": "mendeley",
+        "version": "2.86.0",
+        "description": "Mendeley Reference Manager is a free web and desktop reference management application",
+        "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.86.0-x86_64.AppImage"
     }, {
         "name": "moosync",
         "version": "8.0.0",
