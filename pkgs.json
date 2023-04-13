@@ -1,5 +1,10 @@
 [
     {
+        "name": "86box",
+        "version": "1.5.8",
+        "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
+        "url": "https://github.com/Acreom/releases/releases/download/v1.5.8/acreom-1.5.8.AppImage"
+    }, {
         "name": "acreom",
         "version": "1.5.8",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
@@ -200,9 +205,14 @@
         "description": "FreeCAD is a parametric 3D modeler.",
         "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.20.2/FreeCAD_0.20.2-2022-12-27-conda-Linux-x86_64-py310.AppImage"
     }, {
+        "name": "GameHub",
+        "version": "0.16.3-2-master",
+        "description": "GameHub is a unified library for all your games.",
+        "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-2-master/GameHub-jammy-0.16.3-2-master-9327885-x86_64.AppImage"
+    }, {
         "name": "gaphor",
-        "version": "Gaphor is the simple modeling tool.",
-        "description": "FreeCAD is a parametric 3D modeler.",
+        "version": "2.18.0",
+        "description": "Gaphor is the simple modeling tool.",
         "url": "https://github.com/gaphor/gaphor/releases/download/2.18.0/Gaphor-2.18.0-x86_64.AppImage"
     }, {
         "name": "gimp",
