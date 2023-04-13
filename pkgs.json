@@ -300,6 +300,11 @@
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
         "url": "https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651545-x86_64.AppImage"
     }, {
+        "name": "MQTTX",
+        "version": "1.9.1",
+        "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
+        "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.1/MQTTX-1.9.1.AppImage"
+    }, {
         "name": "neovim",
         "version": "0.9.0",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
@@ -350,6 +355,11 @@
         "description": "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.",
         "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/Obsidian-1.1.16.AppImage"
     }, {
+        "name": "onekey",
+        "version": "4.2.1",
+        "description": "Secure, open source and community driven crypto wallet.",
+        "url": "https://web.onekey-asset.com/app-monorepo/4.2.1/OneKey-Wallet-4.2.1-linux-x86_64.AppImage"
+    }, {
         "name": "openscad",
         "version": "2023.0.2",
         "description": "OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and macOS.",
@@ -359,6 +369,11 @@
         "version": "3.1.0",
         "description": "OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.",
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86_64.AppImage"
+    }, {
+        "name": "passy",
+        "version": "1.3.0",
+        "description": "Offline password manager with cross-platform synchronization.",
+        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.3.0/Passy-v1.3.0-Linux-x86_64.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -390,6 +405,11 @@
         "description": "Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.",
         "url": "https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.8.0/ProtonUp-Qt-2.8.0-x86_64.AppImage"
     }, {
+        "name": "pstube",
+        "version": "2.6.0",
+        "description": "Watch and download videos without ads.",
+        "url": "https://github.com/prateekmedia/pstube/releases/download/2.6.0/pstube-linux-2.6.0-x86_64.AppImage"
+    }, {
         "name": "pulsar",
         "version": "1.103.0",
         "description": "A Community-led Hyper-Hackable Text Editor.",
@@ -400,10 +420,15 @@
         "description": "A Qt5-based IM client for Matrix.",
         "url": "https://github.com/quotient-im/Quaternion/releases/download/0.0.96-beta1/quaternion-0.0.96-beta1.AppImage"
     }, {
+        "name": "qView",
+        "version": "5.0",
+        "description": "qView is an image viewer designed with minimalism and usability in mind.",
+        "url": "https://github.com/jurplel/qView/releases/download/5.0/qView-5.0-x86_64.AppImage"
+    }, {
         "name": "retroshare",
-        "version": "0.6.4",
-        "description": "RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.",
-        "url": "https://download.opensuse.org/repositories/network:/retroshare/AppImage/retroshare-gui-0.6.4-latest-x86_64.AppImage"
+        "version": "0.6.6",
+        "description": "RetroShare is a decentralized, private, secure, cross-platform, communication toolkit.",
+        "url": "https://download.opensuse.org/repositories/network:/retroshare/AppImage/retroshare-gui-0.6.6-latest-x86_64.AppImage"
     }, {
         "name": "revolt",
         "version": "1.0.6",
@@ -417,8 +442,13 @@
     }, {
         "name": "saber",
         "version": "0.11.3",
-        "description": "Cross-platform libre handwritten notes app",
+        "description": "Cross-platform libre handwritten notes app.",
         "url": "https://github.com/adil192/saber/releases/download/v0.11.3/Saber-0.11.3-x86_64.AppImage"
+    }, {
+        "name": "sfbrename",
+        "version": "1.0.0",
+        "description": "Bulk file renamer.",
+        "url": "https://github.com/karwler/sfbrename/releases/download/v1.0.0/sfbrename-gtk-1.0.0-x86_64.AppImage"
     }, {
         "name": "schildichat",
         "version": "1.11.26-sc.1",
@@ -437,13 +467,28 @@
     }, {
         "name": "simplenote",
         "version": "2.21.0",
-        "description": "The simplest way to keep notes.",
+        "description": "TSimplenote is an easy way to keep notes, lists, ideas and more.",
         "url": "https://github.com/Automattic/simplenote-electron/releases/download/v2.21.0/Simplenote-linux-2.21.0-x86_64.AppImage"
+    }, {
+        "name": "skrooge",
+        "version": "2.29.0",
+        "description": "Skrooge allows you to manage your personal finances, powered by KDE.",
+        "url": "https://download.kde.org/stable/skrooge/skrooge-2.29.0-x86_64.AppImage.mirrorlist"        
+    }, {
+        "name": "sleek",
+        "version": "1.3.1",
+        "description": "sleek is an open-source (FOSS) todo manager based on the todo.txt syntax.",
+        "url": "https://github.com/ransome1/sleek/releases/download/v1.3.1/sleek-1.3.1.AppImage"
     }, {
         "name": "slippi-launcher",
         "version": "2.8.1",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.8.1/Slippi-Launcher-2.8.1-x86_64.AppImage"
+    }, {
+        "name": "sonixd",
+        "version": "0.15.5",
+        "description": "A full-featured Subsonic/Jellyfin compatible desktop music player.",
+        "url": "https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-x86_64.AppImage"
     }, {
         "name": "speek",
         "version": "1.7.0",
@@ -460,6 +505,11 @@
         "description": "End-to-end encrypted notes app.",
         "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.48/standard-notes-3.150.48-linux-x86_64.AppImage"
     }, {
+        "name": "starc",
+        "version": "0.4.5",
+        "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
+        "url": "https://github.com/story-apps/starc/releases/download/v0.4.5/starc-setup.AppImage"
+    }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
         "description": "Desktop-based products based on the Eclipse Theia platform.",
@@ -475,6 +525,21 @@
         "description": "Xfce4 file manager.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/thunar/thunar-4.18.3-x86_64.AppImage"
     }, {
+        "name": "tutanota",
+        "version": "3.112.6",
+        "description": "Tutanota is the secure email service with built-in end-to-end encryption that enables you to communicate securely with anyone on all your devices.",
+        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.112.6/tutanota-desktop-linux.AppImage" 
+    }, {
+        "name": "twake",
+        "version": "1.3.3",
+        "description": "Twake is a secure open source collaboration platform to improve organizational productivity.",
+        "url": "https://github.com/linagora/Twake-Desktop/releases/download/v1.3.3/Setup_Twake_lastest.AppImage" 
+    }, {
+        "name": "vikunja",
+        "version": "0.20.3",
+        "description": "The open-source, self-hostable to-do app.",
+        "url": "https://dl.vikunja.io/desktop/0.20.3/Vikunja%20Desktop-0.20.3.AppImage"
+    }, {
         "name": "vscodium",
         "version": "1.77.2.23101",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
@@ -484,6 +549,16 @@
         "version": "10.112.6-2",
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
         "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.112.6-2_x86_64.AppImage"
+    }, {
+        "name": "WebCord",
+        "version": "4.2.0",
+        "description": "A Discord and SpaceBar electron-based client implemented without Discord API.",
+        "url": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-x64.AppImage"
+    }, {
+        "name": "weektodo",
+        "version": "2.0.0",
+        "description": "WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy",
+        "url": "https://github.com/manuelernestog/weektodo/releases/download/v2.0.0/WeekToDo-2.0.0.AppImage"
     }, {
         "name": "wezterm",
         "version": "20230408-112425-69ae8472",
@@ -495,14 +570,24 @@
         "description": "Wire is an encrypted communication and collaboration platform, based on edge computing and zero trust architectur.",
         "url": "https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.30.3018/Wire-3.30.3018_x86_64.AppImage"
     }, {
+        "name": "xonsh",
+        "version": "0.13.4",
+        "description": "Python-powered, cross-platform, Unix-gazing shell.",
+        "url": "https://github.com/xonsh/xonsh/releases/download/0.13.4/xonsh-x86_64.AppImage"
+    }, {
+        "name": "xournalapp",
+        "version": "1.1.3",
+        "description": "Xournal++ is a handwriting notetaking software with PDF annotation support.",
+        "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.1.3/xournalpp-1.1.3-x86_64.AppImage"
+    }, {
         "name": "yesplaymusic",
         "version": "0.4.7",
-        "description": "High Appearance Third-Party Netease CloudMusic Player",
+        "description": "High Appearance Third-Party Netease CloudMusic Player.",
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "zoom",
         "version": "5.13.7.683",
-        "description": "Zoom Video Conference",
+        "description": "Zoom Video Conference.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/zoom/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
     }
 ]
