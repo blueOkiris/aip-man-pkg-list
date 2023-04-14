@@ -75,6 +75,11 @@
         "description": "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.",
         "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage"    
     }, {
+        "name": "Beekeeper-Studio",
+        "version": "3.9.8",
+        "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
+        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.8/Beekeeper-Studio-3.9.8.AppImage"
+    }, {
         "name": "bitwarden",
         "version": "desktop-v2023.3.2",
         "description": "Open source password management solutions for individuals, teams, and business organizations.",
@@ -146,9 +151,9 @@
         "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB_Browser_for_SQLite-v3.12.2-x86_64.AppImage"
     }, {
         "name": "deltachat",
-        "version": "1.34.4",
+        "version": "1.36.1",
         "description": "Email-based instant messaging for Desktop.",
-        "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.34.4/DeltaChat-1.34.4.AppImage"
+        "url": "https://download.delta.chat/desktop/v1.36.1/DeltaChat-1.36.1.AppImage"
     }, {
         "name": "digiKam",
         "version": "7.10.0",
@@ -159,6 +164,21 @@
         "version": "0.0.26",
         "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.26-x86_64.AppImage"
+    }, {
+        "name": "drawio",
+        "version": "21.1.2",
+        "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
+        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/drawio-x86_64-21.1.2.AppImage"
+    }, {
+        "name": "DuckStation",
+        "version": "preview",
+        "description": "DuckStation is an simulator/emulator of the Sony PlayStation console, focusing on playability, speed, and long-term maintainability.",
+        "url": "https://github.com/stenzek/duckstation/releases/download/preview/DuckStation-x64.AppImage"
+    }, {
+        "name": "Elk",
+        "version": "0.4.0",
+        "description": "Native version of Elk, a nimble Mastodon web.",
+        "url": "https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_linux_x86_64.AppImage"
     }, {
         "name": "ente",
         "version": "1.6.24",
@@ -235,6 +255,11 @@
         "description": "Create images and edit photographs.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/gimp/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }, {
+        "name": "gdevelop",
+        "version": "5.1.160",
+        "description": "GDevelop is a full-featured, no-code, open-source game development software.",
+        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.160/GDevelop-5-5.1.160.AppImage"        
+    }, {
         "name": "gdlauncher",
         "version": "1.1.30",
         "description": "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience.",
@@ -244,6 +269,11 @@
         "version": "1.2.2",
         "description": "A Free and open source vector graphics editor.",
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
+    }, {
+        "name": "insomnia",
+        "version": "2023.1.0",
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
+        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.1.0/Insomnia.Core-2023.1.0.AppImage"
     }, {
         "name": "heroic",
         "version": "2.7.0",
@@ -269,6 +299,11 @@
         "version": "22.12.3",
         "description": "Kdenlive is a non linear video editor.",
         "url": "https://download.kde.org/stable/kdenlive/22.12/linux/kdenlive-22.12.3-x86_64.AppImage"
+    }, {
+        "name": "kopia",
+        "version": "0.13.0-rc1",
+        "description": "Kopia is a fast and secure open-source backup/restore tool.",
+        "url": "https://github.com/kopia/kopia/releases/download/v0.13.0-rc1/KopiaUI-0.13.0-rc1.AppImage"
     }, {
         "name": "krita",
         "version": "5.1.5",
@@ -304,6 +339,11 @@
         "version": "0.9.1",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
         "url": "https://github.com/logseq/logseq/releases/download/0.9.1/Logseq-linux-x64-0.9.1.AppImage"
+    }, {
+        "name": "Login_Manager_Settings",
+        "version": "3.1",
+        "description": "A settings app for GNOME's Login Manager, GDM.",
+        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.1/Login_Manager_Settings.AppImage"    
     }, {
         "name": "localsend",
         "version": "1.8.0",
@@ -490,11 +530,26 @@
         "description": "A Community-led Hyper-Hackable Text Editor.",
         "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.103.0/Linux.1.103.0.AppImage"
     }, {
+        "name": "qbittorrent",
+        "version": "4.5.2",
+        "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent.",
+        "url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent-4.5.2_lt20_x86_64.AppImage"
+    }, {
         "name": "QElectrotech",
         "version": "0.100.0",
         "description": "QElectroTech is a free software to create electric diagrams.",
         "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
     }, {
+        "name": "QOwnNotes",
+        "version": "23.4.3",
+        "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.3/QOwnNotes-x86_64.AppImage"
+    }, {
+        "name": "qtractor",
+        "version": "0.9.33",
+        "description": "Qtractor is an Audio/MIDI multi-track sequencer application.",
+        "url": "https://sourceforge.net/projects/qtractor/files/qtractor/0.9.33/qtractor-0.9.33-76.1.x86_64.AppImage"
+    }, {    
         "name": "quaternion",
         "version": "0.0.96.1",
         "description": "A Qt5-based IM client for Matrix.",
@@ -519,6 +574,11 @@
         "version": "3.0.15-release",
         "description": "Anonymous peer-to-peer instant messaging.",
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
+    }, {
+        "name": "RPCS3",
+        "version": "0.0.18-12817-fff0c96b",
+        "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-fff0c96bf38d1ada075e524c4753a7f263c06449/rpcs3-v0.0.18-12817-fff0c96b_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.11.3",
@@ -577,13 +637,18 @@
     }, {
         "name": "spotify",
         "version": "1.2.8.923",
-        "description": "Spotify is a music streaming service. Requires libcurl-gnutls.so.4. May have to create a soft link to libcurl.so.4.",
+        "description": "Spotify is a music streaming service.",
         "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.2.8.923-1-x86_64.AppImage"
     }, {
+        "name": "spotube",
+        "version": "2.7.1",
+        "description": "Open source Spotify client that doesn't require Premium nor uses Electron.",
+        "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
+    }, {
         "name": "standard-notes",
-        "version": "3.150.48",
+        "version": "3.150.53",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.48/standard-notes-3.150.48-linux-x86_64.AppImage"
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.53/standard-notes-3.150.53-linux-x86_64.AppImage"
     }, {
         "name": "starc",
         "version": "0.4.5",
@@ -650,10 +715,20 @@
         "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.",
         "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
     }, {
+        "name": "Whalebird",
+        "version": "5.0.3",
+        "description": "An Electron based Mastodon, Pleroma, and Misskey client for Windows, Mac, and Linux.",
+        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.3/Whalebird-5.0.3-linux-x64.AppImage"
+    }, {
         "name": "wire",
         "version": "3.30.3018",
-        "description": "Wire is an encrypted communication and collaboration platform, based on edge computing and zero trust architectur.",
+        "description": "Wire is an encrypted communication and collaboration platform, based on edge computing and zero trust architecture.",
         "url": "https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.30.3018/Wire-3.30.3018_x86_64.AppImage"
+    }, {
+        "name": "xemu",
+        "version": "0.7.86",
+        "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development).",
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.86/xemu-v0.7.86-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -669,6 +744,11 @@
         "version": "0.4.7",
         "description": "High Appearance Third-Party Netease CloudMusic Player.",
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
+    }, {
+        "name": "yuzu-emu",
+        "version": "mainline-0-1403",
+        "description": "Yuzu is open-source, Nintendo Switch emulator.",
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1403/yuzu-mainline-20230414-33cca53c7.AppImage"
     }, {
         "name": "zoom",
         "version": "5.13.7.683",
