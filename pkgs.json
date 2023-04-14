@@ -75,6 +75,11 @@
         "description": "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.",
         "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage"    
     }, {
+        "name": "axolotl",
+        "version": "1.6.0",
+        "description": "A Signal compatible cross plattform client written in Go and VueJS.",
+        "url": "https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage"
+    }, {
         "name": "Beekeeper-Studio",
         "version": "3.9.8",
         "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
@@ -126,14 +131,19 @@
         "url": "https://cinelerra-gg.org/download/images/CinGG-20230101-x86_64.AppImage"
     }, {
         "name": "cinny",
-        "version": "2.2.4",
+        "version": "2.2.6",
         "description": "Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.",
-        "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.4/Cinny_desktop-x86_64.AppImage"
+        "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.6/Cinny_desktop-x86_64.AppImage"
     }, {
         "name": "coolercontrol",
         "version": "0.14.4",
-        "description": "A program to monitor and control your cooling devices",
+        "description": "A program to monitor and control your cooling devices.",
         "url": "https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.14.4/downloads/packages/CoolerControl-x86_64.AppImage"
+    }, {
+        "name": "cryptomator",
+        "version": "1.7.5",
+        "description": "Multi-platform transparent client-side encryption of your files in the cloud.",
+        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.7.5/cryptomator-1.7.5-x86_64.AppImage"
     }, {
         "name": "cura",
         "version": "5.3.0",
@@ -174,6 +184,11 @@
         "version": "preview",
         "description": "DuckStation is an simulator/emulator of the Sony PlayStation console, focusing on playability, speed, and long-term maintainability.",
         "url": "https://github.com/stenzek/duckstation/releases/download/preview/DuckStation-x64.AppImage"
+    }, {
+        "name": "ecode",
+        "version": "0.4.8",
+        "description": "ecode is a lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.",
+        "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-x86_64.AppImage"
     }, {
         "name": "Elk",
         "version": "0.4.0",
@@ -275,6 +290,11 @@
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
         "url": "https://github.com/Kong/insomnia/releases/download/core%402023.1.0/Insomnia.Core-2023.1.0.AppImage"
     }, {
+        "name": "helix",
+        "version": "23.03",
+        "description": "A post-modern modal text editor.",
+        "url": "https://github.com/helix-editor/helix/releases/download/23.03/helix-23.03-x86_64.AppImage"
+    }, {
         "name": "heroic",
         "version": "2.7.0",
         "description": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
@@ -314,6 +334,11 @@
         "version": "9.0.0",
         "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).",
         "url": "https://github.com/davidsmorais/kuro/releases/download/v9.0.0/Kuro-9.0.0.AppImage"
+    }, {
+        "name": "lens",
+        "version": "2023.4.60821",
+        "description": "Lens is the way the world runs Kubernetes.",
+        "url": "https://api.k8slens.dev/binaries/Lens-2023.4.60821-latest.x86_64.AppImage"
     }, {
         "name": "librecad",
         "version": "2.2.0",
@@ -690,10 +715,20 @@
         "description": "The open-source, self-hostable to-do app.",
         "url": "https://dl.vikunja.io/desktop/0.20.3/Vikunja%20Desktop-0.20.3.AppImage"
     }, {
+        "name": "viper",
+        "version": "v1.7.2",
+        "description": "Launcher+Updater for TitanFall 2 Northstar.",
+        "url": "https://github.com/0neGal/viper/releases/download/v1.7.2/Viper-1.7.2.AppImage"
+    }, {
         "name": "vscodium",
         "version": "1.77.2.23101",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
         "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.2.23101/VSCodium-1.77.2.23101.glibc2.17-x86_64.AppImage"
+    }, {
+        "name": "vup",
+        "version": "0.12.0",
+        "description": "Vup is an open-source end-to-end-encrypted cloud storage app powered by the S5 Network.",
+        "url": "https://github.com/vup-app/vup/releases/download/v0.12.0/Vup-0.12.0-BETA-Linux.AppImage"
     }, {
         "name": "wavebox",
         "version": "10.112.6-2",
@@ -754,5 +789,10 @@
         "version": "5.13.7.683",
         "description": "Zoom Video Conference.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/zoom/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
+    }, {
+        "name": "zulip",
+        "version": "5.9.5",
+        "description": "Zulip combines the immediacy of real-time chat with an email threading model.",
+        "url": "https://github.com/zulip/zulip-desktop/releases/download/v5.9.5/Zulip-5.9.5-x86_64.AppImage"
     }
 ]
