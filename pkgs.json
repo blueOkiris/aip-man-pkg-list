@@ -529,6 +529,11 @@
         "version": "1807",
         "description": "Generate AppImages from existing binary packages.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/pkg2appimage/pkg2appimage-1807-x86_64.AppImage"
+}, {
+        "name": "Play!",
+        "version": "0.58",
+        "description": "Play! is a portable PlayStation2 emulator.",
+        "url": "https://purei.org/downloads/play/stable/0.58/Play!-38d3775a-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
@@ -584,6 +589,11 @@
         "version": "5.0",
         "description": "qView is an image viewer designed with minimalism and usability in mind.",
         "url": "https://github.com/jurplel/qView/releases/download/5.0/qView-5.0-x86_64.AppImage"
+    }, {
+        "name": "Rare",
+        "version": "1.9.5",
+        "description": "Rare is a graphical interface for Legendary, a command line alternative to Epic Games launcher, based on PyQt5.",
+        "url": "https://github.com/Dummerle/Rare/releases/download/1.9.5/Rare-1.9.5.AppImage"
     }, {
         "name": "retroshare",
         "version": "0.6.6",
@@ -679,6 +689,11 @@
         "version": "0.4.5",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
         "url": "https://github.com/story-apps/starc/releases/download/v0.4.5/starc-setup.AppImage"
+    }, {
+        "name": "teams-for-linux",
+        "version": "1.0.60",
+        "description": "Unofficial Microsoft Teams for Linux client.",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.60/teams-for-linux-1.0.60.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
