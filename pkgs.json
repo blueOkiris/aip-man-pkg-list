@@ -125,6 +125,11 @@
         "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
         "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.55/CherryTree-0.99.55-x86_64.AppImage"
     }, {
+        "name": "Chiaki",
+        "version": "2.1.1",
+        "description": "Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, NetBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.",
+        "url": "https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.1.1/Chiaki-v2.1.1-Linux-x86_64.AppImage"
+    }, {
         "name": "cinelerra-gg",
         "version": "20230101",
         "description": "Cinelerra GG Infinity is a free and open source video editing software for Linux.",
