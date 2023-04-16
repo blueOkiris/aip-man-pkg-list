@@ -166,9 +166,9 @@
         "url": "https://download.delta.chat/desktop/v1.36.1/DeltaChat-1.36.1.AppImage"
     }, {
         "name": "digiKam",
-        "version": "7.10.0",
+        "version": "8.0.0",
         "description": "Professional Photo Management with the Power of Open Source.",
-        "url": "https://download.kde.org/stable/digikam/7.10.0/digiKam-7.10.0-x86-64.appimage.mirrorlist"
+        "url": "https://download.kde.org/stable/digikam/8.0.0/digiKam-8.0.0-x86-64.appimage"
     }, {
         "name": "discord",
         "version": "0.0.26",
@@ -800,12 +800,17 @@
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
         "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1403/yuzu-mainline-20230414-33cca53c7.AppImage"
     }, {
+        "name": "Zettlr",
+        "version": "2.3.0",
+        "description": "A Markdown Editor for the 21st century.",
+        "url": "https://github.com/Zettlr/Zettlr/releases/download/v2.3.0/Zettlr-2.3.0-x86_64.AppImage"
+    }, {
         "name": "zoom",
         "version": "5.13.7.683",
         "description": "Zoom Video Conference.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/zoom/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
     }, {
-        "name": "zulip",
+        "name": "Zulip",
         "version": "5.9.5",
         "description": "Zulip combines the immediacy of real-time chat with an email threading model.",
         "url": "https://github.com/zulip/zulip-desktop/releases/download/v5.9.5/Zulip-5.9.5-x86_64.AppImage"
