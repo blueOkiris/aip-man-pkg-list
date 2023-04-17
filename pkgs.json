@@ -285,6 +285,11 @@
         "description": "Create images and edit photographs.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/gimp/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }, {
+        "name": "GitHubDesktop",
+        "version": "3.2.1-linux1",
+        "description": "Simple collaboration from your desktop.",
+        "url": "https://github.com/shiftkey/desktop/releases/download/release-3.2.1-linux1/GitHubDesktop-linux-3.2.1-linux1.AppImage"
+    }, {
         "name": "gdevelop",
         "version": "5.1.160",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
@@ -803,7 +808,12 @@
         "name": "twake",
         "version": "1.3.3",
         "description": "Twake is a secure open source collaboration platform to improve organizational productivity.",
-        "url": "https://github.com/linagora/Twake-Desktop/releases/download/v1.3.3/Setup_Twake_lastest.AppImage" 
+        "url": "https://github.com/linagora/Twake-Desktop/releases/download/v1.3.3/Setup_Twake_lastest.AppImage"
+    }, {
+        "name": "upscayl",
+        "version": "2.0.1",
+        "description": "Upscayl - Free and Open Source AI Image Upscaler for.",
+        "url": "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage"
     }, {
         "name": "Vieb",
         "version": "9.7.0",
