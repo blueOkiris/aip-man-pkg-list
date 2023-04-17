@@ -236,9 +236,9 @@
         "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage"
     }, { 
         "name": "firefox",
-        "version": "110.1",
+        "version": "112.0",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-110.0.r20230227191043-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-112.0.r20230406114409-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
@@ -271,9 +271,9 @@
         "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.20.2/FreeCAD_0.20.2-2022-12-27-conda-Linux-x86_64-py310.AppImage"
     }, {
         "name": "GameHub",
-        "version": "0.16.3-2-master",
+        "version": "0.16.3-6-dev",
         "description": "GameHub is a unified library for all your games.",
-        "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-2-master/GameHub-jammy-0.16.3-2-master-9327885-x86_64.AppImage"
+        "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-6-dev/GameHub-jammy-0.16.3-6-dev-0e3146a-x86_64.AppImage"
     }, {
         "name": "gaphor",
         "version": "2.18.0",
@@ -301,9 +301,9 @@
         "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
     }, {
         "name": "insomnia",
-        "version": "2023.1.0",
+        "version": "2023.2.0-beta.1",
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
-        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.1.0/Insomnia.Core-2023.1.0.AppImage"
+        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.2.0-beta.1/Insomnia.Core-2023.2.0-beta.1.AppImage"
     }, {
         "name": "helix",
         "version": "23.03",
@@ -479,6 +479,11 @@
         "version": "0.11.3",
         "description": "Desktop client for Matrix using Qt and C++20.",
         "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
+     }, {
+        "name": "notable",
+        "version": "1.8.4",
+        "description": "The Markdown-based note-taking app.",
+        "url": "https://download.notable.app/?target=appimage"
     }, {
         "name": "notepadnext",
         "version": "0.6.1",
