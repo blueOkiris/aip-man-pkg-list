@@ -190,10 +190,20 @@
         "description": "DuckStation is an simulator/emulator of the Sony PlayStation console, focusing on playability, speed, and long-term maintainability.",
         "url": "https://github.com/stenzek/duckstation/releases/download/preview/DuckStation-x64.AppImage"
     }, {
+        "name": "dust3d",
+        "version": "1.0.0-rc.7",
+        "description": "Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.",
+        "url": "https://github.com/huxingyi/dust3d/releases/download/1.0.0-rc.7/dust3d-1.0.0-rc.7.AppImage"
+    }, {
         "name": "ecode",
         "version": "0.4.8",
         "description": "ecode is a lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.",
         "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-x86_64.AppImage"
+    }, {
+        "name": "eiskaltdcpp",
+        "version": "2.4.2",
+        "description": "EiskaltDC++ is a cross-platform program that uses the Direct Connect and ADC protocols.",
+        "url": "https://sourceforge.net/projects/eiskaltdcpp/files/Linux/eiskaltdcpp-qt-2.4.2-x86_64.AppImage/"
     }, {
         "name": "Elk",
         "version": "0.4.0",
@@ -310,6 +320,11 @@
         "description": "Crypto trading terminal with smart orders.",
         "url": "https://download.hypertrader.app/HyperTrader-2.36.0.AppImage"
     }, {
+        "name": "jitsi-meet",
+        "version": "2023.2.0",
+        "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences.",
+        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.2.0/jitsi-meet-x86_64.AppImage"
+    }, {
         "name": "joplin",
         "version": "2.10.13",
         "description": "Open source note taking and to-do application with synchronisation capabilities .",
@@ -325,6 +340,11 @@
         "description": "Kdenlive is a non linear video editor.",
         "url": "https://download.kde.org/stable/kdenlive/22.12/linux/kdenlive-22.12.3-x86_64.AppImage"
     }, {
+        "name": "KeePassXC",
+        "version": "2.7.4",
+        "description": "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information.",
+        "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.AppImage"
+    }, {
         "name": "kopia",
         "version": "0.13.0-rc1",
         "description": "Kopia is a fast and secure open-source backup/restore tool.",
@@ -335,7 +355,7 @@
         "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
         "url": "https://download.kde.org/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
     }, {
-        "name": "kuro",
+        "name": "Kuro",
         "version": "9.0.0",
         "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).",
         "url": "https://github.com/davidsmorais/kuro/releases/download/v9.0.0/Kuro-9.0.0.AppImage"
@@ -345,7 +365,12 @@
         "description": "Lens is the way the world runs Kubernetes.",
         "url": "https://api.k8slens.dev/binaries/Lens-2023.4.60821-latest.x86_64.AppImage"
     }, {
-        "name": "librecad",
+        "name": "LeoCAD",
+        "version": "23.03",
+        "description": "Design virtual models you can build with LEGO® bricks.",
+        "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
+    }, {
+        "name": "LibreCAD",
         "version": "2.2.0",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
         "url": "https://github.com/LibreCAD/LibreCAD/releases/download/2.2.0/LibreCAD-2.2.0-x86_64.AppImage"
@@ -355,7 +380,7 @@
         "description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw schematics and design printed circuit boards – for makers, students and professionals, from beginners to experts.",
         "url": "https://download.librepcb.org/releases/0.1.7/librepcb-0.1.7-linux-x86_64.AppImage"
     }, {
-        "name": "libreoffice-fresh-basic",
+        "name": "LibreOffice-fresh-basic",
         "version": "7.5.2.2",
         "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/libreoffice-fresh-basic/LibreOffice-fresh.basic-x86_64.AppImage"
@@ -415,6 +440,11 @@
         "description": "A simple pdf reader.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/mupdf/mupdf-x86_64-1.21.1.AppImage"
     }, {
+        "name": "museeks",
+        "version": "0.13.1",
+        "description": "A simple, clean and cross-platform music player.",
+        "url": "https://github.com/martpie/museeks/releases/download/0.13.1/museeks-x86_64.AppImage"
+    }, {
         "name": "musescore",
         "version": "4.0.2",
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
@@ -425,6 +455,11 @@
         "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
         "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.1/MQTTX-1.9.1.AppImage"
     }, {
+        "name": "MyPaint",
+        "version": "2.0.1",
+        "description": "MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.",
+        "url": "https://github.com/mypaint/mypaint/releases/download/v2.0.1/MyPaint-v2.0.1-alt.AppImage"
+    }, {        
         "name": "neovim",
         "version": "0.9.0",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
@@ -608,7 +643,7 @@
         "name": "RawTherapee",
         "version": "5.9",
         "description": "RawTherapee is a powerful, cross-platform raw photo processing system.",
-        "url": https://rawtherapee.com/shared/builds/linux/RawTherapee_5.9.AppImage
+        "url": "https://rawtherapee.com/shared/builds/linux/RawTherapee_5.9.AppImage"
      }, {
         "name": "retroshare",
         "version": "0.6.6",
@@ -680,6 +715,11 @@
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.8.1/Slippi-Launcher-2.8.1-x86_64.AppImage"
     }, {
+        "name": "SMPlayer",
+        "version": "22.7.0",
+        "description": "SMPlayer is a free media player for Windows and Linux with built-in codecs.",
+        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0/SMPlayer-22.7.0-x86_64.AppImage"
+    }, {
         "name": "sonixd",
         "version": "0.15.5",
         "description": "A full-featured Subsonic/Jellyfin compatible desktop music player.",
@@ -709,6 +749,11 @@
         "version": "0.4.5",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
         "url": "https://github.com/story-apps/starc/releases/download/v0.4.5/starc-setup.AppImage"
+    }, {
+        "name": "Storyboarder",
+        "version": "2.1.0",
+        "description": "Storyboarder makes it easy to visualize a story as fast you can draw stick figures.",
+        "url": "https://github.com/wonderunit/storyboarder/releases/download/v2.1.0/Storyboarder-2.1.0-linux-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
         "version": "1.0.60",
