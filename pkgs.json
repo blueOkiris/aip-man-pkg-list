@@ -1,6 +1,6 @@
 [
     {
-        "name": "86Box",
+        "name": "86box",
         "version": "3.11",
         "description": "Emulator of x86-based machines based on PCem.",
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
@@ -55,7 +55,7 @@
         "description": "Arduino is a development environment that implements the Processing/Wiring language.",
         "url": "https://github.com/arduino/arduino-ide/releases/download/2.1.0/arduino-ide_2.1.0_Linux_64bit.AppImage"
     }, {
-        "name": "ArmCord",
+        "name": "armcord",
         "version": "3.1.7",
         "description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
         "url": "https://github.com/ArmCord/ArmCord/releases/download/v3.1.7/ArmCord-3.1.7.AppImage"
@@ -80,7 +80,7 @@
         "description": "A Signal compatible cross plattform client written in Go and VueJS.",
         "url": "https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage"
     }, {
-        "name": "Beekeeper-Studio",
+        "name": "beekeeper-studio",
         "version": "3.9.8",
         "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
         "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.8/Beekeeper-Studio-3.9.8.AppImage"
@@ -125,7 +125,7 @@
         "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
         "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.55/CherryTree-0.99.55-x86_64.AppImage"
     }, {
-        "name": "Chiaki",
+        "name": "chiaki",
         "version": "2.1.1",
         "description": "Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, NetBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.",
         "url": "https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.1.1/Chiaki-v2.1.1-Linux-x86_64.AppImage"
@@ -170,7 +170,7 @@
         "description": "Email-based instant messaging for Desktop.",
         "url": "https://download.delta.chat/desktop/v1.36.1/DeltaChat-1.36.1.AppImage"
     }, {
-        "name": "digiKam",
+        "name": "digikam",
         "version": "8.0.0",
         "description": "Professional Photo Management with the Power of Open Source.",
         "url": "https://download.kde.org/stable/digikam/8.0.0/digiKam-8.0.0-x86-64.appimage"
@@ -185,7 +185,7 @@
         "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
         "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.1.2/drawio-x86_64-21.1.2.AppImage"
     }, {
-        "name": "DuckStation",
+        "name": "duckstation",
         "version": "preview",
         "description": "DuckStation is an simulator/emulator of the Sony PlayStation console, focusing on playability, speed, and long-term maintainability.",
         "url": "https://github.com/stenzek/duckstation/releases/download/preview/DuckStation-x64.AppImage"
@@ -205,7 +205,7 @@
         "description": "EiskaltDC++ is a cross-platform program that uses the Direct Connect and ADC protocols.",
         "url": "https://sourceforge.net/projects/eiskaltdcpp/files/Linux/eiskaltdcpp-qt-2.4.2-x86_64.AppImage/"
     }, {
-        "name": "Elk",
+        "name": "elk",
         "version": "0.4.0",
         "description": "Native version of Elk, a nimble Mastodon web.",
         "url": "https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_linux_x86_64.AppImage"
@@ -260,7 +260,7 @@
         "description": "Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.",
         "url": "https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.AppImage"
     }, {
-        "name": "Frappe-Books",
+        "name": "frappe-books",
         "version": "0.12.0",
         "description": "Free Desktop book-keeping software for small businesses and freelancers.",
         "url": "https://github.com/frappe/books/releases/download/v0.12.0/Frappe-Books-0.12.0.AppImage"
@@ -270,7 +270,7 @@
         "description": "FreeCAD is a parametric 3D modeler.",
         "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.20.2/FreeCAD_0.20.2-2022-12-27-conda-Linux-x86_64-py310.AppImage"
     }, {
-        "name": "GameHub",
+        "name": "gamehub",
         "version": "0.16.3-6-dev",
         "description": "GameHub is a unified library for all your games.",
         "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-6-dev/GameHub-jammy-0.16.3-6-dev-0e3146a-x86_64.AppImage"
@@ -280,12 +280,17 @@
         "description": "Gaphor is the simple modeling tool.",
         "url": "https://github.com/gaphor/gaphor/releases/download/2.18.0/Gaphor-2.18.0-x86_64.AppImage"
     }, {
+        "name": "gdm-settings",
+        "version": "3.1",
+        "description": "A settings app for GNOME's Login Manager, GDM.",
+        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.1/Login_Manager_Settings.AppImage"    
+    }, {
         "name": "gimp",
         "version": "2.10.13",
         "description": "Create images and edit photographs.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/gimp/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }, {
-        "name": "GitHubDesktop",
+        "name": "gitHubdesktop",
         "version": "3.2.1-linux1",
         "description": "Simple collaboration from your desktop.",
         "url": "https://github.com/shiftkey/desktop/releases/download/release-3.2.1-linux1/GitHubDesktop-linux-3.2.1-linux1.AppImage"
@@ -350,7 +355,7 @@
         "description": "Kdenlive is a non linear video editor.",
         "url": "https://download.kde.org/stable/kdenlive/22.12/linux/kdenlive-22.12.3-x86_64.AppImage"
     }, {
-        "name": "KeePassXC",
+        "name": "keepassxc",
         "version": "2.7.4",
         "description": "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information.",
         "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.AppImage"
@@ -365,7 +370,7 @@
         "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
         "url": "https://download.kde.org/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
     }, {
-        "name": "Kuro",
+        "name": "kuro",
         "version": "9.0.0",
         "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao).",
         "url": "https://github.com/davidsmorais/kuro/releases/download/v9.0.0/Kuro-9.0.0.AppImage"
@@ -375,12 +380,12 @@
         "description": "Lens is the way the world runs Kubernetes.",
         "url": "https://api.k8slens.dev/binaries/Lens-2023.4.60821-latest.x86_64.AppImage"
     }, {
-        "name": "LeoCAD",
+        "name": "leocad",
         "version": "23.03",
         "description": "Design virtual models you can build with LEGO® bricks.",
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
-        "name": "LibreCAD",
+        "name": "librecad",
         "version": "2.2.0",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
         "url": "https://github.com/LibreCAD/LibreCAD/releases/download/2.2.0/LibreCAD-2.2.0-x86_64.AppImage"
@@ -390,7 +395,7 @@
         "description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw schematics and design printed circuit boards – for makers, students and professionals, from beginners to experts.",
         "url": "https://download.librepcb.org/releases/0.1.7/librepcb-0.1.7-linux-x86_64.AppImage"
     }, {
-        "name": "LibreOffice-fresh-basic",
+        "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
         "description": "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/libreoffice-fresh-basic/LibreOffice-fresh.basic-x86_64.AppImage"
@@ -404,11 +409,6 @@
         "version": "0.9.3",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
         "url": "https://github.com/logseq/logseq/releases/download/0.9.3/Logseq-linux-x64-0.9.3.AppImage"
-    }, {
-        "name": "Login_Manager_Settings",
-        "version": "3.1",
-        "description": "A settings app for GNOME's Login Manager, GDM.",
-        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.1/Login_Manager_Settings.AppImage"    
     }, {
         "name": "localsend",
         "version": "1.8.0",
@@ -580,7 +580,7 @@
         "description": "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.",
         "url": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-amd64-0.6.6.AppImage"
     }, {
-        "name": "PhotoQt",
+        "name": "photoqt",
         "version": "3.1",
         "description": "PhotoQt is a simple yet powerful and good looking image viewer.",
         "url": "https://photoqt.org/downloads/PhotoQt-3.1.AppImage"
@@ -595,7 +595,7 @@
         "description": "Generate AppImages from existing binary packages.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/pkg2appimage/pkg2appimage-1807-x86_64.AppImage"
     }, {
-        "name": "Play!",
+        "name": "play",
         "version": "0.58",
         "description": "Play! is a portable PlayStation2 emulator.",
         "url": "https://purei.org/downloads/play/stable/0.58/Play!-38d3775a-x86_64.AppImage"
@@ -635,12 +635,12 @@
         "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent.",
         "url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent-4.5.2_lt20_x86_64.AppImage"
     }, {
-        "name": "QElectrotech",
+        "name": "qelectrotech",
         "version": "0.100.0",
         "description": "QElectroTech is a free software to create electric diagrams.",
         "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
     }, {
-        "name": "QOwnNotes",
+        "name": "qownnotes",
         "version": "23.4.3",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
         "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.3/QOwnNotes-x86_64.AppImage"
@@ -660,17 +660,17 @@
         "description": "A Qt5-based IM client for Matrix.",
         "url": "https://github.com/quotient-im/Quaternion/releases/download/0.0.96-beta1/quaternion-0.0.96-beta1.AppImage"
     }, {
-        "name": "qView",
+        "name": "qview",
         "version": "5.0",
         "description": "qView is an image viewer designed with minimalism and usability in mind.",
         "url": "https://github.com/jurplel/qView/releases/download/5.0/qView-5.0-x86_64.AppImage"
     }, {
-        "name": "Rare",
+        "name": "rare",
         "version": "1.9.5",
         "description": "Rare is a graphical interface for Legendary, a command line alternative to Epic Games launcher, based on PyQt5.",
         "url": "https://github.com/Dummerle/Rare/releases/download/1.9.5/Rare-1.9.5.AppImage"
     }, {
-        "name": "RawTherapee",
+        "name": "rawtherapee",
         "version": "5.9",
         "description": "RawTherapee is a powerful, cross-platform raw photo processing system.",
         "url": "https://rawtherapee.com/shared/builds/linux/RawTherapee_5.9.AppImage"
@@ -690,7 +690,7 @@
         "description": "Anonymous peer-to-peer instant messaging.",
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
-        "name": "RPCS3",
+        "name": "rpcs3",
         "version": "0.0.18-12817-fff0c96b",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
         "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-fff0c96bf38d1ada075e524c4753a7f263c06449/rpcs3-v0.0.18-12817-fff0c96b_linux64.AppImage"
@@ -745,7 +745,7 @@
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.8.1/Slippi-Launcher-2.8.1-x86_64.AppImage"
     }, {
-        "name": "SMPlayer",
+        "name": "smplayer",
         "version": "22.7.0",
         "description": "SMPlayer is a free media player for Windows and Linux with built-in codecs.",
         "url": "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0/SMPlayer-22.7.0-x86_64.AppImage"
@@ -780,12 +780,12 @@
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
         "url": "https://github.com/story-apps/starc/releases/download/v0.4.5/starc-setup.AppImage"
     }, {
-        "name": "Storyboarder",
+        "name": "storyboarder",
         "version": "2.1.0",
         "description": "Storyboarder makes it easy to visualize a story as fast you can draw stick figures.",
         "url": "https://github.com/wonderunit/storyboarder/releases/download/v2.1.0/Storyboarder-2.1.0-linux-x86_64.AppImage"
     }, {
-        "name": "Syncplay",
+        "name": "syncplay",
         "version": "1.7.0",
         "description": "Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers.",
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
@@ -815,7 +815,7 @@
         "description": "Xfce4 file manager.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/thunar/thunar-4.18.3-x86_64.AppImage"
     }, {
-        "name": "Tropy",
+        "name": "tropy",
         "version": "1.13.0",
         "description": "Explore your research photos.",
         "url": "https://github.com/tropy/tropy/releases/download/v1.13.0/Tropy-1.13.0-x86_64.AppImage"
@@ -835,7 +835,7 @@
         "description": "Upscayl - Free and Open Source AI Image Upscaler for.",
         "url": "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage"
     }, {
-        "name": "Vieb",
+        "name": "vieb",
         "version": "9.7.0",
         "description": "Vim Inspired Electron Browser - Vim bindings for the web by design.",
         "url": "https://github.com/Jelmerro/Vieb/releases/download/9.7.0/Vieb-9.7.0.AppImage"
@@ -865,7 +865,7 @@
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
         "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.112.6-2_x86_64.AppImage"
     }, {
-        "name": "WebCord",
+        "name": "webcord",
         "version": "4.2.0",
         "description": "A Discord and SpaceBar electron-based client implemented without Discord API.",
         "url": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-x64.AppImage"
@@ -880,7 +880,7 @@
         "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.",
         "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
     }, {
-        "name": "Whalebird",
+        "name": "whalebird",
         "version": "5.0.3",
         "description": "An Electron based Mastodon, Pleroma, and Misskey client for Windows, Mac, and Linux.",
         "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.3/Whalebird-5.0.3-linux-x64.AppImage"
@@ -915,7 +915,7 @@
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
         "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1403/yuzu-mainline-20230414-33cca53c7.AppImage"
     }, {
-        "name": "Zettlr",
+        "name": "zettlr",
         "version": "2.3.0",
         "description": "A Markdown Editor for the 21st century.",
         "url": "https://github.com/Zettlr/Zettlr/releases/download/v2.3.0/Zettlr-2.3.0-x86_64.AppImage"
@@ -925,7 +925,7 @@
         "description": "Zoom Video Conference.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/zoom/Zoom-5.13.7.683.glibc2.17-x86_64.AppImage"
     }, {
-        "name": "Zulip",
+        "name": "zulip",
         "version": "5.9.5",
         "description": "Zulip combines the immediacy of real-time chat with an email threading model.",
         "url": "https://github.com/zulip/zulip-desktop/releases/download/v5.9.5/Zulip-5.9.5-x86_64.AppImage"
