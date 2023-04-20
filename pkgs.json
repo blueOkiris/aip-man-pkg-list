@@ -430,7 +430,7 @@
         "description": "Mendeley Reference Manager is a free web and desktop reference management application",
         "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.86.0-x86_64.AppImage"
     }, {
-        "name": "Mochi",
+        "name": "mochi",
         "version": "1.15.21",
         "description": "Mochi is a tool to help you learn and remember things.",
         "url": "https://mochi.cards/releases/Mochi-1.15.21.AppImage"
@@ -465,12 +465,12 @@
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
         "url": "https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651545-x86_64.AppImage"
     }, {
-        "name": "MQTTX",
+        "name": "mqttx",
         "version": "1.9.1",
         "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
         "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.1/MQTTX-1.9.1.AppImage"
     }, {
-        "name": "MyPaint",
+        "name": "mypaint",
         "version": "2.0.1",
         "description": "MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.",
         "url": "https://github.com/mypaint/mypaint/releases/download/v2.0.1/MyPaint-v2.0.1-alt.AppImage"
@@ -555,7 +555,7 @@
         "description": "OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.",
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86_64.AppImage"
      }, {
-        "name": "ownCloud",
+        "name": "owncloud",
         "version": "3.2.1.10355",
         "description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device.",
         "url": "https://download.owncloud.com/desktop/ownCloud/stable/3.2.1.10355/linux-appimage/ownCloud-3.2.1.10355-x86_64.AppImage"
