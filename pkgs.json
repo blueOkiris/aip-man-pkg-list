@@ -290,7 +290,7 @@
         "description": "Create images and edit photographs.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/gimp/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage"
     }, {
-        "name": "gitHubdesktop",
+        "name": "githubdesktop",
         "version": "3.2.1-linux1",
         "description": "Simple collaboration from your desktop.",
         "url": "https://github.com/shiftkey/desktop/releases/download/release-3.2.1-linux1/GitHubDesktop-linux-3.2.1-linux1.AppImage"
