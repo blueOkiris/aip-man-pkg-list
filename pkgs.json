@@ -25,6 +25,11 @@
         "description": "Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.",
         "url": "https://apprepo.de/appimage/download/android-studio"
     }, {
+        "name": "antimicrox",
+        "version": "3.3.3",
+        "description": "AntiMicroX is a graphical program used to map gamepad keys to keyboard, mouse, scripts and macros.",
+        "url": "https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/AntiMicroX-x86_64.AppImage"
+    }, {
         "name": "appimage-update",
         "version": "2.0.0",
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
@@ -441,9 +446,9 @@
         "url": "https://github.com/coslyk/moonplayer/releases/download/v4.1/MoonPlayer--x86_64.AppImage"
     }, {
         "name": "moosync",
-        "version": "8.0.0",
+        "version": "8.1.1",
         "description": "Music player capable of playing local audio or from Youtube, Spotify and many more.",
-        "url": "https://github.com/Moosync/Moosync/releases/download/v8.0.0/Moosync-8.0.0-linux-x86_64.AppImage"
+        "url": "https://github.com/Moosync/Moosync/releases/download/v8.1.1/Moosync-8.1.1-linux-x86_64.AppImage"
     }, {
         "name": "motrix",
         "version": "1.6.11",
@@ -696,9 +701,9 @@
         "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-fff0c96bf38d1ada075e524c4753a7f263c06449/rpcs3-v0.0.18-12817-fff0c96b_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.11.3",
+        "version": "0.11.5",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.11.3/Saber-0.11.3-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.11.5/Saber-0.11.5-x86_64.AppImage"
     }, {
         "name": "schildichat",
         "version": "1.11.26-sc.1",
