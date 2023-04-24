@@ -105,6 +105,11 @@
         "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
         "url": "https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage"
     }, {
+        "name": "brave",
+        "version": "1.50.121",
+        "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
+        "url": "https://github.com/srevinsaju/Brave-AppImage/releases/download/v1.50.121/Brave-stable-v1.50.121-x86_64.AppImage"
+    }, {
         "name": "butterfly",
         "version": "1.6.1",
         "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
@@ -561,9 +566,9 @@
         "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.02.15.ai13654-x86_64.AppImage"
     }, {
         "name": "openshot",
-        "version": "3.1.0",
+        "version": "3.1.1",
         "description": "OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.",
-        "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.0/OpenShot-v3.1.0-x86_64.AppImage"
+        "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage"
      }, {
         "name": "owncloud",
         "version": "3.2.1.10355",
@@ -636,9 +641,9 @@
         "url": "https://github.com/prateekmedia/pstube/releases/download/2.6.0/pstube-linux-2.6.0-x86_64.AppImage"
     }, {
         "name": "pulsar",
-        "version": "1.103.0",
+        "version": "1.104.0",
         "description": "A Community-led Hyper-Hackable Text Editor.",
-        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.103.0/Linux.1.103.0.AppImage"
+        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.104.0/Linux.1.104.0.AppImage"
     }, {
         "name": "qbittorrent",
         "version": "4.5.2",
@@ -651,9 +656,9 @@
         "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.4.3",
+        "version": "23.4.6",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.3/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.6/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.5",
@@ -701,9 +706,9 @@
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.18-12817-fff0c96b",
+        "version": "0.0.27-14925",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-fff0c96bf38d1ada075e524c4753a7f263c06449/rpcs3-v0.0.18-12817-fff0c96b_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-c86d221ba5d8ee1c49d9e95587cb50ae84d43ef4/rpcs3-v0.0.27-14925-c86d221b_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.11.5",
@@ -726,9 +731,9 @@
         "url": "https://github.com/karwler/sfbrename/releases/download/v1.0.0/sfbrename-gtk-1.0.0-x86_64.AppImage"
     }, {
         "name": "shotcut",
-        "version": "23.04.03",
+        "version": "22.12.21",
         "description": "Shotcut - a free, open source, cross-platform video editor",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v23.04.03/shotcut-linux-x86_64-230403.AppImage"
+        "url": "https://github.com/mltframework/shotcut/releases/download/v22.12.21/shotcut-linux-x86_64-221221.AppImage"
     }, {
         "name": "session",
         "version": "1.10.8",
@@ -869,6 +874,11 @@
         "version": "0.12.0",
         "description": "Vup is an open-source end-to-end-encrypted cloud storage app powered by the S5 Network.",
         "url": "https://github.com/vup-app/vup/releases/download/v0.12.0/Vup-0.12.0-BETA-Linux.AppImage"
+    }, {
+        "name": "waterfox",
+        "version": "g-5.1.5-37.1",
+        "description": "Waterfox is an open-source web browser that is forked from Firefox and developed by System1.",
+        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-5.1.5-37.1.Build37.1.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
         "version": "10.112.6-2",
