@@ -271,9 +271,9 @@
         "url": "https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.AppImage"
     }, {
         "name": "frappe-books",
-        "version": "0.12.0",
+        "version": "0.13.0",
         "description": "Free Desktop book-keeping software for small businesses and freelancers.",
-        "url": "https://github.com/frappe/books/releases/download/v0.12.0/Frappe-Books-0.12.0.AppImage"
+        "url": "https://github.com/frappe/books/releases/download/v0.13.0/Frappe-Books-0.13.0.AppImage"
     }, {
         "name": "freecad",
         "version": "0.20.2",
@@ -319,6 +319,16 @@
         "version": "1.1.30",
         "description": "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience.",
         "url": "https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.30/GDLauncher-linux-setup.AppImage"        
+    }, {
+        "name": "Icalingua-plus-plus/",
+        "version": "2.9.5",
+        "description": "A client for QQ.",
+        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.5/Icalingua++-2.9.5.AppImage"
+    }, {
+        "name": "imhex",
+        "version": "1.28.0",
+        "description": "A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+        "url": "https://github.com/WerWolv/ImHex/releases/download/v1.28.0/imhex-1.28.0-x86_64.AppImage"
     }, {
         "name": "inkscape",
         "version": "1.2.2",
@@ -590,6 +600,11 @@
         "description": "Offline password manager with cross-platform synchronization.",
         "url": "https://github.com/GlitterWare/Passy/releases/download/v1.3.0/Passy-v1.3.0-Linux-x86_64.AppImage"
     }, {
+        "name": "pcsx2",
+        "version": "1.7.4414",
+        "description": "PCSX2 - The Playstation 2 Emulator.",
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4414/pcsx2-v1.7.4414-linux-AppImage-64bit-Qt.AppImage"
+    }, {
         "name": "pencil2d",
         "version": "0.6.6",
         "description": "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.",
@@ -706,9 +721,9 @@
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.27-14925",
+        "version": "v0.0.27-14927",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-c86d221ba5d8ee1c49d9e95587cb50ae84d43ef4/rpcs3-v0.0.27-14925-c86d221b_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-7feb13671abcfb191e06c0ec70147c08ca651e61/rpcs3-v0.0.27-14927-7feb1367_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.11.5",
@@ -847,8 +862,13 @@
     }, {
         "name": "upscayl",
         "version": "2.0.1",
-        "description": "Upscayl - Free and Open Source AI Image Upscaler for.",
+        "description": "Upscayl - Free and Open Source AI Image Upscaler.",
         "url": "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage"
+    }, {
+        "name": "vidcutter",
+        "version": "6.0.5.1",
+        "description": "A modern yet simple multi-platform video cutter and joiner.",
+        "url": "https://github.com/ozmartian/vidcutter/releases/download/6.0.5.1/VidCutter-6.0.5.1-x86_64.AppImage"
     }, {
         "name": "vieb",
         "version": "9.7.0",
