@@ -275,6 +275,11 @@
         "description": "Free Desktop book-keeping software for small businesses and freelancers.",
         "url": "https://github.com/frappe/books/releases/download/v0.13.0/Frappe-Books-0.13.0.AppImage"
     }, {
+        "name": "freac",
+        "version": "0.13.0",
+        "description": "Free and open source audio converter.",
+        "url": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-x86_64.AppImage"
+    }, {
         "name": "freecad",
         "version": "0.20.2",
         "description": "FreeCAD is a parametric 3D modeler.",
