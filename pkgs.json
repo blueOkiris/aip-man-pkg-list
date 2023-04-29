@@ -121,9 +121,9 @@
         "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
-        "version": "2.57.1",
+        "version": "2.57.2",
         "description": "Elegant Facebook Messenger desktop app.",
-        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.1/Caprine-2.57.1.AppImage"
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.2/Caprine-2.57.2.AppImage"
     }, {
         "name": "cemu",
         "version": "2.0-36",
@@ -316,9 +316,9 @@
         "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-6-dev/GameHub-jammy-0.16.3-6-dev-0e3146a-x86_64.AppImage"
     }, {
         "name": "gaphor",
-        "version": "2.18.0",
+        "version": "2.18.1",
         "description": "Gaphor is the simple modeling tool.",
-        "url": "https://github.com/gaphor/gaphor/releases/download/2.18.0/Gaphor-2.18.0-x86_64.AppImage"
+        "url": "https://github.com/gaphor/gaphor/releases/download/2.18.1/Gaphor-2.18.1-x86_64.AppImage"
     }, {
         "name": "gdm-settings",
         "version": "3.1",
@@ -536,9 +536,9 @@
         "url": "https://github.com/musescore/MuseScore/releases/download/v4.0.2/MuseScore-4.0.2.230651545-x86_64.AppImage"
     }, {
         "name": "mqttx",
-        "version": "1.9.1",
+        "version": "1.9.2",
         "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
-        "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.1/MQTTX-1.9.1.AppImage"
+        "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.2/MQTTX-1.9.2.AppImage"
     }, {
         "name": "mypaint",
         "version": "2.0.1",
@@ -666,9 +666,9 @@
         "url": "https://photoqt.org/downloads/PhotoQt-3.1.AppImage"
     }, {
         "name": "picocrypt",
-        "version": "1.31",
+        "version": "1.32",
         "description": "A very small, very simple, yet very secure encryption tool.",
-        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/1.31/Picocrypt.AppImage"
+        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/1.32/Picocrypt.AppImage"
     }, {
         "name": "pkg2appimage",
         "version": "1807",
@@ -721,9 +721,9 @@
         "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.4.6",
+        "version": "23.4.7",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.6/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.7/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.5",
@@ -771,14 +771,14 @@
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "v0.0.27-14927",
+        "version": "0.0.27-14945",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-cd9ff08235a895b906177542d91b7fce86a4493a/rpcs3-v0.0.27-14931-cd9ff082_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-47da39a2ff562817b2f204e8fbf5223403ddbf1e/rpcs3-v0.0.27-14945-47da39a2_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.11.5",
+        "version": "0.11.7",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.11.5/Saber-0.11.5-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.11.7/Saber-0.11.7-x86_64.AppImage"
     }, {
         "name": "schildichat",
         "version": "1.11.26-sc.1",
@@ -881,9 +881,9 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.0.72",
+        "version": "1.0.78",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.72/teams-for-linux-1.0.72.AppImage"
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.78/teams-for-linux-1.0.78.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
@@ -891,9 +891,9 @@
         "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage&r=1"
     }, {
         "name": "thorium",
-        "version": "M111.0.5563.111",
+        "version": "M112.0.5615.166",
         "description": "Chromium fork with additional features.",
-        "url": "https://github.com/Alex313031/thorium/releases/download/M111.0.5563.111/Thorium_Browser_111.0.5563.111_x64.AppImage"
+        "url": "https://github.com/Alex313031/thorium/releases/download/M112.0.5615.166/Thorium_Browser_112.0.5615.166_x64.AppImage"
     }, {
         "name": "thorium-reader",
         "version": "2.2.0",
