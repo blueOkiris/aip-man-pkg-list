@@ -121,9 +121,9 @@
         "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
-        "version": "2.57.2",
+        "version": "2.57.3",
         "description": "Elegant Facebook Messenger desktop app.",
-        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.2/Caprine-2.57.2.AppImage"
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.3/Caprine-2.57.3.AppImage"
     }, {
         "name": "cemu",
         "version": "2.0-36",
@@ -731,9 +731,9 @@
         "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.7/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
-        "version": "1.1.5",
+        "version": "1.1.6",
         "description": "Personal teleprompter software for all video makers.",
-        "url": "https://github.com/Cuperino/QPrompt/releases/download/v1.1.5/qprompt-v1.1.5-720a013-linux-gcc-x86_64.AppImage"
+        "url": "https://github.com/Cuperino/QPrompt/releases/download/v1.1.6/qprompt-v1.1.6-51788eb-linux-gcc-x86_64.AppImage"
     }, {
         "name": "qtractor",
         "version": "0.9.33",
@@ -886,9 +886,9 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.0.78",
+        "version": "1.0.80",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.78/teams-for-linux-1.0.78.AppImage"
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.80/teams-for-linux-1.0.80.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
