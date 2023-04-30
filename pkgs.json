@@ -861,9 +861,9 @@
         "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.150.54/standard-notes-3.150.54-linux-x86_64.AppImage"
     }, {
         "name": "starc",
-        "version": "0.4.5",
+        "version": "0.5.1",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
-        "url": "https://github.com/story-apps/starc/releases/download/v0.4.5/starc-setup.AppImage"
+        "url": "https://github.com/story-apps/starc/releases/download/v0.5.1/starc-setup.AppImage"
     }, {
         "name": "stoplight-studio",
         "version": "2.10.0-stable.8870",
