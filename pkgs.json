@@ -375,6 +375,11 @@
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
         "url": "https://github.com/Kong/insomnia/releases/download/core%402023.2.0/Insomnia.Core-2023.2.0.AppImage"
     }, {
+        "name": "hamsket",
+        "version": "0.6.5",
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
+        "url": "https://github.com/TheGoddessInari/hamsket/releases/download/nightly/Hamsket-0.6.5.AppImage"
+    }, {
         "name": "helix",
         "version": "23.03",
         "description": "A post-modern modal text editor.",
