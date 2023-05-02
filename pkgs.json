@@ -426,9 +426,9 @@
         "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.AppImage"
     }, {
         "name": "kopia",
-        "version": "0.13.0-rc1",
+        "version": "0.13.0",
         "description": "Kopia is a fast and secure open-source backup/restore tool.",
-        "url": "https://github.com/kopia/kopia/releases/download/v0.13.0-rc1/KopiaUI-0.13.0-rc1.AppImage"
+        "url": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0.AppImage"
     }, {
         "name": "koreader",
         "version": "2023.03",
@@ -651,9 +651,9 @@
         "url": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.1/Passky-8.1.1.AppImage"
     }, {
         "name": "passy",
-        "version": "1.3.0",
+        "version": "1.4.0",
         "description": "Offline password manager with cross-platform synchronization.",
-        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.3.0/Passy-v1.3.0-Linux-x86_64.AppImage"
+        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.4.0/Passy-v1.4.0-Linux-x86_64.AppImage"
     }, {
         "name": "pcsx2",
         "version": "1.7.4414",
@@ -726,9 +726,9 @@
         "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.4.7",
+        "version": "23.5.0",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.4.7/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.5.0/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -751,9 +751,9 @@
         "url": "https://github.com/jurplel/qView/releases/download/5.0/qView-5.0-x86_64.AppImage"
     }, {
         "name": "rare",
-        "version": "1.9.5",
+        "version": "1.10.0",
         "description": "Rare is a graphical interface for Legendary, a command line alternative to Epic Games launcher, based on PyQt5.",
-        "url": "https://github.com/Dummerle/Rare/releases/download/1.9.5/Rare-1.9.5.AppImage"
+        "url": "https://github.com/Dummerle/Rare/releases/download/1.10.0/Rare-1.10.0.AppImage"
     }, {
         "name": "rawtherapee",
         "version": "5.9",
@@ -931,9 +931,9 @@
         "url": "https://github.com/linagora/Twake-Desktop/releases/download/v1.3.3/Setup_Twake_lastest.AppImage"
     }, {
         "name": "upscayl",
-        "version": "2.0.1",
+        "version": "2.5.0",
         "description": "Upscayl - Free and Open Source AI Image Upscaler.",
-        "url": "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage"
+        "url": "https://github.com/upscayl/upscayl/releases/download/v2.5.0/upscayl-2.5.0-linux.AppImage"
     }, {
         "name": "vidcutter",
         "version": "6.0.5.1",
@@ -1001,9 +1001,9 @@
         "url": "https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.30.3018/Wire-3.30.3018_x86_64.AppImage"
     }, {
         "name": "xemu",
-        "version": "0.7.86",
+        "version": "0.7.87",
         "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development).",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.86/xemu-v0.7.86-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.87/xemu-v0.7.87-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
