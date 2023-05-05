@@ -231,9 +231,9 @@
         "url": "https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_linux_x86_64.AppImage"
     }, {
         "name": "ente",
-        "version": "1.6.26",
+        "version": "1.6.27",
         "description": "Desktop app for ente.io.",
-        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.26/ente-1.6.26.AppImage"    
+        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.27/ente-1.6.27.AppImage"    
     }, {
         "name": "etcher",
         "version": "1.18.6",
@@ -268,7 +268,7 @@
         "name": "firefox",
         "version": "112.0.r20230424110519",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v112.0.r20230424110519/firefox-112.0.r20230424110519-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-112.0.r20230424110519-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
@@ -377,7 +377,7 @@
     }, {
         "name": "hamsket",
         "version": "0.6.5",
-        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
+        "description": "Free and Open Source messaging and emailing app that combines common web applications into one.",
         "url": "https://github.com/TheGoddessInari/hamsket/releases/download/nightly/Hamsket-0.6.5.AppImage"
     }, {
         "name": "helix",
@@ -726,9 +726,9 @@
         "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.5.0",
+        "version": "23.5.2",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.5.0/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.5.2/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -886,9 +886,9 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.0.82",
+        "version": "1.0.83",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.82/teams-for-linux-1.0.82.AppImage"
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.83/teams-for-linux-1.0.83.AppImage"
     }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
