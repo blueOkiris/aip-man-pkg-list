@@ -203,7 +203,7 @@
         "name": "drawio",
         "version": "21.2.8",
         "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
-        "url": https://github.com/jgraph/drawio-desktop/releases/download/v21.2.8/drawio-x86_64-21.2.8.AppImage"
+        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.8/drawio-x86_64-21.2.8.AppImage"
     }, {
         "name": "duckstation",
         "version": "preview",
