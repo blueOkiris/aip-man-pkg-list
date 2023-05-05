@@ -18,7 +18,7 @@
         "name": "allusion",
         "version": "1.0.0-rc.10",
         "description": "A free and open source desktop application for managing your visual library.",
-        "url": "https://github.com/allusion-app/Allusion/releases/download/v1.0.0-rc.10/Allusion-1.0.0-rc.10.AppImage"    
+        "url": "https://github.com/allusion-app/Allusion/releases/download/v1.0.0-rc.10/Allusion-1.0.0-rc.10.AppImage" 
     }, {
         "name": "android-studio",
         "version": "2021.3.1",
@@ -78,7 +78,7 @@
         "name": "avidemux",
         "version": "2.8.1",
         "description": "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.",
-        "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage"    
+        "url": "https://www.fosshub.com/Avidemux.html?dwl=avidemux_2.8.1.appImage" 
     }, {
         "name": "axolotl",
         "version": "1.6.0",
@@ -233,22 +233,22 @@
         "name": "ente",
         "version": "1.6.27",
         "description": "Desktop app for ente.io.",
-        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.27/ente-1.6.27.AppImage"    
+        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.27/ente-1.6.27.AppImage" 
     }, {
         "name": "etcher",
         "version": "1.18.6",
         "description": "Flash OS images to SD cards & USB drives, safely and easily.",
-        "url": "https://github.com/balena-io/etcher/releases/download/v1.18.6/balenaEtcher-1.18.6-x64.AppImage"    
+        "url": "https://github.com/balena-io/etcher/releases/download/v1.18.6/balenaEtcher-1.18.6-x64.AppImage" 
     }, {
         "name": "extraterm",
         "version": "0.71.0",
         "description": "Extraterm is an open source project to build a terminal emulator and expand it with new features to support modern workflows and do more than just act like a glorified teletype.",
-        "url": "https://github.com/sedwards2009/extraterm/releases/download/v0.71.0/ExtratermQt-0.71.0.glibc2.29-x86_64.AppImage"    
+        "url": "https://github.com/sedwards2009/extraterm/releases/download/v0.71.0/ExtratermQt-0.71.0.glibc2.29-x86_64.AppImage" 
     }, {
         "name": "feather",
         "version": "2.4.5",
         "description": "A free and open-source Monero desktop wallet.",
-        "url": "https://featherwallet.org/files/releases/linux-appimage/feather-2.4.5.AppImage"    
+        "url": "https://featherwallet.org/files/releases/linux-appimage/feather-2.4.5.AppImage" 
     }, {
         "name": "ferdium",
         "version": "6.2.4",
@@ -268,17 +268,17 @@
         "name": "firefox",
         "version": "112.0.r20230424110519",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-112.0.r20230424110519-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v112.0.r20230424110519/firefox-112.0.r20230424110519-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
         "description": "User interface for appimagekit to let you create AppImages with ease",
-        "url": "https://github.com/SalaniLeo/Flake/releases/download/v0.0.3/Flake-0.0.3-x86_64.AppImage"   
+        "url": "https://github.com/SalaniLeo/Flake/releases/download/v0.0.3/Flake-0.0.3-x86_64.AppImage" 
     }, {
         "name": "fluentreader",
         "version": "1.1.3",
         "description": "Modern desktop RSS reader built with Electron, React, and Fluent UI",
-        "url": "https://github.com/yang991178/fluent-reader/releases/download/v1.1.3/Fluent.Reader.1.1.3.AppImage"   
+        "url": "https://github.com/yang991178/fluent-reader/releases/download/v1.1.3/Fluent.Reader.1.1.3.AppImage" 
     }, {
         "name": "flycast",
         "version": "2.1",
@@ -323,7 +323,7 @@
         "name": "gdm-settings",
         "version": "3.1",
         "description": "A settings app for GNOME's Login Manager, GDM.",
-        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.1/Login_Manager_Settings.AppImage"    
+        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.1/Login_Manager_Settings.AppImage" 
     }, {
         "name": "giada",
         "version": "0.24.0",
@@ -343,7 +343,7 @@
         "name": "gdevelop",
         "version": "5.1.160",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
-        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.160/GDevelop-5-5.1.160.AppImage"        
+        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.160/GDevelop-5-5.1.160.AppImage"     
     }, {
         "name": "gdlauncher",
         "version": "1.1.30",
@@ -353,7 +353,7 @@
         "name": "guiscrcpy",
         "version": "2023.1.1",
         "description": "A simple, pluggable, graphical user interface for the fastest Android screen mirroring software.",
-        "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v2023.1.1/guiscrcpy-v2023.1.1.dev.m.glibc2.35-x86_64.AppImage"       
+        "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v2023.1.1/guiscrcpy-v2023.1.1.dev.m.glibc2.35-x86_64.AppImage"    
     }, {
         "name": "Icalingua-plus-plus/",
         "version": "2.9.5",
@@ -818,7 +818,7 @@
         "name": "skrooge",
         "version": "2.29.0",
         "description": "Skrooge allows you to manage your personal finances, powered by KDE.",
-        "url": "https://download.kde.org/stable/skrooge/skrooge-2.29.0-x86_64.AppImage.mirrorlist"        
+        "url": "https://download.kde.org/stable/skrooge/skrooge-2.29.0-x86_64.AppImage.mirrorlist"     
     }, {
         "name": "sleek",
         "version": "1.3.1",
@@ -918,7 +918,7 @@
         "name": "tidal-hifi",
         "version": "5.1.0",
         "description": "The web version of Tidal running in electron with hifi support thanks to widevine.",
-        "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.1.0/tidal-hifi-5.1.0.AppImage"    
+        "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.1.0/tidal-hifi-5.1.0.AppImage" 
     }, {
         "name": "tropy",
         "version": "1.13.1",
