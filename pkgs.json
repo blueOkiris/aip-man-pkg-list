@@ -890,6 +890,11 @@
         "description": "Unofficial Microsoft Teams for Linux client.",
         "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.83/teams-for-linux-1.0.83.AppImage"
     }, {
+        "name": "tenacity",
+        "version": "1.3-beta2",
+        "description": "an easy-to-use, cross-platform multi-track audio editor/recorder.",
+        "url": "https://codeberg.org/attachments/cafc22ad-cb38-403e-ba6b-a38841b87b0e"
+    }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
         "description": "Desktop-based products based on the Eclipse Theia platform.",
