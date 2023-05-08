@@ -268,7 +268,7 @@
         "name": "firefox",
         "version": "112.0.r20230424110519",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v112.0.r20230424110519/firefox-112.0.r20230424110519-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-112.0.r20230424110519-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
@@ -781,14 +781,14 @@
         "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b00b8ae71b9c6b71b06ec3a3047d602edf85843d/rpcs3-v0.0.27-14962-b00b8ae7_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.12.0",
+        "version": "0.12.2",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.12.0/Saber-0.12.0-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.12.2/Saber-0.12.2-x86_64.AppImage"
     }, {
         "name": "schildichat",
-        "version": "1.11.26-sc.1",
+        "version": "1.11.30-sc.2",
         "description": "SchildiChat Desktop is a fork of Element, popular Matrix messenger",
-        "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.26-sc.1/SchildiChat-1.11.26-sc.1.AppImage"
+        "url": "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.30-sc.2/SchildiChat-1.11.30-sc.2.AppImage"
      }, {
         "name": "scribus",
         "version": "1.5.8",
