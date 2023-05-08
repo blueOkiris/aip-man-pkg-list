@@ -776,9 +776,9 @@
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.27-14962",
+        "version": "0.0.27-14965",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b00b8ae71b9c6b71b06ec3a3047d602edf85843d/rpcs3-v0.0.27-14962-b00b8ae7_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-3cf8c629facd348d32d0ff5c2f6fb4760b6b1493/rpcs3-v0.0.27-14965-3cf8c629_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.2",
