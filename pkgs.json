@@ -728,7 +728,7 @@
         "name": "qownnotes",
         "version": "23.5.2",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.5.2/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.5.3/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
