@@ -111,9 +111,9 @@
         "url": "https://github.com/BoostIO/BoostNote-App/releases/download/v0.23.1/boost-note-linux.AppImage"
     }, {
         "name": "brave",
-        "version": "1.50.121",
+        "version": "1.51.110",
         "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
-        "url": "https://github.com/srevinsaju/Brave-AppImage/releases/download/v1.50.121/Brave-stable-v1.50.121-x86_64.AppImage"
+        "url": "https://gitlab.com/linuxappimage/brave-browser/-/jobs/artifacts/main/raw/brave-browser-x86_64.AppImage?job=run-build"
     }, {
         "name": "butterfly",
         "version": "1.6.1",
@@ -190,6 +190,11 @@
         "description": "Email-based instant messaging for Desktop.",
         "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.36.4/DeltaChat-1.36.4.AppImage"
     }, {
+        "name": "devilutionx",
+        "version": "1.4.1",
+        "description": "Diablo build for modern operating systems.",
+        "url": "https://github.com/diasurgical/devilutionX/releases/download/1.4.1/devilutionx-linux-x86_64.appimage"
+    }, {
         "name": "digikam",
         "version": "8.0.0",
         "description": "Professional Photo Management with the Power of Open Source.",
@@ -224,6 +229,11 @@
         "version": "2.4.2",
         "description": "EiskaltDC++ is a cross-platform program that uses the Direct Connect and ADC protocols.",
         "url": "https://sourceforge.net/projects/eiskaltdcpp/files/Linux/eiskaltdcpp-qt-2.4.2-x86_64.AppImage/"
+    }, {
+        "name": "element-desktop",
+        "version": "v1.11.30",
+        "description": "A glossy Matrix collaboration client for desktop.",
+        "url": "https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build"
     }, {
         "name": "elk",
         "version": "0.4.0",
@@ -505,6 +515,11 @@
         "description": "Mendeley Reference Manager is a free web and desktop reference management application",
         "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.86.0-x86_64.AppImage"
     }, {
+        "name": "microsoft-edge",
+        "version": "113.0.1774.35-1",
+        "description": "Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.",
+        "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
+    }, {        
         "name": "mochi",
         "version": "1.15.21",
         "description": "Mochi is a tool to help you learn and remember things.",
@@ -810,6 +825,11 @@
         "description": "Session Desktop - Onion routing based messenger",
         "url": "https://github.com/oxen-io/session-desktop/releases/download/v1.10.8/session-desktop-linux-x86_64-1.10.8.AppImage"
     }, {
+        "name": "signal",
+        "version": "6.16.0",
+        "description": "A private messenger for Windows, macOS, and Linux",
+        "url": "https://gitlab.com/linuxappimage/signal-desktop/-/jobs/artifacts/master/raw/Signal-x86_64.AppImage?job=run-build"
+    }, {
         "name": "simplenote",
         "version": "2.21.0",
         "description": "Simplenote is an easy way to keep notes, lists, ideas and more.",
@@ -846,9 +866,9 @@
         "url": "https://github.com/Speek-App/Speek/releases/download/v1.7.0-release/Speek.Chat-1.7.0-linux-x86_64.AppImage"
     }, {
         "name": "spotify",
-        "version": "1.2.8.923",
+        "version": "1.2.9.743",
         "description": "Spotify is a music streaming service.",
-        "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.2.8.923-1-x86_64.AppImage"
+        "url": "https://gitlab.com/linuxappimage/spotify/-/jobs/artifacts/master/raw/Spotify-x86_64.AppImage?job=run-build"
     }, {
         "name": "spotube",
         "version": "2.7.1",
