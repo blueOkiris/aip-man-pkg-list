@@ -285,6 +285,11 @@
         "description": "User interface for appimagekit to let you create AppImages with ease",
         "url": "https://github.com/SalaniLeo/Flake/releases/download/v0.0.3/Flake-0.0.3-x86_64.AppImage" 
     }, {
+        "name": "flare",
+        "version": "1.14",
+        "description": "Fantasy action RPG using the FLARE engine",
+        "url": "https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage" 
+    }, {
         "name": "fluentreader",
         "version": "1.1.3",
         "description": "Modern desktop RSS reader built with Electron, React, and Fluent UI",
@@ -564,7 +569,12 @@
         "version": "2.0.1",
         "description": "MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.",
         "url": "https://github.com/mypaint/mypaint/releases/download/v2.0.1/MyPaint-v2.0.1-alt.AppImage"
-    }, {        
+    }, {
+        "name": "naev",
+        "version": "0.10.5",
+        "description": "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.",
+        "url": "https://github.com/naev/naev/releases/download/v0.10.5/naev-0.10.5-linux-x86-64.AppImage"
+    }, {
         "name": "neovim",
         "version": "0.9.0",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
@@ -650,6 +660,11 @@
         "description": "A free-to-win rhythm game.",
         "url": "https://github.com/ppy/osu/releases/download/2023.419.0/osu.AppImage"
      }, {
+        "name": "outer-wilds-mod-manager",
+        "version": "0.5.1",
+        "description": "The mod manager for the Outer Wilds Mod Loader.",
+        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.5.1/outer-wilds-mod-manager_0.5.1_amd64.AppImage"
+    }, {
         "name": "owncloud",
         "version": "3.2.1.10355",
         "description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device.",
