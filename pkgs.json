@@ -8,7 +8,7 @@
         "name": "acreom",
         "version": "1.5.8",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.5.8/acreom-1.5.8.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.6.4/acreom-1.6.4.AppImage"
     }, {
         "name": "alacritty",
         "version": "0.11.0",
@@ -31,9 +31,9 @@
         "url": "https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/AntiMicroX-x86_64.AppImage"
     }, {
         "name": "appimage-update",
-        "version": "2.0.0",
+        "version": "2.0.0-alpha-1-20230304",
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
-        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20220124/AppImageUpdate-x86_64.AppImage"
+        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20230304/AppImageUpdate-x86_64.AppImage"
     }, {
         "name": "appimaged-continuous",
         "version": "765.1",
@@ -73,7 +73,7 @@
         "name": "audacity",
         "version": "3.3.0",
         "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.0/audacity-linux-3.3.0-x64.AppImage"
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.2/audacity-linux-3.3.2-x64.AppImage"
     }, {
         "name": "avidemux",
         "version": "2.8.1",
@@ -91,9 +91,9 @@
         "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-3.9.9.AppImage"
     }, {
         "name": "bitwarden",
-        "version": "desktop-v2023.3.2",
+        "version": "desktop-v2023.4.0",
         "description": "Open source password management solutions for individuals, teams, and business organizations.",
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.3.2/Bitwarden-2023.3.2-x86_64.AppImage"
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-2023.4.0-x86_64.AppImage"
     }, {
         "name": "blender",
         "version": "2.92",
@@ -101,9 +101,9 @@
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-beta.5/Blender-v2.92-x86_64.AppImage"
     }, {
         "name": "blockbench",
-        "version": "4.7.1",
+        "version": "4.7.2",
         "description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
-        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.7.1/Blockbench_4.7.1.AppImage"
+        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.7.2/Blockbench_4.7.2.AppImage"
     }, {
         "name": "boostnote",
         "version": "0.23.1",
@@ -121,9 +121,9 @@
         "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
-        "version": "2.57.3",
+        "version": "2.57.4",
         "description": "Elegant Facebook Messenger desktop app.",
-        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.3/Caprine-2.57.3.AppImage"
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.4/Caprine-2.57.4.AppImage"
     }, {
         "name": "cemu",
         "version": "2.0-39",
@@ -138,10 +138,10 @@
         "name": "chatterino",
         "version": "2.4.1",
         "description": "Chat client for Twitch.",
-        "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.1/Chatterino-x86_64.AppImage"
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.4/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
-        "version": "0.99.54",
+        "version": "0.99.55",
         "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
         "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.55/CherryTree-0.99.55-x86_64.AppImage"
     }, {
@@ -151,9 +151,9 @@
         "url": "https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.1.1/Chiaki-v2.1.1-Linux-x86_64.AppImage"
     }, {
         "name": "cinelerra-gg",
-        "version": "20230331",
+        "version": "20230430",
         "description": "Cinelerra GG Infinity is a free and open source video editing software for Linux.",
-        "url": "https://cinelerra-gg.org/download/images/CinGG-20230331-x86_64.AppImage"
+        "url": "https://cinelerra-gg.org/download/images/CinGG-20230430-x86_64.AppImage"
     }, {
         "name": "cinny",
         "version": "2.2.6",
@@ -161,9 +161,9 @@
         "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.2.6/Cinny_desktop-x86_64.AppImage"
     }, {
         "name": "coolercontrol",
-        "version": "0.14.4",
+        "version": "0.16.0",
         "description": "A program to monitor and control your cooling devices.",
-        "url": "https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.14.4/downloads/packages/CoolerControl-x86_64.AppImage"
+        "url": "https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.16.0/downloads/packages/CoolerControl-x86_64.AppImage"
     }, {
         "name": "cryptomator",
         "version": "1.8.0",
@@ -261,9 +261,9 @@
         "url": "https://featherwallet.org/files/releases/linux-appimage/feather-2.4.5.AppImage" 
     }, {
         "name": "ferdium",
-        "version": "6.2.4",
+        "version": "6.2.7",
         "description": "Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.",
-        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.2.4/Ferdium-linux-Portable-6.2.4-x86_64.AppImage"
+        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.2.7/Ferdium-linux-Portable-6.2.7-x86_64.AppImage"
     }, {
         "name": "figma-linux",
         "version": "0.10.0",
@@ -290,7 +290,7 @@
         "description": "Fantasy action RPG using the FLARE engine",
         "url": "https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage" 
     }, {
-        "name": "fluentreader",
+        "name": "fluent-reader",
         "version": "1.1.3",
         "description": "Modern desktop RSS reader built with Electron, React, and Fluent UI",
         "url": "https://github.com/yang991178/fluent-reader/releases/download/v1.1.3/Fluent.Reader.1.1.3.AppImage" 
@@ -383,7 +383,7 @@
         "name": "inkscape",
         "version": "1.2.2",
         "description": "A Free and open source vector graphics editor.",
-        "url": "https://media.inkscape.org/dl/resources/file/Inkscape-b0a8486-x86_64.AppImage"
+        "url": "https://inkscape.org/gallery/item/37359/Inkscape-b0a8486-x86_64.AppImage"
     }, {
         "name": "insomnia",
         "version": "2023.2.0",
@@ -436,9 +436,9 @@
         "url": "https://download.kde.org/stable/kdenlive/23.04/linux/kdenlive-23.04.0-x86_64.AppImage"
     }, {
         "name": "keepassxc",
-        "version": "2.7.4",
+        "version": "2.7.5",
         "description": "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information.",
-        "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.AppImage"
+        "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.5/KeePassXC-2.7.5-x86_64.AppImage"
     }, {
         "name": "kopia",
         "version": "0.13.0",
@@ -841,9 +841,9 @@
         "url": "https://github.com/karwler/sfbrename/releases/download/v1.0.0/sfbrename-gtk-1.0.0-x86_64.AppImage"
     }, {
         "name": "shotcut",
-        "version": "23.05.07",
+        "version": "23.05.14",
         "description": "Shotcut - a free, open source, cross-platform video editor",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v23.05.07/shotcut-linux-x86_64-230507.AppImage"
+        "url": "https://github.com/mltframework/shotcut/releases/download/v23.05.14/shotcut-linux-x86_64-230514.AppImage"
     }, {
         "name": "session",
         "version": "1.10.8",
