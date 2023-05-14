@@ -61,9 +61,9 @@
         "url": "https://github.com/arduino/arduino-ide/releases/download/2.1.0/arduino-ide_2.1.0_Linux_64bit.AppImage"
     }, {
         "name": "armcord",
-        "version": "3.1.7",
+        "version": "3.2.0",
         "description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
-        "url": "https://github.com/ArmCord/ArmCord/releases/download/v3.1.7/ArmCord-3.1.7.AppImage"
+        "url": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0.AppImage"
     }, {
         "name": "astrofox",
         "version": "1.4.0",
@@ -496,9 +496,9 @@
         "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102%2Bg89fc6c9-linux-x86_64.AppImage"
     }, {
         "name": "logseq",
-        "version": "0.9.5",
+        "version": "0.9.6",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
-        "url": "https://github.com/logseq/logseq/releases/download/0.9.5/Logseq-linux-x64-0.9.5.AppImage"
+        "url": "https://github.com/logseq/logseq/releases/download/0.9.6/Logseq-linux-x64-0.9.6.AppImage"
     }, {
         "name": "localsend",
         "version": "1.9.0",
@@ -821,9 +821,9 @@
         "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b0de5970ce804767da476256efa7f534f0908e1d/rpcs3-v0.0.27-14987-b0de5970_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.12.4",
+        "version": "0.12.5",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.12.4/Saber-0.12.4-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.12.5/Saber-0.12.5-x86_64.AppImage"
     }, {
         "name": "schildichat",
         "version": "1.11.30-sc.2",
@@ -1071,9 +1071,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-0-1432",
+        "version": "mainline-20230514",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1432/yuzu-mainline-20230514-9520951dc.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1433/yuzu-mainline-20230514-756203c81.AppImage"
     }, {
         "name": "zettlr",
         "version": "2.3.0",
