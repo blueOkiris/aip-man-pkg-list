@@ -6,7 +6,7 @@
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
     }, {
         "name": "acreom",
-        "version": "1.5.8",
+        "version": "1.6.4",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
         "url": "https://github.com/Acreom/releases/releases/download/v1.6.4/acreom-1.6.4.AppImage"
     }, {
@@ -71,7 +71,7 @@
         "url": "https://files.astrofox.io/download/Astrofox-1.4.0.AppImage"
     }, {
         "name": "audacity",
-        "version": "3.3.0",
+        "version": "3.3.2",
         "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
         "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.2/audacity-linux-3.3.2-x64.AppImage"
     }, {
@@ -600,9 +600,9 @@
         "description": "Desktop client for Matrix using Qt and C++20.",
         "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
     }, {
-        "name": "nheko",
+        "name": "nightpdf",
         "version": "0.11.3",
-        "description": "Desktop client for Matrix using Qt and C++20.",
+        "description": "Dark Mode PDF Reader built using Electron and PDF.js.",
         "url": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.0/NightPDF-2.0.0-x86_64.AppImage"
     }, {
         "name": "notable",
