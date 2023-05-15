@@ -601,9 +601,9 @@
         "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
     }, {
         "name": "nightpdf",
-        "version": "0.11.3",
+        "version": "2.0.1",
         "description": "Dark Mode PDF Reader built using Electron and PDF.js.",
-        "url": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.0/NightPDF-2.0.0-x86_64.AppImage"
+        "url": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-x86_64.AppImage"
     }, {
         "name": "notable",
         "version": "1.8.4",
