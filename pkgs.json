@@ -873,7 +873,7 @@
         "name": "slippi-launcher",
         "version": "2.9.0",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
-        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.8.1/Slippi-Launcher-2.9.0-x86_64.AppImage"
+        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.9.0/Slippi-Launcher-2.9.0-x86_64.AppImage"
     }, {
         "name": "smplayer",
         "version": "22.7.0",
