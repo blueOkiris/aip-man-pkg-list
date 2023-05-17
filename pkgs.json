@@ -591,9 +591,9 @@
         "url": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache_NetBeans-17-x86_64.AppImage"
     }, {
         "name": "nextcloud",
-        "version": "3.8.1",
+        "version": "3.8.2",
         "description": "Online collaboration solution",
-        "url": "https://github.com/nextcloud/desktop/releases/download/v3.8.1/Nextcloud-3.8.1-x86_64.AppImage"
+        "url": "https://github.com/nextcloud/desktop/releases/download/v3.8.2/Nextcloud-3.8.2-x86_64.AppImage"
     }, {
         "name": "nheko",
         "version": "0.11.3",
