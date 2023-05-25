@@ -6,9 +6,9 @@
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
     }, {
         "name": "acreom",
-        "version": "1.6.7",
+        "version": "1.6.8",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.6.7/acreom-1.6.7.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.6.8/acreom-1.6.8.AppImage"
     }, {
         "name": "alacritty",
         "version": "0.11.0",
@@ -126,9 +126,9 @@
         "url": "https://gitlab.com/linuxappimage/brave-browser/-/jobs/artifacts/main/raw/brave-browser-x86_64.AppImage?job=run-build"
     }, {
         "name": "butterfly",
-        "version": "1.6.1",
+        "version": "2.0.0-alpha.4",
         "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
-        "url": "https://github.com/LinwoodCloud/Butterfly/releases/download/v1.6.1/linwood-butterfly-linux.AppImage"
+        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-alpha.4/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
         "version": "2.57.4",
@@ -254,9 +254,9 @@
         "url": "https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_linux_x86_64.AppImage"
     }, {
         "name": "ente",
-        "version": "1.6.29",
+        "version": "1.6.30",
         "description": "Desktop app for ente.io.",
-        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.29/ente-1.6.29.AppImage" 
+        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.30/ente-1.6.30.AppImage" 
     }, {
         "name": "etcher",
         "version": "1.18.6",
@@ -386,9 +386,9 @@
         "name": "gdevelop",
         "version": "5.1.162",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
-        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.162/GDevelop-5-5.1.162.AppImage",
+        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.163/GDevelop-5-5.1.163.AppImage",
         "alt_arch_urls": [
-            "arm64": "https://github.com/4ian/GDevelop/releases/download/v5.1.162/GDevelop-5-5.1.162-arm64.AppImage"
+            "arm64": "https://github.com/4ian/GDevelop/releases/download/v5.1.163/GDevelop-5-5.1.163-arm64.AppImage"
         ]     
     }, {
         "name": "gdlauncher",
@@ -402,9 +402,9 @@
         "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/v2023.1.1/guiscrcpy-v2023.1.1.dev.m.glibc2.35-x86_64.AppImage"    
     }, {
         "name": "Icalingua-plus-plus/",
-        "version": "2.9.5",
+        "version": "2.9.13",
         "description": "A client for QQ.",
-        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.5/Icalingua++-2.9.5.AppImage",
+        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13.AppImage",
         "alt_arch_urls": [
             "arm64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-arm64.AppImage",
             "armv7l": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-armv7l.AppImage"
@@ -551,9 +551,9 @@
         "url": "https://github.com/localsend/localsend/releases/download/v1.9.1/LocalSend-1.9.1.AppImage"
     }, {
         "name": "lunatask",
-        "version": "1.6.4",
+        "version": "1.6.6",
         "description": "Lunatask is an all-in-one encrypted to-do list, notebook, habit and mood tracker, and journaling app.",
-        "url": "https://lunatask.app/download/Lunatask-1.6.4.AppImage"
+        "url": "https://lunatask.app/download/Lunatask-1.6.6.AppImage"
     }, {
         "name": "marktext",
         "version": "0.17.1",
@@ -705,9 +705,9 @@
         ]
     }, {
         "name": "onekey",
-        "version": "4.2.1",
+        "version": "4.6.0",
         "description": "Secure, open source and community driven crypto wallet.",
-        "url": "https://web.onekey-asset.com/app-monorepo/4.2.1/OneKey-Wallet-4.2.1-linux-x86_64.AppImage"
+        "url": "https://web.onekey-asset.com/app-monorepo/4.6.0/OneKey-Wallet-4.6.0-linux-x86_64.AppImage"
     }, {
         "name": "onlyoffice",
         "version": "7.3.3",
@@ -746,9 +746,9 @@
         "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.6.1/outer-wilds-mod-manager_0.6.1_amd64.AppImage"
     }, {
         "name": "owncloud",
-        "version": "3.2.1.10355",
+        "version": "4.0.0.10896",
         "description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device.",
-        "url": "https://download.owncloud.com/desktop/ownCloud/stable/3.2.1.10355/linux-appimage/ownCloud-3.2.1.10355-x86_64.AppImage"
+        "url": "https://download.owncloud.com/desktop/ownCloud/stable/4.0.0.10896/linux-appimage/ownCloud-4.0.0.10896-x86_64.AppImage"
     }, {
         "name": "padloc",
         "version": "4.3.0",
@@ -894,9 +894,9 @@
         ]
     }, {
         "name": "rpcs3",
-        "version": "0.0.27-15047",
+        "version": "0.0.27-15053",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-976a3ed3bfc4653cf7e90899afb8b1a53a57817c/rpcs3-v0.0.27-15047-976a3ed3_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-38f93329056ba22e4d6a17d048c8747d8892be54/rpcs3-v0.0.27-15053-38f93329_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.7",
@@ -977,11 +977,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.160.8",
+        "version": "3.160.15",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.8/standard-notes-3.160.8-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-x86_64.AppImage",
         "alt_arch_urls": [
-            "arm64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.9/standard-notes-3.160.9-linux-arm64.AppImage"
+            "arm64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-arm64.AppImage"
         ]
     }, {
         "name": "starc",
@@ -1052,9 +1052,9 @@
         "url": "https://github.com/tropy/tropy/releases/download/v1.13.1/Tropy-1.13.1-x86_64.AppImage"
     }, {
         "name": "tutanota",
-        "version": "3.112.11",
+        "version": "3.112.15",
         "description": "Tutanota is the secure email service with built-in end-to-end encryption that enables you to communicate securely with anyone on all your devices.",
-        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.112.11/tutanota-desktop-linux.AppImage" 
+        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.112.15/tutanota-desktop-linux.AppImage" 
     }, {
         "name": "twake",
         "version": "1.3.3",
