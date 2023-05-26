@@ -977,11 +977,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.160.15",
+        "version": "3.160.16",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.16/standard-notes-3.160.16-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-aarch64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.16/standard-notes-3.160.16-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1008,12 +1008,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.0.92",
+        "version": "1.1.0",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.92/teams-for-linux-1.0.92.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-aarch64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-arm.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1076,7 +1076,7 @@
         "description": "Vim Inspired Electron Browser - Vim bindings for the web by design.",
         "url": "https://github.com/Jelmerro/Vieb/releases/download/9.7.0/Vieb-9.7.0.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/Jelmerro/Vieb/releases/download/9.7.1/Vieb-9.7.1-aarch64.AppImage"
+            "aarch64": "https://github.com/Jelmerro/Vieb/releases/download/9.7.1/Vieb-9.7.1-arm64.AppImage"
         }
     }, {
         "name": "vikunja",
@@ -1114,8 +1114,8 @@
         "description": "A Discord and SpaceBar electron-based client implemented without Discord API.",
         "url": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-x64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-aarch64.AppImage",
-            "arm": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-arm.AppImage"
+            "aarch64": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-arm64.AppImage",
+            "arm": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-armv7l.AppImage"
         }
     }, {
         "name": "weektodo",
@@ -1168,7 +1168,7 @@
         "description": "A Markdown Editor for the 21st century.",
         "url": "https://github.com/Zettlr/Zettlr/releases/download/v3.0.0-beta.4/Zettlr-3.0.0-beta.4-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/Zettlr/Zettlr/releases/download/v3.0.0-beta.4/Zettlr-3.0.0-beta.4-aarch64.AppImage"
+            "aarch64": "https://github.com/Zettlr/Zettlr/releases/download/v3.0.0-beta.4/Zettlr-3.0.0-beta.4-arm64.AppImage"
         }
     }, {
         "name": "zoom",
