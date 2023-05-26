@@ -299,9 +299,9 @@
         "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage"
     }, { 
         "name": "firefox",
-        "version": "113.0.r20230511191846",
+        "version": "113.0.r20230522134052",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-113.0.r20230511191846-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-113.0.r20230522134052-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
@@ -860,9 +860,9 @@
         "url": "https://github.com/jurplel/qView/releases/download/5.0/qView-5.0-x86_64.AppImage"
     }, {
         "name": "rare",
-        "version": "1.10.1",
+        "version": "1.10.2",
         "description": "Rare is a graphical interface for Legendary, a command line alternative to Epic Games launcher, based on PyQt5.",
-        "url": "https://github.com/Dummerle/Rare/releases/download/1.10.1/Rare-1.10.1.AppImage"
+        "url": "https://github.com/Dummerle/Rare/releases/download/1.10.2/Rare-1.10.2.AppImage"
     }, {
         "name": "rawtherapee",
         "version": "5.9",
@@ -894,9 +894,9 @@
         }
     }, {
         "name": "rpcs3",
-        "version": "0.0.27-15053",
+        "version": "0.0.27-15080",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-38f93329056ba22e4d6a17d048c8747d8892be54/rpcs3-v0.0.27-15053-38f93329_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9f5e3ecb8c78661a7da63e2f9357a9964d2936db/rpcs3-v0.0.27-15080-9f5e3ecb_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.8",
@@ -1105,9 +1105,9 @@
         "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-5.1.6-38.1.Build38.1.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
-        "version": "10.112.6-2",
+        "version": "10.113.19-2",
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
-        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.112.6-2_x86_64.AppImage"
+        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.113.19-2_x86_64.AppImage"
     }, {
         "name": "webcord",
         "version": "4.2.0",
@@ -1159,9 +1159,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230521",
+        "version": "mainline-20230526",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1443/yuzu-mainline-20230524-cdf7ea299.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1447/yuzu-mainline-20230526-fbe86b889.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
