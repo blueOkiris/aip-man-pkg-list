@@ -34,9 +34,9 @@
         "version": "2.0.0-alpha-1-20230304",
         "description": "AppImageUpdate updates AppImages based on the update information embedded in AppImages.",
         "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20230304/AppImageUpdate-x86_64.AppImage",
-        "alt_arch_urls": [
-            "i386": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20230304/AppImageUpdate-i386.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20230526/AppImageUpdate-i386.AppImage"
+        }
     }, {
         "name": "appimaged-continuous",
         "version": "765.1",
@@ -67,10 +67,10 @@
         "version": "3.2.0",
         "description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
         "url": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0.AppImage",
-        "alt_arch_urls": [        
-            "arm64": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0-arm64.AppImage",
-            "armv7l": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0-armv7l.AppImage"
-    ]
+        "alt_arch_urls": {        
+            "aarch64": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0-arm64.AppImage",
+            "arm": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0-armv7l.AppImage"
+    }
     }, {
         "name": "astrofox",
         "version": "1.4.0",
@@ -93,12 +93,12 @@
         "url": "https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage"
     }, {
         "name": "beekeeper-studio",
-        "version": "3.9.9",
+        "version": "3.9.14",
         "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
-        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-3.9.9.AppImage",
-        "alt_arch_urls": [        
-            "arm64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.9/Beekeeper-Studio-3.9.9-arm64.AppImage"
-    ]
+        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14.AppImage",
+        "alt_arch_urls": {        
+            "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14-arm64.AppImage"
+    }
     }, {
         "name": "bitwarden",
         "version": "desktop-v2023.4.0",
@@ -234,9 +234,9 @@
         "version": "0.4.8",
         "description": "ecode is a lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.",
         "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-x86_64.AppImage",
-        "alt_arch_urls": [        
-            "arm64": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-aarch64.AppImage"
-    ]
+        "alt_arch_urls": {        
+            "aarch64": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-aarch64.AppImage"
+    }
     }, {
         "name": "eiskaltdcpp",
         "version": "2.4.2",
@@ -274,14 +274,14 @@
         "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v2.4.1/Faster_Project_Plus-x86-64.AppImage"
     }, {
         "name": "feather",
-        "version": "2.4.5",
+        "version": "2.4.9",
         "description": "A free and open-source Monero desktop wallet.",
-        "url": "https://featherwallet.org/files/releases/linux-appimage/feather-2.4.5.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://featherwallet.org/files/releases/linux-arm64-appimage/feather-2.4.5-arm64.AppImage",
-            "arm32": "https://featherwallet.org/files/releases/linux-arm-appimage/feather-2.4.5-arm.AppImage",
-            "riscv64": "https://featherwallet.org/files/releases/linux-riscv64-appimage/feather-2.4.5-riscv64.AppImage"
-        ]
+        "url": "https://featherwallet.org/files/releases/linux-appimage/feather-2.4.9.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://featherwallet.org/files/releases/linux-arm64-appimage/feather-2.4.9-arm64.AppImage",
+            "arm32": "https://featherwallet.org/files/releases/linux-arm-appimage/feather-2.4.9-arm.AppImage",
+            "riscv64": "https://featherwallet.org/files/releases/linux-riscv64-appimage/feather-2.4.9-riscv64.AppImage"
+        }
     }, {
         "name": "ferdium",
         "version": "6.2.7",
@@ -342,11 +342,11 @@
         "version": "1.1.7",
         "description": "Free and open source audio converter.",
         "url": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-aarch64.AppImage"
-            "armv7l": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-armhf.AppImage"
-            "i686": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-i686.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-aarch64.AppImage",
+            "arm": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-armhf.AppImage",
+            "x86": "https://github.com/enzo1982/freac/releases/download/v1.1.7/freac-1.1.7-linux-i686.AppImage"
+        }
     }, {
         "name": "freecad",
         "version": "0.20.2",
@@ -384,12 +384,12 @@
         "url": "https://github.com/shiftkey/desktop/releases/download/release-3.2.1-linux1/GitHubDesktop-linux-3.2.1-linux1.AppImage"
     }, {
         "name": "gdevelop",
-        "version": "5.1.163",
+        "version": "5.1.164",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
-        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.163/GDevelop-5-5.1.163.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/4ian/GDevelop/releases/download/v5.1.163/GDevelop-5-5.1.163-arm64.AppImage"
-        ]     
+        "url": "https://github.com/4ian/GDevelop/releases/download/v5.1.164/GDevelop-5-5.1.164.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/4ian/GDevelop/releases/download/v5.1.164/GDevelop-5-5.1.164-arm64.AppImage"
+        }     
     }, {
         "name": "gdlauncher",
         "version": "1.1.30",
@@ -405,15 +405,15 @@
         "version": "2.9.13",
         "description": "A client for QQ.",
         "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-arm64.AppImage",
-            "armv7l": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-armv7l.AppImage"
-        ]    
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-arm64.AppImage",
+            "arm": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-armv7l.AppImage"
+        }    
     }, {
         "name": "imhex",
-        "version": "1.28.0",
+        "version": "1.29.0",
         "description": "A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-        "url": "https://github.com/WerWolv/ImHex/releases/download/v1.28.0/imhex-1.28.0-x86_64.AppImage",
+        "url": "https://github.com/WerWolv/ImHex/releases/download/v1.29.0/imhex-1.29.0-x86_64.AppImage"
     }, {
         "name": "inkscape",
         "version": "1.2.2",
@@ -434,9 +434,9 @@
         "version": "23.05",
         "description": "A post-modern modal text editor.",
         "url": "https://github.com/helix-editor/helix/releases/download/23.05/helix-23.05-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/helix-editor/helix/releases/download/23.05/helix-23.05-aarch64.AppImage",
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/helix-editor/helix/releases/download/23.05/helix-23.05-aarch64.AppImage"
+        }
     }, {
         "name": "heroic",
         "version": "2.7.1",
@@ -444,12 +444,12 @@
         "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.7.1/Heroic-2.7.1.AppImage"
     }, {
         "name": "hyper",
-        "version": "3.4.1",
+        "version": "4.0.0-canary.3",
         "description": "A terminal built on web technologies.",
-        "url": "https://github.com/vercel/hyper/releases/download/v3.4.1/Hyper-3.4.1.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/vercel/hyper/releases/download/v3.4.1/Hyper-3.4.1-arm64.AppImage"
-        ]
+        "url": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.3/Hyper-4.0.0-canary.3.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.3/Hyper-4.0.0-canary.3-arm64.AppImage"
+        }
     }, {
         "name": "hypertrader",
         "version": "2.36.0",
@@ -457,9 +457,9 @@
         "url": "https://download.hypertrader.app/HyperTrader-2.36.0.AppImage"
     }, {
         "name": "jitsi-meet",
-        "version": "2023.5.1",
+        "version": "2023.5.3",
         "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences.",
-        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.5.1/jitsi-meet-x86_64.AppImage"
+        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.5.3/jitsi-meet-x86_64.AppImage"
     }, {
         "name": "joplin",
         "version": "2.10.19",
@@ -485,10 +485,10 @@
         "version": "0.13.0",
         "description": "Kopia is a fast and secure open-source backup/restore tool.",
         "url": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0-arm64.AppImage",
-            "armv7l": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0-armv7l.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0-arm64.AppImage",
+            "arm": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0-armv7l.AppImage"
+        }
     }, {
         "name": "koreader",
         "version": "2023.03",
@@ -511,9 +511,9 @@
         "url": "https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.AppImage"
     }, {    
         "name": "lens",
-        "version": "2023.4.60821",
+        "version": "2023.5.120950",
         "description": "Lens is the way the world runs Kubernetes.",
-        "url": "https://api.k8slens.dev/binaries/Lens-2023.4.60821-latest.x86_64.AppImage"
+        "url": "https://api.k8slens.dev/binaries/Lens-2023.5.120950-latest.x86_64.AppImage"
     }, {
         "name": "leocad",
         "version": "23.03",
@@ -571,9 +571,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "3.10.5",
+        "version": "3.10.8",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v3.10.5/linux-Miru-3.10.5.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v3.10.8/linux-Miru-3.10.8.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -594,10 +594,10 @@
         "version": "1.8.19",
         "description": "Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.",
         "url": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19-arm64.AppImage",
-            "armv7l": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19-armv7l.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19-arm64.AppImage",
+            "arm": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19-armv7l.AppImage"
+        }
     }, {
         "name": "mupdf",
         "version": "1.21.1",
@@ -608,9 +608,9 @@
         "version": "0.13.1",
         "description": "A simple, clean and cross-platform music player.",
         "url": "https://github.com/martpie/museeks/releases/download/0.13.1/museeks-x86_64.AppImage",
-        "alt_arch_urls": [
-            "i386": "https://github.com/martpie/museeks/releases/download/0.13.1/museeks-i386.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://github.com/martpie/museeks/releases/download/0.13.1/museeks-i386.AppImage"
+        }
     }, {
         "name": "musescore",
         "version": "4.0.2",
@@ -621,9 +621,9 @@
         "version": "1.9.3",
         "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
         "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.3/MQTTX-1.9.3.AppImage",
-        "alt_arch_urls": [
-            "i386": "https://github.com/emqx/MQTTX/releases/download/v1.9.3/MQTTX-1.9.3-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://github.com/emqx/MQTTX/releases/download/v1.9.3/MQTTX-1.9.3-aarch64.AppImage"
+        }
     }, {
         "name": "mypaint",
         "version": "2.0.1",
@@ -643,10 +643,10 @@
         "name": "netbeans",
         "version": "v17-build1",
         "description": "Apache NetBeans installers.",
-        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/Apache_NetBeans-17-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/codelerity/netbeans-installers/releases/download/v17-build1/Apache_NetBeans-17-arm.AppImage"
-        ]
+        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v17-build1/Apache_NetBeans-17-x86_64.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/codelerity/netbeans-installers/releases/download/v17-build1/Apache_NetBeans-17-arm.AppImage"
+        }
     }, {
         "name": "nextcloud",
         "version": "3.8.2",
@@ -662,9 +662,9 @@
         "version": "2.0.1",
         "description": "Dark Mode PDF Reader built using Electron and PDF.js.",
         "url": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-arm64.AppImage"
+        }
     }, {
         "name": "notable",
         "version": "1.8.4",
@@ -700,9 +700,9 @@
         "version": "1.3.4",
         "description": "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.",
         "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.4/Obsidian-1.3.4.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.4/Obsidian-1.3.4-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.4/Obsidian-1.3.4-aarch64.AppImage"
+        }
     }, {
         "name": "onekey",
         "version": "4.6.0",
@@ -718,17 +718,17 @@
         "version": "0.8",
         "description": "Open source RGB lighting control.",
         "url": "https://openrgb.org/releases/release_0.8/OpenRGB_0.8_x86_64_fb88964.AppImage",
-        "alt_arch_urls": [
-            "i386": "https://openrgb.org/releases/release_0.8/OpenRGB_0.8_i386_fb88964.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://openrgb.org/releases/release_0.8/OpenRGB_0.8_i386_fb88964.AppImage"
+        }
     }, {
         "name": "openscad",
         "version": "2023.0.2",
         "description": "OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and macOS.",
-        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.02.15.ai13654-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://files.openscad.org/OpenSCAD-2021.01-aarch64.AppImage"
-        ]
+        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.05.24.ai15274-x86_64.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://files.openscad.org/snapshots/OpenSCAD-2023.03.19.ai-aarch64.AppImage"
+        }
     }, {
         "name": "openshot",
         "version": "3.1.1",
@@ -761,7 +761,7 @@
         "url": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.1/Passky-8.1.1.AppImage"
     }, {
         "name": "passy",
-        "version": "1.4.0",
+        "version": "1.5.0",
         "description": "Offline password manager with cross-platform synchronization.",
         "url": "https://github.com/GlitterWare/Passy/releases/download/v1.5.0/Passy-v1.5.0-Linux-AppImage.zip",
         "compressed": true
@@ -775,14 +775,14 @@
         "version": "0.6.6",
         "description": "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.",
         "url": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-amd64-0.6.6.AppImage",
-        "alt_arch_urls": [
-        "i386": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-i386-0.6.6.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-i386-0.6.6.AppImage"
+        }
     }, {
         "name": "photoqt",
-        "version": "3.1",
+        "version": "3.2",
         "description": "PhotoQt is a simple yet powerful and good looking image viewer.",
-        "url": "https://photoqt.org/downloads/PhotoQt-3.1.AppImage"
+        "url": "https://photoqt.org/downloads/PhotoQt-3.2.AppImage"
     }, {
         "name": "picocrypt",
         "version": "1.32",
@@ -886,12 +886,12 @@
         "url": "https://github.com/revoltchat/desktop/releases/download/v1.0.6/Revolt-1.0.6.AppImage"
     }, {
         "name": "ricochet-refresh",
-        "version": "3.0.15-release",
+        "version": "3.0.15",
         "description": "Anonymous peer-to-peer instant messaging.",
         "url": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-x86_64.AppImage",
-        "alt_arch_urls": [
-            "i386": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-i386.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.15-release/Ricochet_Refresh-156ddee-i386.AppImage"
+        }
     }, {
         "name": "rpcs3",
         "version": "0.0.27-15053",
@@ -899,9 +899,9 @@
         "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-38f93329056ba22e4d6a17d048c8747d8892be54/rpcs3-v0.0.27-15053-38f93329_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.12.7",
+        "version": "0.12.8",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.12.7/Saber-0.12.7-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.12.8/Saber-0.12.8-x86_64.AppImage"
     }, {
         "name": "schildichat",
         "version": "1.11.30-sc.2",
@@ -936,12 +936,12 @@
         "name": "skrooge",
         "version": "2.29.0",
         "description": "Skrooge allows you to manage your personal finances, powered by KDE.",
-        "url": "https://download.kde.org/stable/skrooge/skrooge-2.29.0-x86_64.AppImage.mirrorlist"     
+        "url": "https://download.kde.org/stable/skrooge/skrooge-2.29.0-x86_64.AppImage"     
     }, {
         "name": "sleek",
-        "version": "1.3.1",
+        "version": "1.3.2-rc.1",
         "description": "sleek is an open-source (FOSS) todo manager based on the todo.txt syntax.",
-        "url": "https://github.com/ransome1/sleek/releases/download/v1.3.1/sleek-1.3.1.AppImage"
+        "url": "https://github.com/ransome1/sleek/releases/download/v1.3.2-rc.1/sleek-1.3.2-rc.1.AppImage"
     }, {
         "name": "slippi-launcher",
         "version": "2.9.0",
@@ -957,9 +957,9 @@
         "version": "0.15.5",
         "description": "A full-featured Subsonic/Jellyfin compatible desktop music player.",
         "url": "https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/jeffvli/sonixd/releases/download/v0.15.5/Sonixd-0.15.5-linux-arm64.AppImage"
+        }
     }, {
         "name": "speek",
         "version": "1.7.0",
@@ -980,9 +980,9 @@
         "version": "3.160.15",
         "description": "End-to-end encrypted notes app.",
         "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.160.15/standard-notes-3.160.15-linux-aarch64.AppImage"
+        }
     }, {
         "name": "starc",
         "version": "0.5.2",
@@ -993,9 +993,9 @@
         "version": "2.10.0-stable.8870",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
         "url": "https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.8870.git-32fa2af/stoplight-studio-linux-x86_64.AppImage",
-        "alt_arch_urls": [
-            "i386": "https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.8870.git-32fa2af/stoplight-studio-linux-i386.AppImage"
-        ]
+        "alt_arch_urls": {
+            "x86": "https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.8870.git-32fa2af/stoplight-studio-linux-x86.AppImage"
+        }
     }, {
         "name": "subtitlecomposer",
         "version": "0.7.1",
@@ -1011,10 +1011,10 @@
         "version": "1.0.92",
         "description": "Unofficial Microsoft Teams for Linux client.",
         "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.0.92/teams-for-linux-1.0.92.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-arm64.AppImage",
-            "armv7l": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-armv7l.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-aarch64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-arm.AppImage"
+        }
     }, {
         "name": "tenacity",
         "version": "1.3-beta2",
@@ -1075,9 +1075,9 @@
         "version": "9.7.0",
         "description": "Vim Inspired Electron Browser - Vim bindings for the web by design.",
         "url": "https://github.com/Jelmerro/Vieb/releases/download/9.7.0/Vieb-9.7.0.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/Jelmerro/Vieb/releases/download/9.7.1/Vieb-9.7.1-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/Jelmerro/Vieb/releases/download/9.7.1/Vieb-9.7.1-aarch64.AppImage"
+        }
     }, {
         "name": "vikunja",
         "version": "0.20.3",
@@ -1113,10 +1113,10 @@
         "version": "4.2.0",
         "description": "A Discord and SpaceBar electron-based client implemented without Discord API.",
         "url": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-x64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-arm64.AppImage",
-            "armv7l": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-armv7l.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-aarch64.AppImage",
+            "arm": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-arm.AppImage"
+        }
     }, {
         "name": "weektodo",
         "version": "2.0.0",
@@ -1167,9 +1167,9 @@
         "version": "3.0.0-beta.4",
         "description": "A Markdown Editor for the 21st century.",
         "url": "https://github.com/Zettlr/Zettlr/releases/download/v3.0.0-beta.4/Zettlr-3.0.0-beta.4-x86_64.AppImage",
-        "alt_arch_urls": [
-            "arm64": "https://github.com/Zettlr/Zettlr/releases/download/v3.0.0-beta.4/Zettlr-3.0.0-beta.4-arm64.AppImage"
-        ]
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/Zettlr/Zettlr/releases/download/v3.0.0-beta.4/Zettlr-3.0.0-beta.4-aarch64.AppImage"
+        }
     }, {
         "name": "zoom",
         "version": "5.13.7.683",
