@@ -111,9 +111,9 @@
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-beta.5/Blender-v2.92-x86_64.AppImage"
     }, {
         "name": "blockbench",
-        "version": "4.7.2",
+        "version": "4.7.4",
         "description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
-        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.7.2/Blockbench_4.7.2.AppImage"
+        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.7.4/Blockbench_4.7.4.AppImage"
     }, {
         "name": "boostnote",
         "version": "0.23.1",
@@ -521,9 +521,9 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.0-28-g0f4bd405",
+        "version": "2.2.1_alpha-26-g1dae5f0f",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.0-28-g0f4bd405-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-26-g1dae5f0f-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -894,9 +894,9 @@
         }
     }, {
         "name": "rpcs3",
-        "version": "0.0.27-15080",
+        "version": "0.0.27-15082",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9f5e3ecb8c78661a7da63e2f9357a9964d2936db/rpcs3-v0.0.27-15080-9f5e3ecb_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-5a365506f731fc5527756c4270ae1246115ceeb0/rpcs3-v0.0.27-15082-5a365506_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.8",
@@ -949,9 +949,9 @@
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.9.0/Slippi-Launcher-2.9.0-x86_64.AppImage"
     }, {
         "name": "smplayer",
-        "version": "22.7.0",
+        "version": "22.7.0-10244",
         "description": "SMPlayer is a free media player for Windows and Linux with built-in codecs.",
-        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0/SMPlayer-22.7.0-x86_64.AppImage"
+        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0-10244/SMPlayer-22.7.0.10129-x86_64.AppImage"
     }, {
         "name": "sonixd",
         "version": "0.15.5",
@@ -1008,12 +1008,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.1/teams-for-linux-1.1.1.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.0/teams-for-linux-1.1.0-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.1/teams-for-linux-1.1.1-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.1/teams-for-linux-1.1.1-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1159,9 +1159,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230526",
+        "version": "mainline-20230528",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1447/yuzu-mainline-20230526-fbe86b889.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1450/yuzu-mainline-20230528-a8992302e.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
