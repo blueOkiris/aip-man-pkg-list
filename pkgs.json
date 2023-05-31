@@ -873,7 +873,7 @@
         "version": "1.15.0",
         "description": "RetroShare is a decentralized, private, secure, cross-platform, communication toolkit.",
         "url": "https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z",
-        "compressed": "true"
+        "compressed": true
     }, {
         "name": "retroshare",
         "version": "0.6.6",
