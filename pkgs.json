@@ -96,7 +96,7 @@
         "version": "3.9.14",
         "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
         "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14.AppImage",
-        "alt_arch_urls": {        
+        "alt_arch_urls": {
             "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14-arm64.AppImage"
     }
     }, {
@@ -234,9 +234,9 @@
         "version": "0.4.8",
         "description": "ecode is a lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.",
         "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-x86_64.AppImage",
-        "alt_arch_urls": {        
+        "alt_arch_urls": {
             "aarch64": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-aarch64.AppImage"
-    }
+        }
     }, {
         "name": "eiskaltdcpp",
         "version": "2.4.2",
