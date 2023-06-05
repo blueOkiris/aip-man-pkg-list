@@ -102,6 +102,11 @@
         "description": "Build AppImages.",
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
+        "name": "aptakube",
+        "version": "1.4.6",
+        "description": "Modern, lightweight and multi-cluster Kubernetes desktop client.",
+        "url": "https://github.com/aptakube/aptakube/releases/download/1.4.6/aptakube_1.4.6_amd64.AppImage"
+    }, {
         "name": "arduino-ide",
         "version": "2.1.0",
         "description": "Arduino is a development environment that implements the Processing/Wiring language.",
