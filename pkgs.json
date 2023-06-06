@@ -152,7 +152,7 @@
         "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14.AppImage",
         "alt_arch_urls": {
             "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14-arm64.AppImage"
-    }
+        }
     }, {
         "name": "bforartists",
         "version": "3.5.1",
