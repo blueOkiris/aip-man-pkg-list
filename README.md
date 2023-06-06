@@ -25,6 +25,22 @@ Format package listings as so:
     ...
 ]
 ```
+
+Optionally, if the AppImage comes as a `.tar.gz` or `.zip` instead of just a .AppImage, you can add `"compressed": true`, and if the AppImage has versions for different architectures, you can add the `alt_arch_urls` entry, which is formatted like so:
+
+```
+"alt_arch_urls": {
+    "<arch>": "<url>",
+    ...
+    "<arch>": "<url>"
+}
+```
+
+Note:
+
+- The default url should be x86_64
+- The list of architecture names is that of Rust `std::env::consts::ARCH`. Here's Rust's [documentation on that](https://doc.rust-lang.org/std/env/consts/constant.ARCH.html).
+
 Make a commit like "Add \<whatever application\>" or "Update for \<application\> to \<version\>," post a PR, and I'll look at it and merge it in.
 
 Thanks!
