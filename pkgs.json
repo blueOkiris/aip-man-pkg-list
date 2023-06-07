@@ -432,9 +432,9 @@
         }
     }, { 
         "name": "firefox",
-        "version": "113.0.r20230522134052",
+        "version": "114.0.r20230601151220",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-113.0.r20230522134052-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-114.0.r20230601151220-x86_64.AppImage"
     }, { 
         "name": "flake",
         "version": "0.0.3",
@@ -467,9 +467,9 @@
         "url": "https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.AppImage"
     }, {
         "name": "frappe-books",
-        "version": "0.15.0",
+        "version": "0.16.0",
         "description": "Free Desktop book-keeping software for small businesses and freelancers.",
-        "url": "https://github.com/frappe/books/releases/download/v0.15.0/Frappe-Books-0.15.0.AppImage"
+        "url": "https://github.com/frappe/books/releases/download/v0.16.0/Frappe-Books-0.16.0.AppImage"
     }, {
         "name": "freac",
         "version": "1.1.7",
@@ -595,9 +595,9 @@
         "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.5.3/jitsi-meet-x86_64.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.11.6",
+        "version": "2.11.9",
         "description": "Open source note taking and to-do application with synchronisation capabilities.",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.11.6/Joplin-2.11.6.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.11.9/Joplin-2.11.9.AppImage"
     }, {
         "name": "kate",
         "version": "23.04.0",
@@ -654,9 +654,9 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.1_alpha-59-gbd83f13a",
+        "version": "2.2.1_alpha-85-g2d000d15",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-59-gbd83f13a-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-85-g2d000d15-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -724,9 +724,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.0.0",
+        "version": "4.0.4",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.0/linux-Miru-4.0.0.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.4/linux-Miru-4.0.4.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -904,9 +904,9 @@
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage"
      }, {
         "name": "osu",
-        "version": "2023.513.0",
+        "version": "2023.605.0",
         "description": "A free-to-win rhythm game.",
-        "url": "https://github.com/ppy/osu/releases/download/2023.513.0/osu.AppImage"
+        "url": "https://github.com/ppy/osu/releases/download/2023.605.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
         "version": "0.6.1",
@@ -1008,9 +1008,9 @@
         "url": "https://github.com/zaps166/QMPlay2/releases/download/23.02.05/QMPlay2-23.02.05-1-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.5.2",
+        "version": "23.6.0",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.5.3/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.0/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -1077,14 +1077,14 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15120",
+        "version": "0.0.28-15143",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-5e6aa45658ef1482679bfe3cfdbd344c0dfdcd42/rpcs3-v0.0.28-15120-5e6aa456_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-6f834e99d22e4821b9061aee4e51691de06d2345/rpcs3-v0.0.28-15143-6f834e99_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.12.9",
+        "version": "0.12.10",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.12.9/Saber-0.12.9-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.12.10/Saber-0.12.10-x86_64.AppImage"
     }, {
         "name": "sayonara-player",
         "version": "1.8.0-beta1",
@@ -1137,9 +1137,9 @@
         "url": "https://github.com/ransome1/sleek/releases/download/v1.3.2-rc.1/sleek-1.3.2-rc.1.AppImage"
     }, {
         "name": "slippi-launcher",
-        "version": "2.9.0",
+        "version": "2.9.1",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
-        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.9.0/Slippi-Launcher-2.9.0-x86_64.AppImage"
+        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.9.1/Slippi-Launcher-2.9.1-x86_64.AppImage"
     }, {
         "name": "smplayer",
         "version": "22.7.0.10140",
@@ -1170,11 +1170,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.160.16",
+        "version": "3.161.1",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.161.0/standard-notes-3.161.0-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.161.1/standard-notes-3.161.1-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.161.0/standard-notes-3.161.0-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.161.1/standard-notes-3.161.1-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1242,12 +1242,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.1/teams-for-linux-1.1.1.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.2/teams-for-linux-1.1.2.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.1/teams-for-linux-1.1.1-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.1/teams-for-linux-1.1.1-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.2/teams-for-linux-1.1.2-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.2/teams-for-linux-1.1.2-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1286,14 +1286,14 @@
         "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.1.0/tidal-hifi-5.1.0.AppImage" 
     }, {
         "name": "tropy",
-        "version": "1.13.1",
+        "version": "1.14.0",
         "description": "Explore your research photos.",
-        "url": "https://github.com/tropy/tropy/releases/download/v1.13.1/Tropy-1.13.1-x86_64.AppImage"
+        "url": "https://github.com/tropy/tropy/releases/download/v1.14.0/Tropy-1.14.0-x86_64.AppImage"
     }, {
         "name": "tutanota",
-        "version": "3.112.15",
+        "version": "3.113.3",
         "description": "Tutanota is the secure email service with built-in end-to-end encryption that enables you to communicate securely with anyone on all your devices.",
-        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.112.15/tutanota-desktop-linux.AppImage" 
+        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.113.3/tutanota-desktop-linux.AppImage" 
     }, {
         "name": "twake",
         "version": "1.3.3",
@@ -1334,9 +1334,9 @@
         "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.2.23101/VSCodium-1.77.2.23101.glibc2.17-x86_64.AppImage"
     }, {
         "name": "vup",
-        "version": "0.12.0",
+        "version": "0.14.2",
         "description": "Vup is an open-source end-to-end-encrypted cloud storage app powered by the S5 Network.",
-        "url": "https://github.com/vup-app/vup/releases/download/v0.12.0/Vup-0.12.0-BETA-Linux.AppImage"
+        "url": "https://github.com/vup-app/vup/releases/download/v0.14.2/Vup-0.14.2-BETA-Linux.AppImage"
     }, {
         "name": "walc",
         "version": "0.3.1",
@@ -1430,9 +1430,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230604",
+        "version": "mainline-20230605",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1458/yuzu-mainline-20230604-c99bc2e7f.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1460/yuzu-mainline-20230605-069d7e6be.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
