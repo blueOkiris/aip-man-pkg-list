@@ -282,9 +282,9 @@
         "url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v4.5.3/CPU-X-4.5.3-x86_64.AppImage"
     }, {
         "name": "cryptomator",
-        "version": "1.9.0",
+        "version": "1.9.1",
         "description": "Multi-platform transparent client-side encryption of your files in the cloud.",
-        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.9.0/cryptomator-1.9.0-x86_64.AppImage"
+        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.9.1/cryptomator-1.9.1-x86_64.AppImage"
     }, {
         "name": "cura",
         "version": "5.3.1",
@@ -435,7 +435,12 @@
         "version": "114.0.r20230601151220",
         "description": "Browse the World Wide Web",
         "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-114.0.r20230601151220-x86_64.AppImage"
-    }, { 
+    }, {
+        "name": "flacon",
+        "version": "11.1.0",
+        "description": "Audio File Encoder. Extracts audio tracks from an audio CD image to separate tracks.",
+        "url": "https://github.com/flacon/flacon/releases/download/v11.1.0/flacon-11.1.0-x86_64.AppImage" 
+    }, {
         "name": "flake",
         "version": "0.0.3",
         "description": "User interface for appimagekit to let you create AppImages with ease",
@@ -654,9 +659,9 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.1_alpha-85-g2d000d15",
+        "version": "2.2.1_alpha-128-gc9cb6740",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-85-g2d000d15-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-128-gc9cb6740-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -829,7 +834,7 @@
             "aarch64": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-arm64.AppImage"
         }
     }, {
-        "name": "Nora",
+        "name": "nora",
         "version": "2.2.0-stable",
         "description": "An elegant music player built using Electron and React.",
         "url": "https://github.com/Sandakan/Nora/releases/download/v2.2.0-stable/Nora-Setup-2.2.0-stable-linux-x86_64.AppImage"
@@ -1077,9 +1082,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15143",
+        "version": "0.0.28-15144",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-6f834e99d22e4821b9061aee4e51691de06d2345/rpcs3-v0.0.28-15143-6f834e99_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-8f66c50721f32c550bd351a05ef1d4fdffefe845/rpcs3-v0.0.28-15144-8f66c507_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.10",
@@ -1137,9 +1142,9 @@
         "url": "https://github.com/ransome1/sleek/releases/download/v1.3.2-rc.1/sleek-1.3.2-rc.1.AppImage"
     }, {
         "name": "slippi-launcher",
-        "version": "2.9.1",
+        "version": "2.10.1",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
-        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.9.1/Slippi-Launcher-2.9.1-x86_64.AppImage"
+        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.10.1/Slippi-Launcher-2.10.1-x86_64.AppImage"
     }, {
         "name": "smplayer",
         "version": "22.7.0.10140",
@@ -1430,9 +1435,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230605",
+        "version": "mainline-20230607",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1460/yuzu-mainline-20230605-069d7e6be.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1462/yuzu-mainline-20230607-9c6fc44a5.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
