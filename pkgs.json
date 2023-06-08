@@ -341,9 +341,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.27-x86_64.AppImage"
     }, {
         "name": "drawio",
-        "version": "21.2.8",
+        "version": "21.3.7",
         "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
-        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.2.8/drawio-x86_64-21.2.8.AppImage"
+        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.3.7/drawio-x86_64-21.3.7.AppImage"
     }, {
         "name": "duckstation",
         "version": "preview",
@@ -659,9 +659,9 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.1_alpha-128-gc9cb6740",
+        "version": "2.2.1_alpha-130-g14d13153",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-128-gc9cb6740-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-130-g14d13153-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -729,9 +729,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.0.4",
+        "version": "4.0.5",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.4/linux-Miru-4.0.4.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.5/linux-Miru-4.0.5.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -855,14 +855,17 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.1.0/Notes_2.1.0-Qt6.3.2-x86_64.AppImage"
     }, {
         "name": "notesnook",
-        "version": "2.4.7",
+        "version": "2.5.2",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.4.7/notesnook_linux_x86_64.AppImage"
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.2/notesnook_linux_x86_64.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.2/notesnook_linux_arm64.AppImage"
+        }
     }, {
         "name": "nuclear",
-        "version": "v0.6.20",
+        "version": "v0.6.21",
         "description": "Streaming music player that finds free music for you.",
-        "url": "https://github.com/nukeop/nuclear/releases/download/v0.6.20/nuclear-v0.6.20.AppImage"
+        "url": "https://github.com/nukeop/nuclear/releases/download/v0.6.21/nuclear-v0.6.21.AppImage"
     }, {
         "name": "obs-studio",
         "version": "29.0.2",
@@ -1013,9 +1016,9 @@
         "url": "https://github.com/zaps166/QMPlay2/releases/download/23.02.05/QMPlay2-23.02.05-1-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.6.0",
+        "version": "23.6.2",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.0/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.2/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -1082,9 +1085,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15144",
+        "version": "0.0.28-15145",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-8f66c50721f32c550bd351a05ef1d4fdffefe845/rpcs3-v0.0.28-15144-8f66c507_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-ad22cf5051cab71530b49f2595185cfd2ba51464/rpcs3-v0.0.28-15145-ad22cf50_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.10",
