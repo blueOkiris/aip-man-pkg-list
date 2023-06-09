@@ -127,9 +127,9 @@
         "url": "https://files.astrofox.io/download/Astrofox-1.4.0.AppImage"
     }, {
         "name": "audacity",
-        "version": "3.3.2",
+        "version": "3.3.3",
         "description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. Audacity is free, open source software.",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.2/audacity-linux-3.3.2-x64.AppImage"
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-linux-3.3.3-x64.AppImage"
     }, {
         "name": "authme",
         "version": "4.1.0",
@@ -664,9 +664,9 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.1_alpha-130-g14d13153",
+        "version": "2.2.1_alpha-135-ge8c3f030",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-130-g14d13153-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-135-ge8c3f030-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -734,9 +734,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.0.5",
+        "version": "4.0.6",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.5/linux-Miru-4.0.5.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.6/linux-Miru-4.0.6.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -1021,9 +1021,9 @@
         "url": "https://github.com/zaps166/QMPlay2/releases/download/23.02.05/QMPlay2-23.02.05-1-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.6.2",
+        "version": "23.6.4",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.2/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.4/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -1090,9 +1090,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15145",
+        "version": "0.0.28-15159-d752ab01",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-ad22cf5051cab71530b49f2595185cfd2ba51464/rpcs3-v0.0.28-15145-ad22cf50_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-d752ab01511d98b0709c670dbcbc36182b65844b/rpcs3-v0.0.28-15159-d752ab01_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.10",
@@ -1351,14 +1351,14 @@
         "url": "https://github.com/0neGal/viper/releases/download/v1.7.3/Viper-1.7.3.AppImage"
     }, {
         "name": "vscodium",
-        "version": "1.77.2.23101",
+        "version": "1.79.0.23159",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.77.2.23101/VSCodium-1.77.2.23101.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.79.0.23159/VSCodium-1.79.0.23159.glibc2.17-x86_64.AppImage"
     }, {
         "name": "vup",
-        "version": "0.14.2",
+        "version": "0.14.3",
         "description": "Vup is an open-source end-to-end-encrypted cloud storage app powered by the S5 Network.",
-        "url": "https://github.com/vup-app/vup/releases/download/v0.14.2/Vup-0.14.2-BETA-Linux.AppImage"
+        "url": "https://github.com/vup-app/vup/releases/download/v0.14.3/Vup-0.14.3-BETA-Linux.AppImage"
     }, {
         "name": "walc",
         "version": "0.3.1",
@@ -1366,9 +1366,9 @@
         "url": "https://github.com/WAClient/WALC/releases/download/v0.3.1/WALC-0.3.1.AppImage"
     }, {
         "name": "waterfox",
-        "version": "g-5.1.6-38.1",
+        "version": "g-5.1.8-39.1",
         "description": "Waterfox is an open-source web browser that is forked from Firefox and developed by System1.",
-        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-5.1.6-38.1.Build38.1.glibc2.17-x86_64.AppImage"
+        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-5.1.8-39.1.Build39.1.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
         "version": "10.113.19-2",
@@ -1385,9 +1385,9 @@
         }
     }, {
         "name": "weektodo",
-        "version": "2.0.0",
+        "version": "2.1.0",
         "description": "WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy",
-        "url": "https://github.com/manuelernestog/weektodo/releases/download/v2.0.0/WeekToDo-2.0.0.AppImage"
+        "url": "https://github.com/manuelernestog/weektodo/releases/download/v2.1.0/WeekToDo-2.1.0.AppImage"
     }, {
         "name": "wezterm",
         "version": "20230408-112425-69ae8472",
@@ -1395,9 +1395,9 @@
         "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
     }, {
         "name": "whalebird",
-        "version": "5.0.3",
+        "version": "5.0.5",
         "description": "An Electron based Mastodon, Pleroma, and Misskey client for Windows, Mac, and Linux.",
-        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.3/Whalebird-5.0.3-linux-x64.AppImage"
+        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.5/Whalebird-5.0.5-linux-x86_64.AppImage"
     }, {
         "name": "widelands",
         "version": "1.1",
@@ -1439,11 +1439,11 @@
         "url": "https://github.com/lukasbach/yana/releases/download/v1.0.16/Yana-1.0.16.AppImage"
     }, {
         "name": "yank-note",
-        "version": "3.53.3",
+        "version": "3.54.0",
         "description": "A highly extensible Markdown editor, designed for productivity.",
-        "url": "https://github.com/purocean/yn/releases/download/v3.53.3/Yank-Note-linux-x86_64-3.53.3.AppImage",
+        "url": "https://github.com/purocean/yn/releases/download/v3.54.0/Yank-Note-linux-x86_64-3.54.0.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/purocean/yn/releases/download/v3.53.3/Yank-Note-linux-arm64-3.53.3.AppImage"
+            "aarch64": "https://github.com/purocean/yn/releases/download/v3.54.0/Yank-Note-linux-arm64-3.54.0.AppImage"
         }
     }, {
         "name": "yesplaymusic",
@@ -1452,9 +1452,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230607",
+        "version": "mainline-20230608",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1462/yuzu-mainline-20230607-9c6fc44a5.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1463/yuzu-mainline-20230608-b3e2c9f9f.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
