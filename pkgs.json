@@ -496,6 +496,11 @@
         "description": "GameHub is a unified library for all your games.",
         "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-6-dev/GameHub-jammy-0.16.3-6-dev-0e3146a-x86_64.AppImage"
     }, {
+        "name": "gams-studio",
+        "version": "1.14.4",
+        "description": "General Algebraic Modeling System.",
+        "url": "https://github.com/GAMS-dev/studio/releases/download/v1.14.4/GAMS_Studio-1.14.4-x86_64.AppImage"
+    }, {
         "name": "gaphor",
         "version": "2.18.1",
         "description": "Gaphor is the simple modeling tool.",
@@ -1196,6 +1201,15 @@
         "url": "https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.8870.git-32fa2af/stoplight-studio-linux-x86_64.AppImage",
         "alt_arch_urls": {
             "x86": "https://github.com/stoplightio/studio/releases/download/v2.10.0-stable.8870.git-32fa2af/stoplight-studio-linux-x86.AppImage"
+        }
+    }, {
+        "name": "streamlink",
+        "version": "5.5.1-2",
+        "description": "Streamlink, a CLI tool for extracting streams to a video player of your choice.",
+        "url": "https://github.com/streamlink/streamlink-appimage/releases/download/5.5.1-2/streamlink-5.5.1-2-cp311-cp311-manylinux2014_x86_64.AppImage",
+        "alt_arch_urls": {
+            "x86": "https://github.com/streamlink/streamlink-appimage/releases/download/5.5.1-2/streamlink-5.5.1-2-cp311-cp311-manylinux2014_i686.AppImage",
+            "aarch64": "https://github.com/streamlink/streamlink-appimage/releases/download/5.5.1-2/streamlink-5.5.1-2-cp311-cp311-manylinux2014_aarch64.AppImage"
         }
     }, {
         "name": "stretchly",
