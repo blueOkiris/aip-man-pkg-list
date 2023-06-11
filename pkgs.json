@@ -297,9 +297,9 @@
         "url": "https://github.com/rizinorg/cutter/releases/download/v2.2.1/Cutter-v2.2.1-Linux-x86_64.AppImage"
     }, {
         "name": "czkawka",
-        "version": "5.1.0",
+        "version": "6.0.0",
         "description": "Multi functional app to find duplicates, empty folders, similar images etc..",
-        "url": "https://github.com/qarmin/czkawka/releases/download/5.1.0/linux_czkawk_gui.AppImage"
+        "url": "https://github.com/qarmin/czkawka/releases/download/6.0.0/linux_czkawka_gui.AppImage"
     }, {
         "name": "datcord",
         "version": "0.4.0",
@@ -432,9 +432,9 @@
         }
     }, { 
         "name": "firefox",
-        "version": "114.0.r20230601151220",
+        "version": "114.0.r20230608214645",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-114.0.r20230601151220-x86_64.AppImage"
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-114.0.r20230608214645-x86_64.AppImage"
     }, {
         "name": "flacon",
         "version": "11.1.0",
@@ -664,9 +664,9 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.1_alpha-135-ge8c3f030",
+        "version": "2.2.1_alpha-150-g97c00660",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-135-ge8c3f030-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-150-g97c00660-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -917,9 +917,9 @@
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage"
      }, {
         "name": "osu",
-        "version": "2023.605.0",
+        "version": "2023.610.0",
         "description": "A free-to-win rhythm game.",
-        "url": "https://github.com/ppy/osu/releases/download/2023.605.0/osu.AppImage"
+        "url": "https://github.com/ppy/osu/releases/download/2023.610.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
         "version": "0.6.1",
@@ -1090,9 +1090,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15159-d752ab01",
+        "version": "0.0.28-15171-c0e97b4e",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-d752ab01511d98b0709c670dbcbc36182b65844b/rpcs3-v0.0.28-15159-d752ab01_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-c0e97b4e962196b5d937cfe423b31b14a1f9ed90/rpcs3-v0.0.28-15171-c0e97b4e_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.10",
@@ -1395,9 +1395,9 @@
         "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
     }, {
         "name": "whalebird",
-        "version": "5.0.5",
+        "version": "5.0.6",
         "description": "An Electron based Mastodon, Pleroma, and Misskey client for Windows, Mac, and Linux.",
-        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.5/Whalebird-5.0.5-linux-x86_64.AppImage"
+        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.6/Whalebird-5.0.6-linux-x86_64.AppImage"
     }, {
         "name": "widelands",
         "version": "1.1",
@@ -1452,9 +1452,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230608",
+        "version": "mainline-20230610",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1463/yuzu-mainline-20230608-b3e2c9f9f.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1464/yuzu-mainline-20230610-c4edc9899.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
