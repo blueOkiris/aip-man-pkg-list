@@ -434,7 +434,7 @@
         "name": "firefox",
         "version": "114.0.r20230608214645",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox/firefox-114.0.r20230608214645-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/blob/firefox/firefox-114.0.r20230608214645-x86_64.AppImage"
     }, {
         "name": "flacon",
         "version": "11.1.0",
@@ -664,7 +664,7 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "2.2.1_alpha-150-g97c00660",
+        "version": "alpha",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
         "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-150-g97c00660-x86_64.AppImage"
     }, {
