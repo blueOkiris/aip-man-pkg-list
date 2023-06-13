@@ -666,7 +666,7 @@
         "name": "librecad",
         "version": "alpha",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-150-g97c00660-x86_64.AppImage"
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-165-gafa172d1-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
@@ -1155,9 +1155,9 @@
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.10.1/Slippi-Launcher-2.10.1-x86_64.AppImage"
     }, {
         "name": "smplayer",
-        "version": "22.7.0.10140",
+        "version": "2023.06.12",
         "description": "SMPlayer is a free media player for Windows and Linux with built-in codecs.",
-        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0.10139/SMPlayer-22.7.0.10140-x86_64.AppImage"
+        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v2023.06.12/SMPlayer-22.7.0.10144-x86_64.AppImage"
     }, {
         "name": "sonixd",
         "version": "0.15.5",
