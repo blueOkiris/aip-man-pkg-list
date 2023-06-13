@@ -11,9 +11,9 @@
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
     }, {
         "name": "acreom",
-        "version": "1.6.8",
+        "version": "1.7.0",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.6.8/acreom-1.6.8.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.7.0/acreom-1.7.0.AppImage"
     }, {
         "name": "aisap",
         "version": "0.7.13-alpha",
@@ -199,9 +199,9 @@
         }
     }, {
         "name": "butterfly",
-        "version": "2.0.0-alpha.4",
+        "version": "2.0.0-beta.0",
         "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
-        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-alpha.4/linwood-butterfly-linux.AppImage"
+        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.0/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
         "version": "2.57.4",
@@ -1046,9 +1046,9 @@
         "url": "https://github.com/jurplel/qView/releases/download/5.0/qView-5.0-x86_64.AppImage"
     }, {
         "name": "rare",
-        "version": "1.10.2",
+        "version": "1.10.3",
         "description": "Rare is a graphical interface for Legendary, a command line alternative to Epic Games launcher, based on PyQt5.",
-        "url": "https://github.com/Dummerle/Rare/releases/download/1.10.2/Rare-1.10.2.AppImage"
+        "url": "https://github.com/Dummerle/Rare/releases/download/1.10.3/Rare-1.10.3.AppImage"
     }, {
         "name": "raven-reader",
         "version": "1.0.79",
@@ -1090,9 +1090,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15171-c0e97b4e",
+        "version": "0.0.28-15179-cedfb95f",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-c0e97b4e962196b5d937cfe423b31b14a1f9ed90/rpcs3-v0.0.28-15171-c0e97b4e_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-cedfb95f9bfa5d247a4af41bdd4c0636e9bc9068/rpcs3-v0.0.28-15179-cedfb95f_linux64.AppImagee"
     }, {
         "name": "saber",
         "version": "0.12.10",
@@ -1419,9 +1419,9 @@
         }
     }, {
         "name": "xemu",
-        "version": "0.7.92",
+        "version": "0.7.94",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.92/xemu-v0.7.92-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.94/xemu-v0.7.94-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -1452,9 +1452,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230610",
+        "version": "mainline-20230612",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1464/yuzu-mainline-20230610-c4edc9899.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1467/yuzu-mainline-20230612-be14d8ea3.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
