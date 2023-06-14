@@ -666,7 +666,7 @@
         "name": "librecad",
         "version": "alpha",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-165-gafa172d1-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/librecad/LibreCAD-2.2.1_alpha-157-gce19c87f-x86_64.AppImage"
     }, {
         "name": "libreoffice-fresh-basic",
         "version": "7.5.2.2",
