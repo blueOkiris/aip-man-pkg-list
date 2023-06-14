@@ -147,11 +147,11 @@
         "url": "https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage"
     }, {
         "name": "beekeeper-studio",
-        "version": "3.9.14",
+        "version": "3.9.17",
         "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
-        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14.AppImage",
+        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.17/Beekeeper-Studio-3.9.17.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.14/Beekeeper-Studio-3.9.14-arm64.AppImage"
+            "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.17/Beekeeper-Studio-3.9.17-arm64.AppImage"
         }
     }, {
         "name": "bforartists",
@@ -186,8 +186,18 @@
     }, {
         "name": "brave",
         "version": "1.51.110",
-        "description": "Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.",
+        "description": "Brave Browser - Secure, Fast & Private Web Browser with Adblocker.",
         "url": "https://gitlab.com/linuxappimage/brave-browser/-/jobs/artifacts/main/raw/brave-browser-x86_64.AppImage?job=run-build"
+    }, {
+        "name": "bruno",
+        "version": "0.12.2",
+        "description": "Opensource IDE For Exploring and Testing Api's.",
+        "url": "https://github.com/usebruno/bruno/releases/download/v0.12.2/bruno_0.12.2_x86_64_linux.AppImage"
+    }, {
+        "name": "buckets",
+        "version": "0.70.4",
+        "description": "Make your budget quick, simple and private.",
+        "url": "https://github.com/buckets/application/releases/download/v0.70.4/Buckets-0.70.4.AppImage"
     }, {
         "name": "buttercup",
         "version": "2.20.3",
@@ -245,6 +255,11 @@
         "version": "2.1.1",
         "description": "Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, NetBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.",
         "url": "https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.1.1/Chiaki-v2.1.1-Linux-x86_64.AppImage"
+    }, {
+        "name": "cider",
+        "version": "1.6.1",
+        "description": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
+        "url": "https://github.com/ciderapp/Cider/releases/download/v1.6.1/Cider-1.6.1.AppImage"
     }, {
         "name": "cinelerra-gg",
         "version": "20230430",
@@ -318,6 +333,14 @@
         "alt_arch_urls": {
             "aarch64": "https://github.com/dbgate/dbgate/releases/download/v5.2.6/dbgate-5.2.6-linux_arm64.AppImage",
             "arm": "https://github.com/dbgate/dbgate/releases/download/v5.2.6/dbgate-5.2.6-linux_armv7l.AppImage"
+        }
+    }, {    
+        "name": "deckboard",
+        "version": "5.2.6",
+        "description": "Control your PC with your phone in easy way possible.",
+        "url": "https://github.com/rivafarabi/deckboard/releases/download/v2.1.3/Deckboard-2.1.3.AppImage",
+        "alt_arch_urls": {
+            "x86": "https://github.com/rivafarabi/deckboard/releases/download/v2.1.3/Deckboard-2.1.3-i386.AppImage"
         }
     }, {
         "name": "deltachat",
@@ -699,9 +722,9 @@
         "url": "https://github.com/localsend/localsend/releases/download/v1.10.0/LocalSend-1.10.0-linux-x86-64.AppImage"
     }, {
         "name": "logseq",
-        "version": "0.9.8",
+        "version": "0.9.9",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
-        "url": "https://github.com/logseq/logseq/releases/download/0.9.8/Logseq-linux-x64-0.9.8.AppImage"
+        "url": "https://github.com/logseq/logseq/releases/download/0.9.9/Logseq-linux-x64-0.9.9.AppImage"
     }, {
         "name": "lossless-cut",
         "version": "3.54.0",
@@ -734,9 +757,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.0.6",
+        "version": "4.0.8",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.6/linux-Miru-4.0.6.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.8/linux-Miru-4.0.8.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -822,9 +845,9 @@
         }
     }, {
         "name": "nextcloud",
-        "version": "3.8.2",
+        "version": "3.9.0",
         "description": "Online collaboration solution",
-        "url": "https://github.com/nextcloud/desktop/releases/download/v3.8.2/Nextcloud-3.8.2-x86_64.AppImage"
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v3.9.0/Nextcloud-3.9.0-x86_64.AppImage"
     }, {
         "name": "nheko",
         "version": "0.11.3",
@@ -872,6 +895,11 @@
         "description": "Streaming music player that finds free music for you.",
         "url": "https://github.com/nukeop/nuclear/releases/download/v0.6.21/nuclear-v0.6.21.AppImage"
     }, {
+        "name": "nvtop",
+        "version": "3.0.2",
+        "description": "GPUs process monitoring for AMD, Intel and NVIDIA.",
+        "url": "https://github.com/Syllo/nvtop/releases/download/3.0.2/nvtop-x86_64.AppImage"
+    }, {
         "name": "obs-studio",
         "version": "29.0.2",
         "description": "Free and open source software for video recording and live streaming.",
@@ -917,9 +945,9 @@
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage"
      }, {
         "name": "osu",
-        "version": "2023.610.0",
+        "version": "2023.614.1",
         "description": "A free-to-win rhythm game.",
-        "url": "https://github.com/ppy/osu/releases/download/2023.610.0/osu.AppImage"
+        "url": "https://github.com/ppy/osu/releases/download/2023.614.1/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
         "version": "0.6.1",
@@ -1090,9 +1118,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15179-cedfb95f",
+        "version": "0.0.28-15184-d662a39a",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-cedfb95f9bfa5d247a4af41bdd4c0636e9bc9068/rpcs3-v0.0.28-15179-cedfb95f_linux64.AppImagee"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-d662a39a1268977640cdea9fa6db2b486fddb74e/rpcs3-v0.0.28-15184-d662a39a_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.12.10",
@@ -1264,12 +1292,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.1.2",
+        "version": "1.1.3",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.2/teams-for-linux-1.1.2.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.3/teams-for-linux-1.1.3.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.2/teams-for-linux-1.1.2-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.2/teams-for-linux-1.1.2-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.3/teams-for-linux-1.1.3-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.3/teams-for-linux-1.1.3-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1351,9 +1379,9 @@
         "url": "https://github.com/0neGal/viper/releases/download/v1.7.3/Viper-1.7.3.AppImage"
     }, {
         "name": "vscodium",
-        "version": "1.79.0.23159",
+        "version": "1.79.1.23164",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.79.0.23159/VSCodium-1.79.0.23159.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.79.1.23164/VSCodium-1.79.1.23164.glibc2.17-x86_64.AppImage"
     }, {
         "name": "vup",
         "version": "0.14.3",
@@ -1419,9 +1447,9 @@
         }
     }, {
         "name": "xemu",
-        "version": "0.7.94",
+        "version": "0.7.95",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.94/xemu-v0.7.94-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.95/xemu-v0.7.95-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -1452,9 +1480,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230612",
+        "version": "mainline-20230613",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1467/yuzu-mainline-20230612-be14d8ea3.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1468/yuzu-mainline-20230613-4aae97d4a.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
