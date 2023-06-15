@@ -11,9 +11,9 @@
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
     }, {
         "name": "acreom",
-        "version": "1.7.0",
+        "version": "1.7.1",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.7.0/acreom-1.7.0.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.7.1/acreom-1.7.1.AppImage"
     }, {
         "name": "aisap",
         "version": "0.7.13-alpha",
@@ -364,9 +364,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.27-x86_64.AppImage"
     }, {
         "name": "drawio",
-        "version": "21.3.7",
+        "version": "21.4.0",
         "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
-        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.3.7/drawio-x86_64-21.3.7.AppImage"
+        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.4.0/drawio-x86_64-21.4.0.AppImage"
     }, {
         "name": "duckstation",
         "version": "preview",
@@ -457,7 +457,7 @@
         "name": "firefox",
         "version": "114.0.r20230608214645",
         "description": "Browse the World Wide Web",
-        "url": "https://github.com/blueOkiris/aip-man-pkgs/blob/firefox/firefox-114.0.r20230608214645-x86_64.AppImage"
+        "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/firefox/firefox-114.0.r20230608214645-x86_64.AppImage"
     }, {
         "name": "flacon",
         "version": "11.1.0",
@@ -757,9 +757,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.0.8",
+        "version": "4.0.9",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.8/linux-Miru-4.0.8.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.9/linux-Miru-4.0.9.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -1153,9 +1153,9 @@
         "url": "https://github.com/karwler/sfbrename/releases/download/v1.0.0/sfbrename-gtk-1.0.0-x86_64.AppImage"
     }, {
         "name": "shotcut",
-        "version": "23.05.14",
+        "version": "23.06.14",
         "description": "Shotcut - a free, open source, cross-platform video editor",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v23.05.14/shotcut-linux-x86_64-230514.AppImage"
+        "url": "https://github.com/mltframework/shotcut/releases/download/v23.06.14/shotcut-linux-x86_64-230614.AppImage"
     }, {
         "name": "sigma-file-manager",
         "version": "1.6.0",
@@ -1292,12 +1292,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.1.3",
+        "version": "1.1.6",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.3/teams-for-linux-1.1.3.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.6/teams-for-linux-1.1.6.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.3/teams-for-linux-1.1.3-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.3/teams-for-linux-1.1.3-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.6/teams-for-linux-1.1.6-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.6/teams-for-linux-1.1.6-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1341,9 +1341,9 @@
         "url": "https://github.com/tropy/tropy/releases/download/v1.14.0/Tropy-1.14.0-x86_64.AppImage"
     }, {
         "name": "tutanota",
-        "version": "3.113.3",
+        "version": "3.114.1",
         "description": "Tutanota is the secure email service with built-in end-to-end encryption that enables you to communicate securely with anyone on all your devices.",
-        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.113.3/tutanota-desktop-linux.AppImage" 
+        "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.114.1/tutanota-desktop-linux.AppImage" 
     }, {
         "name": "twake",
         "version": "1.3.3",
@@ -1423,9 +1423,9 @@
         "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
     }, {
         "name": "whalebird",
-        "version": "5.0.6",
+        "version": "5.0.7",
         "description": "An Electron based Mastodon, Pleroma, and Misskey client for Windows, Mac, and Linux.",
-        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.6/Whalebird-5.0.6-linux-x86_64.AppImage"
+        "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v5.0.7/Whalebird-5.0.7-linux-x86_64.AppImage"
     }, {
         "name": "widelands",
         "version": "1.1",
