@@ -344,9 +344,9 @@
         }
     }, {
         "name": "deltachat",
-        "version": "1.37.1",
+        "version": "1.38.0",
         "description": "Email-based instant messaging for Desktop.",
-        "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.37.1/DeltaChat-1.37.1.AppImage"
+        "url": "https://download.delta.chat/desktop/v1.38.0/DeltaChat-1.38.0.AppImage"
     }, {
         "name": "devilutionx",
         "version": "1.4.1",
@@ -524,11 +524,6 @@
         "description": "General Algebraic Modeling System.",
         "url": "https://github.com/GAMS-dev/studio/releases/download/v1.14.4/GAMS_Studio-1.14.4-x86_64.AppImage"
     }, {
-        "name": "gaphor",
-        "version": "2.18.1",
-        "description": "Gaphor is the simple modeling tool.",
-        "url": "https://github.com/gaphor/gaphor/releases/download/2.18.1/Gaphor-2.18.1-x86_64.AppImage"
-    }, {
         "name": "gdevelop",
         "version": "5.2.165",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
@@ -692,7 +687,7 @@
         "url": "https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage"
     }, {
         "name": "librecad",
-        "version": "alpha",
+        "version": "2.2.1_alpha-157",
         "description": "LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD. LibreCAD uses the cross-platform framework Qt, which means it works with most operating systems.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/librecad/LibreCAD-2.2.1_alpha-157-gce19c87f-x86_64.AppImage"
     }, {
@@ -762,9 +757,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.0.9",
+        "version": "4.1.0",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.0.9/linux-Miru-4.0.9.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.0/linux-Miru-4.1.0.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -888,11 +883,11 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.1.0/Notes_2.1.0-Qt6.3.2-x86_64.AppImage"
     }, {
         "name": "notesnook",
-        "version": "2.5.2",
+        "version": "2.5.3",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.2/notesnook_linux_x86_64.AppImage",
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.3/notesnook_linux_x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.2/notesnook_linux_arm64.AppImage"
+            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.3/notesnook_linux_arm64.AppImage"
         }
     }, {
         "name": "nuclear",
@@ -950,9 +945,9 @@
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage"
      }, {
         "name": "osu",
-        "version": "2023.617.0",
+        "version": "2023.621.0",
         "description": "A free-to-win rhythm game.",
-        "url": "https://github.com/ppy/osu/releases/download/2023.617.0/osu.AppImage"
+        "url": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
         "version": "0.6.1",
@@ -1123,9 +1118,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15215-073b723c",
+        "version": "0.0.28-15216-441fbd63",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-073b723c09375caa538613df91f7716fcc7f5718/rpcs3-v0.0.28-15215-073b723c_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-441fbd63bb8796bdd2986bed0caa94a178b9a3f2/rpcs3-v0.0.28-15216-441fbd63_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.13.1",
@@ -1190,7 +1185,7 @@
         "name": "smplayer",
         "version": "2023.06.12",
         "description": "SMPlayer is a free media player for Windows and Linux with built-in codecs.",
-        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v2023.06.12/SMPlayer-22.7.0.10144-x86_64.AppImage"
+        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v2023.06.20/SMPlayer-22.7.0.10152-x86_64.AppImage"
     }, {
         "name": "sonixd",
         "version": "0.15.5",
