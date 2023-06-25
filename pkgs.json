@@ -281,6 +281,11 @@
         "description": "Light-weight system monitor for X, Wayland, and other things, too.",
         "url": "https://github.com/brndnmtthws/conky/releases/download/v1.19.2/conky-x86_64.AppImage"
     }, {
+        "name": "converseen",
+        "version": "0.9.11.1-1",
+        "description": "A Batch Image Conversion Tool for Windows & Linux",
+        "url": "https://sourceforge.net/projects/converseen/files/Converseen/Converseen%200.9/Converseen-0.9.11.1-1-x86_64.AppImage"
+    }, {
         "name": "coolercontrol",
         "version": "0.16.0",
         "description": "A program to monitor and control your cooling devices.",
@@ -1236,11 +1241,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.162.0",
+        "version": "3.162.1",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.0-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.1-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.0-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.1-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
