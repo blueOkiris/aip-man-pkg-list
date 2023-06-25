@@ -209,9 +209,9 @@
         }
     }, {
         "name": "butterfly",
-        "version": "2.0.0-beta.0",
+        "version": "2.0.0-beta.1",
         "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
-        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.0/linwood-butterfly-linux.AppImage"
+        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.1/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
         "version": "2.57.4",
@@ -219,9 +219,9 @@
         "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.4/Caprine-2.57.4.AppImage"
     }, {
         "name": "cemu",
-        "version": "2.0-41",
+        "version": "2.0-42",
         "description": "Cemu - Wii U emulator.",
-        "url": "https://github.com/cemu-project/Cemu/releases/download/v2.0-41/Cemu-2.0-41-x86_64.AppImage"
+        "url": "https://github.com/cemu-project/Cemu/releases/download/v2.0-42/Cemu-2.0-42-x86_64.AppImage"
     }, {
         "name": "cerebro",
         "version": "0.11.0",
@@ -247,9 +247,9 @@
         "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.4/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
-        "version": "0.99.55",
+        "version": "0.99.56",
         "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
-        "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.55/CherryTree-0.99.55-x86_64.AppImage"
+        "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.56/CherryTree-0.99.56-x86_64.AppImage"
     }, {
         "name": "chiaki",
         "version": "2.1.1",
@@ -344,9 +344,9 @@
         }
     }, {
         "name": "deltachat",
-        "version": "1.38.0",
+        "version": "1.38.1",
         "description": "Email-based instant messaging for Desktop.",
-        "url": "https://download.delta.chat/desktop/v1.38.0/DeltaChat-1.38.0.AppImage"
+        "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.38.1/DeltaChat-1.38.1.AppImage"
     }, {
         "name": "devilutionx",
         "version": "1.4.1",
@@ -402,9 +402,9 @@
         "url": "https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_linux_x86_64.AppImage"
     }, {
         "name": "ente",
-        "version": "1.6.32",
+        "version": "1.6.33",
         "description": "Desktop app for ente.io.",
-        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.32/ente-1.6.32.AppImage" 
+        "url": "https://github.com/ente-io/photos-desktop/releases/download/v1.6.33/ente-1.6.33.AppImage" 
     }, {
         "name": "etcher",
         "version": "1.18.6",
@@ -437,9 +437,9 @@
         "url": "https://github.com/jeffvli/feishin/releases/download/v0.1.1/Feishin-0.1.1-linux-x86_64.AppImage"
     }, {
         "name": "ferdium",
-        "version": "6.3.0",
+        "version": "6.4.0",
         "description": "Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.",
-        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.3.0/Ferdium-linux-Portable-6.3.0-x86_64.AppImage"
+        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.4.0/Ferdium-linux-Portable-6.4.0-x86_64.AppImage"
     }, {
         "name": "figma-linux",
         "version": "0.10.0",
@@ -525,11 +525,11 @@
         "url": "https://github.com/GAMS-dev/studio/releases/download/v1.14.4/GAMS_Studio-1.14.4-x86_64.AppImage"
     }, {
         "name": "gdevelop",
-        "version": "5.2.165",
+        "version": "5.2.166",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
-        "url": "https://github.com/4ian/GDevelop/releases/download/v5.2.165/GDevelop-5-5.2.165.AppImage",
+        "url": "https://github.com/4ian/GDevelop/releases/download/v5.2.166/GDevelop-5-5.2.166.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/4ian/GDevelop/releases/download/v5.2.165/GDevelop-5-5.2.165-arm64.AppImage"
+            "aarch64": "https://github.com/4ian/GDevelop/releases/download/v5.2.166/GDevelop-5-5.2.166-arm64.AppImage"
         }     
     }, {
         "name": "gdlauncher",
@@ -538,9 +538,9 @@
         "url": "https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.30/GDLauncher-linux-setup.AppImage"
     }, {
         "name": "gdm-settings",
-        "version": "3.1",
+        "version": "3.2",
         "description": "A settings app for GNOME's Login Manager, GDM.",
-        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.1/Login_Manager_Settings.AppImage" 
+        "url": "https://github.com/gdm-settings/gdm-settings/releases/download/v3.2/Login_Manager_Settings.AppImage" 
     }, {
         "name": "giada",
         "version": "0.25.0",
@@ -628,9 +628,9 @@
         "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.5.3/jitsi-meet-x86_64.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.11.9",
+        "version": "2.11.11",
         "description": "Open source note taking and to-do application with synchronisation capabilities.",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.11.9/Joplin-2.11.9.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.11.11/Joplin-2.11.11.AppImage"
     }, {
         "name": "kate",
         "version": "23.04.0",
@@ -757,9 +757,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.1.0",
+        "version": "4.1.2",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.0/linux-Miru-4.1.0.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.2/linux-Miru-4.1.2.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -883,17 +883,17 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.1.0/Notes_2.1.0-Qt6.3.2-x86_64.AppImage"
     }, {
         "name": "notesnook",
-        "version": "2.5.3",
+        "version": "2.5.4",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.3/notesnook_linux_x86_64.AppImage",
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.4/notesnook_linux_x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.3/notesnook_linux_arm64.AppImage"
+            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.4/notesnook_linux_arm64.AppImage"
         }
     }, {
         "name": "nuclear",
-        "version": "v0.6.21",
+        "version": "v0.6.24",
         "description": "Streaming music player that finds free music for you.",
-        "url": "https://github.com/nukeop/nuclear/releases/download/v0.6.21/nuclear-v0.6.21.AppImage"
+        "url": "https://github.com/nukeop/nuclear/releases/download/v0.6.24/nuclear-v0.6.24.AppImage"
     }, {
         "name": "nvtop",
         "version": "3.0.2",
@@ -950,9 +950,9 @@
         "url": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
-        "version": "0.6.1",
+        "version": "0.7.0",
         "description": "The mod manager for the Outer Wilds Mod Loader.",
-        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.6.1/outer-wilds-mod-manager_0.6.1_amd64.AppImage"
+        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.7.0/outer-wilds-mod-manager_0.7.0_amd64.AppImage"
     }, {
         "name": "owncloud",
         "version": "4.0.0.10896",
@@ -1049,9 +1049,9 @@
         "url": "https://github.com/zaps166/QMPlay2/releases/download/23.02.05/QMPlay2-23.02.05-1-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.6.5",
+        "version": "23.6.6",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.5/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.6/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -1118,9 +1118,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15216-441fbd63",
+        "version": "0.0.28-15231-70ce7ee1",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-441fbd63bb8796bdd2986bed0caa94a178b9a3f2/rpcs3-v0.0.28-15216-441fbd63_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-70ce7ee106ecc95ab0c5e55448b500dbe4b0b3e6/rpcs3-v0.0.28-15231-70ce7ee1_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.13.1",
@@ -1211,11 +1211,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.161.2",
+        "version": "3.162.0",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.161.2/standard-notes-3.161.2-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.0-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.161.2/standard-notes-3.161.2-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.0-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1311,9 +1311,9 @@
         "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage&r=1"
     }, {
         "name": "thorium",
-        "version": "M113.0.5672.134",
+        "version": "M114.0.5735.134",
         "description": "Chromium fork with additional features.",
-        "url": "https://github.com/Alex313031/thorium/releases/download/M113.0.5672.134/Thorium_Browser_113.0.5672.134_x64.AppImage"
+        "url": "https://github.com/Alex313031/thorium/releases/download/M114.0.5735.134/Thorium_Browser_114.0.5735.134_x64.AppImage"
     }, {
         "name": "thorium-reader",
         "version": "2.2.0",
@@ -1331,9 +1331,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/thunderbird/Thunderbird-102.8_20230214184313.AppImage"
     }, {
         "name": "tidal-hifi",
-        "version": "5.2.0",
+        "version": "5.3.0",
         "description": "The web version of Tidal running in electron with hifi support thanks to widevine.",
-        "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.2.0/tidal-hifi-5.2.0.AppImage" 
+        "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.3.0/tidal-hifi-5.3.0.AppImage" 
     }, {
         "name": "tropy",
         "version": "1.14.0",
@@ -1480,9 +1480,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230618",
+        "version": "mainline-20230623",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1474/yuzu-mainline-20230618-ce191ba32.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1478/yuzu-mainline-20230623-3a991f3ae.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
