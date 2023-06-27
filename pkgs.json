@@ -11,14 +11,14 @@
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
     }, {
         "name": "acreom",
-        "version": "1.7.1",
+        "version": "1.7.3",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.7.1/acreom-1.7.1.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.7.3/acreom-1.7.3.AppImage"
     }, {
         "name": "aisap",
         "version": "0.7.13-alpha",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/mgord9518/aisap/releases/download/continuous/aisap-0.7.13-alpha-x86_64.AppImage"
+        "url": "https://github.com/mgord9518/aisap/releases/download/continuous/aisap-0.8.0-alpha-x86_64.AppImage"
     }, {
         "name": "alacritty",
         "version": "0.11.0",
@@ -26,9 +26,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/alacritty/alacritty-x86_64-0.11.0.AppImage"
     }, {
         "name": "alephium",
-        "version": "2.0.1",
+        "version": "2.0.2",
         "description": "Securely store and transfer your ALPH.",
-        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.0.1/Alephium-2.0.1.AppImage"
+        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.0.2/Alephium-2.0.2.AppImage"
     }, {
         "name": "allusion",
         "version": "1.0.0-rc.10",
@@ -50,24 +50,19 @@
         "description": "Altus is an Electron-based WhatsApp client with themes and multiple account support.",
         "url": "https://github.com/amanharwara/altus/releases/download/4.8.6/Altus-4.8.6-x86_64.AppImage"
     }, {
-        "name": "android-studio",
-        "version": "2021.3.1",
-        "description": "Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.",
-        "url": "https://apprepo.de/appimage/download/android-studio"
-    }, {
         "name": "antares",
-        "version": "0.7.10",
+        "version": "0.7.11",
         "description": "A modern, fast and productivity driven SQL client with a focus in UX.",
-        "url": "https://github.com/antares-sql/antares/releases/download/v0.7.10/Antares-0.7.10-linux_x86_64.AppImage",
+        "url": "https://github.com/antares-sql/antares/releases/download/v0.7.11/Antares-0.7.11-linux_x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://featherwallet.org/files/releases/linux-arm64-appimage/feather-2.4.9-arm64.AppImage",
-            "arm": "https://github.com/antares-sql/antares/releases/download/v0.7.10/Antares-0.7.10-linux_armv7l.AppImage"
+            "aarch64": "https://github.com/antares-sql/antares/releases/download/v0.7.11/Antares-0.7.11-linux_arm64.AppImage",
+            "arm": "https://github.com/antares-sql/antares/releases/download/v0.7.11/Antares-0.7.11-linux_armv7l.AppImage"
         }
     }, {
         "name": "antimicrox",
-        "version": "3.3.3",
+        "version": "3.3.4",
         "description": "AntiMicroX is a graphical program used to map gamepad keys to keyboard, mouse, scripts and macros.",
-        "url": "https://github.com/AntiMicroX/antimicrox/releases/download/3.3.3/AntiMicroX-x86_64.AppImage"
+        "url": "https://github.com/AntiMicroX/antimicrox/releases/download/3.3.4/AntiMicroX-x86_64.AppImage"
     }, {
         "name": "anydesk",
         "version": "6.2.1-1",
@@ -108,9 +103,9 @@
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
         "name": "aptakube",
-        "version": "1.4.6",
+        "version": "1.4.7",
         "description": "Modern, lightweight and multi-cluster Kubernetes desktop client.",
-        "url": "https://github.com/aptakube/aptakube/releases/download/1.4.6/aptakube_1.4.6_amd64.AppImage"
+        "url": "https://github.com/aptakube/aptakube/releases/download/1.4.7/aptakube_1.4.7_amd64.AppImage"
     }, {
         "name": "arduino-ide",
         "version": "2.1.0",
@@ -379,9 +374,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.27-x86_64.AppImage"
     }, {
         "name": "drawio",
-        "version": "21.5.0",
+        "version": "21.5.1",
         "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
-        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.5.0/drawio-x86_64-21.5.0.AppImage"
+        "url": "hhttps://github.com/jgraph/drawio-desktop/releases/download/v21.5.1/drawio-x86_64-21.5.1.AppImage"
     }, {
         "name": "dropbox",
         "version": "108.4.453-1",
@@ -619,18 +614,18 @@
         "url": "https://download.hypertrader.app/HyperTrader-2.36.0.AppImage"
     }, {
         "name": "icalingua-plus-plus/",
-        "version": "2.9.13",
+        "version": "2.9.20",
         "description": "A client for QQ.",
-        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13.AppImage",
+        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.20/Icalingua++-2.9.20.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-arm64.AppImage",
-            "arm": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.13/Icalingua++-2.9.13-armv7l.AppImage"
+            "aarch64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.20/Icalingua++-2.9.20-arm64.AppImage",
+            "arm": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.20/Icalingua++-2.9.20-armv7l.AppImage"
         }    
     }, {
         "name": "imhex",
-        "version": "1.29.0",
+        "version": "1.30.1",
         "description": "A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-        "url": "https://github.com/WerWolv/ImHex/releases/download/v1.29.0/imhex-1.29.0-x86_64.AppImage"
+        "url": "https://github.com/WerWolv/ImHex/releases/download/v1.30.1/imhex-1.30.1-x86_64.AppImage"
     }, {
         "name": "inkscape",
         "version": "1.2.2",
@@ -638,9 +633,9 @@
         "url": "https://inkscape.org/gallery/item/37359/Inkscape-b0a8486-x86_64.AppImage"
     }, {
         "name": "insomnia",
-        "version": "2023.2.2",
+        "version": "2023.3.0",
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
-        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.2.2/Insomnia.Core-2023.2.2.AppImage"
+        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.3.0/Insomnia.Core-2023.3.0.AppImage"
     }, {
         "name": "jitsi-meet",
         "version": "2023.5.3",
@@ -653,14 +648,14 @@
         "url": "https://github.com/laurent22/joplin/releases/download/v2.11.11/Joplin-2.11.11.AppImage"
     }, {
         "name": "kate",
-        "version": "23.04.0",
+        "version": "23.04.2-913",
         "description": "Kate is a feature-packed Text Editor.",
-        "url": "https://binary-factory.kde.org/job/Kate_Release_appimage-centos7/lastSuccessfulBuild/artifact/kate-23.04.0-848-linux-gcc-x86_64.AppImage"
+        "url": "https://binary-factory.kde.org/job/Kate_Release_appimage-centos7/lastSuccessfulBuild/artifact/kate-23.04.2-913-linux-gcc-x86_64.AppImage"
     }, {
         "name": "kdenlive",
-        "version": "23.04",
+        "version": "23.04.2-627",
         "description": "Kdenlive is a non linear video editor.",
-        "url": "https://download.kde.org/stable/kdenlive/23.04/linux/kdenlive-23.04.0-x86_64.AppImage"
+        "url": "https://binary-factory.kde.org/job/Kdenlive_Stable_appimage-centos7/lastSuccessfulBuild/artifact/kdenlive-23.04.2-627-linux-gcc-x86_64.AppImage"
     }, {
         "name": "keepassxc",
         "version": "2.7.5",
@@ -697,9 +692,9 @@
         "url": "https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.AppImage"
     }, {    
         "name": "lens",
-        "version": "2023.5.120950",
+        "version": "2023.5.310801",
         "description": "Lens is the way the world runs Kubernetes.",
-        "url": "https://api.k8slens.dev/binaries/Lens-2023.5.120950-latest.x86_64.AppImage"
+        "url": "https://api.k8slens.dev/binaries/Lens-2023.5.310801-latest.x86_64.AppImage"
     }, {
         "name": "leocad",
         "version": "23.03",
@@ -727,7 +722,7 @@
         "url": "https://github.com/lostdesign/linked/releases/download/v1.5.1/linked-1.5.1.AppImage"
     }, {
         "name": "linphone",
-        "version": "5.0.17",
+        "version": "5.0.18",
         "description": "A complete, secure and interoperable SIP software solution for communication systems developers.",
         "url": "https://linphone.org/releases/linux/latest_app"
     }, {
@@ -767,9 +762,9 @@
         "url": "https://github.com/rolandbernard/marvin/releases/download/v0.4.9/Marvin-0.4.9.AppImage"
     }, {
         "name": "mendeley",
-        "version": "2.86.0",
+        "version": "2.93.0",
         "description": "Mendeley Reference Manager is a free web and desktop reference management application",
-        "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.86.0-x86_64.AppImage"
+        "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.93.0-x86_64.AppImage"
     }, {
         "name": "microsoft-edge",
         "version": "113.0.1774.35-1",
@@ -792,9 +787,9 @@
         "url": "https://github.com/moonlight-stream/moonlight-qt/releases/download/v4.3.1/Moonlight-4.3.1-x86_64.AppImage"
     }, {
         "name": "moonplayer",
-        "version": "4.1",
+        "version": "4.2",
         "description": "Video player that can play online videos from youtube, bilibili etc.",
-        "url": "https://github.com/coslyk/moonplayer/releases/download/v4.1/MoonPlayer--x86_64.AppImage"
+        "url": "https://github.com/coslyk/moonplayer/releases/download/v4.2/MoonPlayer--x86_64.AppImage"
     }, {
         "name": "moosync",
         "version": "8.1.1",
@@ -875,11 +870,11 @@
         "url": "https://github.com/Nheko-Reborn/nheko/releases/download/v0.11.3/nheko-v0.11.3-x86_64.AppImage"
     }, {
         "name": "nightpdf",
-        "version": "2.0.1",
+        "version": "2.0.3",
         "description": "Dark Mode PDF Reader built using Electron and PDF.js.",
-        "url": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-x86_64.AppImage",
+        "url": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.3/NightPDF-2.0.3-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.1/NightPDF-2.0.1-arm64.AppImage"
+            "aarch64": "https://github.com/Lunarequest/NightPDF/releases/download/v2.0.3/NightPDF-2.0.3-arm64.AppImagee"
         }
     }, {
         "name": "nora",
@@ -903,11 +898,11 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.1.0/Notes_2.1.0-Qt6.3.2-x86_64.AppImage"
     }, {
         "name": "notesnook",
-        "version": "2.5.4",
+        "version": "2.5.5",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.4/notesnook_linux_x86_64.AppImage",
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.5/notesnook_linux_x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.4/notesnook_linux_arm64.AppImage"
+            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.5/notesnook_linux_arm64.AppImage"
         }
     }, {
         "name": "nuclear",
@@ -954,10 +949,7 @@
         "name": "openscad",
         "version": "2023.0.2",
         "description": "OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and macOS.",
-        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.05.24.ai15274-x86_64.AppImage",
-        "alt_arch_urls": {
-            "aarch64": "https://files.openscad.org/snapshots/OpenSCAD-2023.03.19.ai-aarch64.AppImage"
-        }
+        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.06.24.ai15506-x86_64.AppImage"
     }, {
         "name": "openshot",
         "version": "3.1.1",
@@ -975,14 +967,14 @@
         "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.7.0/outer-wilds-mod-manager_0.7.0_amd64.AppImage"
     }, {
         "name": "owncloud",
-        "version": "4.0.0.10896",
+        "version": "4.1.0.11250",
         "description": "ownCloud is an open-source file sync, share and content collaboration software that lets teams work on data easily from anywhere, on any device.",
-        "url": "https://download.owncloud.com/desktop/ownCloud/stable/4.0.0.10896/linux-appimage/ownCloud-4.0.0.10896-x86_64.AppImage"
+        "url": "https://download.owncloud.com/desktop/ownCloud/stable/4.1.0.11250/linux-appimage/ownCloud-4.1.0.11250-x86_64.AppImage"
     }, {
         "name": "padloc",
         "version": "4.3.0",
         "description": "A modern, open source password manager for individuals and teams.",
-        "url": "https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_amd64.AppImage"
+        "url": "https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_tauri_amd64.AppImage"
     }, {
         "name": "passky",
         "version": "8.1.1",
@@ -996,9 +988,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4526",
+        "version": "1.7.4650",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4526/pcsx2-v1.7.4526-linux-AppImage-64bit-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4650/pcsx2-v1.7.4650-linux-AppImage-64bit-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1009,9 +1001,9 @@
         }
     }, {
         "name": "photoqt",
-        "version": "3.2",
+        "version": "3.3",
         "description": "PhotoQt is a simple yet powerful and good looking image viewer.",
-        "url": "https://photoqt.org/downloads/PhotoQt-3.2.AppImage"
+        "url": "https://photoqt.org/downloads/PhotoQt-3.3.AppImage"
     }, {
         "name": "picocrypt",
         "version": "1.32",
@@ -1024,9 +1016,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/pkg2appimage/pkg2appimage-1807-x86_64.AppImage"
     }, {
         "name": "play",
-        "version": "0.60",
+        "version": "0.61",
         "description": "Play! is a portable PlayStation2 emulator.",
-        "url": "https://s3.us-east-2.amazonaws.com/playbuilds/f3cd6ea3/Play!-f3cd6ea3-x86_64.AppImage"
+        "url": "https://s3.us-east-2.amazonaws.com/playbuilds/e634f31e/Play!-e634f31e-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
@@ -1051,7 +1043,10 @@
         "name": "pulsar",
         "version": "1.106.0",
         "description": "A Community-led Hyper-Hackable Text Editor.",
-        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.106.0/Linux.Pulsar-1.106.0.AppImage"
+        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.106.0/Linux.Pulsar-1.106.0.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/pulsar-edit/pulsar/releases/download/v1.106.0/ARM.Linux.Pulsar-1.106.0-arm64.AppImage"
+        }
     }, {
         "name": "pyfa",
         "version": "2.53.0",
@@ -1143,9 +1138,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15231-70ce7ee1",
+        "version": "0.0.28-15255-b0a34670",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-70ce7ee106ecc95ab0c5e55448b500dbe4b0b3e6/rpcs3-v0.0.28-15231-70ce7ee1_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b0a346709e207a1713890be36e4cf24cd3c5087b/rpcs3-v0.0.28-15255-b0a34670_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.13.1",
@@ -1246,11 +1241,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.162.1",
+        "version": "3.162.7",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.1-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.7/standard-notes-3.162.7-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.0/standard-notes-3.162.1-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.7/standard-notes-3.162.7-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1327,12 +1322,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.1.6",
+        "version": "1.1.8",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.6/teams-for-linux-1.1.6.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.8/teams-for-linux-1.1.8.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.6/teams-for-linux-1.1.6-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.6/teams-for-linux-1.1.6-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.8/teams-for-linux-1.1.8-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.1.8/teams-for-linux-1.1.8-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1449,12 +1444,12 @@
         "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.113.19-2_x86_64.AppImage"
     }, {
         "name": "webcord",
-        "version": "4.2.0",
+        "version": "4.3.0",
         "description": "A Discord and SpaceBar electron-based client implemented without Discord API.",
-        "url": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-x64.AppImage",
+        "url": "https://github.com/SpacingBat3/WebCord/releases/download/v4.3.0/WebCord-4.3.0-x64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-arm64.AppImage",
-            "arm": "https://github.com/SpacingBat3/WebCord/releases/download/v4.2.0/WebCord-4.2.0-armv7l.AppImage"
+            "aarch64": "https://github.com/SpacingBat3/WebCord/releases/download/v4.3.0/WebCord-4.3.0-arm64.AppImage",
+            "arm": "https://github.com/SpacingBat3/WebCord/releases/download/v4.3.0/WebCord-4.3.0-armv7l.AppImage"
         }
     }, {
         "name": "weektodo",
