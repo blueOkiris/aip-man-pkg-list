@@ -108,9 +108,9 @@
         "url": "https://github.com/aptakube/aptakube/releases/download/1.4.7/aptakube_1.4.7_amd64.AppImage"
     }, {
         "name": "arduino-ide",
-        "version": "2.1.0",
+        "version": "2.1.1",
         "description": "Arduino is a development environment that implements the Processing/Wiring language.",
-        "url": "https://github.com/arduino/arduino-ide/releases/download/2.1.0/arduino-ide_2.1.0_Linux_64bit.AppImage"
+        "url": "https://github.com/arduino/arduino-ide/releases/download/2.1.1/arduino-ide_2.1.1_Linux_64bit.AppImage"
     }, {
         "name": "armcord",
         "version": "3.2.0",
@@ -510,9 +510,9 @@
         "url": "https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.AppImage"
     }, {
         "name": "frappe-books",
-        "version": "0.16.0",
+        "version": "0.17.0",
         "description": "Free Desktop book-keeping software for small businesses and freelancers.",
-        "url": "https://github.com/frappe/books/releases/download/v0.16.0/Frappe-Books-0.16.0.AppImage"
+        "url": "https://github.com/frappe/books/releases/download/v0.17.0/Frappe-Books-0.17.0.AppImage"
     }, {
         "name": "freac",
         "version": "1.1.7",
@@ -614,12 +614,12 @@
         "url": "https://download.hypertrader.app/HyperTrader-2.36.0.AppImage"
     }, {
         "name": "icalingua-plus-plus/",
-        "version": "2.9.20",
+        "version": "2.9.21",
         "description": "A client for QQ.",
-        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.20/Icalingua++-2.9.20.AppImage",
+        "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.21/Icalingua++-2.9.21.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.20/Icalingua++-2.9.20-arm64.AppImage",
-            "arm": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.20/Icalingua++-2.9.20-armv7l.AppImage"
+            "aarch64": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.21/Icalingua++-2.9.21-arm64.AppImage",
+            "arm": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/download/v2.9.21/Icalingua++-2.9.21-armv7l.AppImage"
         }    
     }, {
         "name": "imhex",
@@ -878,9 +878,9 @@
         }
     }, {
         "name": "nora",
-        "version": "2.2.0-stable",
+        "version": "2.3.0-stable",
         "description": "An elegant music player built using Electron and React.",
-        "url": "https://github.com/Sandakan/Nora/releases/download/v2.2.0-stable/Nora-Setup-2.2.0-stable-linux-x86_64.AppImage"
+        "url": "https://github.com/Sandakan/Nora/releases/download/v2.3.0-stable/Nora-Setup-2.3.0-stable-linux-x86_64.AppImage"
     }, {
         "name": "notable",
         "version": "1.8.4",
@@ -898,11 +898,11 @@
         "url": "https://github.com/nuttyartist/notes/releases/download/v2.1.0/Notes_2.1.0-Qt6.3.2-x86_64.AppImage"
     }, {
         "name": "notesnook",
-        "version": "2.5.5",
+        "version": "2.5.6",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.5/notesnook_linux_x86_64.AppImage",
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.6/notesnook_linux_x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.5/notesnook_linux_arm64.AppImage"
+            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.6/notesnook_linux_arm64.AppImage"
         }
     }, {
         "name": "nuclear",
@@ -990,7 +990,7 @@
         "name": "pcsx2",
         "version": "1.7.4650",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4650/pcsx2-v1.7.4650-linux-AppImage-64bit-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4666/pcsx2-v1.7.4666-linux-AppImage-64bit-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1143,9 +1143,9 @@
         "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b0a346709e207a1713890be36e4cf24cd3c5087b/rpcs3-v0.0.28-15255-b0a34670_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.13.1",
+        "version": "2.0.0-beta.2",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.13.1/Saber-0.13.1-x86_64.AppImage"
+        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.2/linwood-butterfly-linux.AppImage"
     }, {
         "name": "sayonara-player",
         "version": "1.8.0-beta1",
@@ -1208,9 +1208,9 @@
         "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.10.1/Slippi-Launcher-2.10.1-x86_64.AppImage"
     }, {
         "name": "smplayer",
-        "version": "2023.06.12",
+        "version": "23.6.0",
         "description": "SMPlayer is a free media player for Windows and Linux with built-in codecs.",
-        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v2023.06.20/SMPlayer-22.7.0.10152-x86_64.AppImage"
+        "url": "https://github.com/smplayer-dev/smplayer/releases/download/v23.6.0/SMPlayer-23.6.0-x86_64.AppImage"
     }, {
         "name": "sonixd",
         "version": "0.15.5",
@@ -1241,11 +1241,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.162.7",
+        "version": "3.162.12",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.7/standard-notes-3.162.7-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.12/standard-notes-3.162.12-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.7/standard-notes-3.162.7-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.162.12/standard-notes-3.162.12-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1520,9 +1520,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230623",
+        "version": "mainline-20230630",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1478/yuzu-mainline-20230623-3a991f3ae.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1482/yuzu-mainline-20230630-f3391dfc6.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
