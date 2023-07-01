@@ -452,9 +452,9 @@
         "url": "https://github.com/jeffvli/feishin/releases/download/v0.1.1/Feishin-0.1.1-linux-x86_64.AppImage"
     }, {
         "name": "ferdium",
-        "version": "6.4.0",
+        "version": "6.4.1-nightly.3",
         "description": "Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.",
-        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.4.0/Ferdium-linux-Portable-6.4.0-x86_64.AppImage"
+        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.4.1-nightly.3/Ferdium-linux-Portable-6.4.1-nightly.3-x86_64.AppImage"
     }, {
         "name": "figma-linux",
         "version": "0.10.0",
@@ -603,9 +603,10 @@
         "name": "hyper",
         "version": "4.0.0-canary.3",
         "description": "A terminal built on web technologies.",
-        "url": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.3/Hyper-4.0.0-canary.3.AppImage",
+        "url": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.4/Hyper-4.0.0-canary.4-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.3/Hyper-4.0.0-canary.3-arm64.AppImage"
+            "aarch64": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.4/Hyper-4.0.0-canary.4-arm64.AppImage",
+            "arm": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.4/Hyper-4.0.0-canary.4-armv7l.AppImage"
         }
     }, {
         "name": "hypertrader",
@@ -672,9 +673,9 @@
         }
     }, {
         "name": "koreader",
-        "version": "2023.05.1",
+        "version": "2023.06",
         "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices.",
-        "url": "https://github.com/koreader/koreader/releases/download/v2023.05.1/koreader-appimage-x86_64-linux-gnu-v2023.05.1.AppImage"
+        "url": "https://github.com/koreader/koreader/releases/download/v2023.06/koreader-appimage-x86_64-linux-gnu-v2023.06.AppImage"
     }, {
         "name": "krita",
         "version": "5.1.5",
@@ -988,9 +989,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4650",
+        "version": "1.7.4669",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4666/pcsx2-v1.7.4666-linux-AppImage-64bit-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4669/pcsx2-v1.7.4669-linux-AppImage-64bit-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1138,9 +1139,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15255-b0a34670",
+        "version": "0.0.28-15275-44801c50",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b0a346709e207a1713890be36e4cf24cd3c5087b/rpcs3-v0.0.28-15255-b0a34670_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-44801c50f3c4ce3ae490ada8d49a678d7e562669/rpcs3-v0.0.28-15275-44801c50_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "2.0.0-beta.2",
