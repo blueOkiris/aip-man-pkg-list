@@ -51,12 +51,12 @@
         "url": "https://github.com/amanharwara/altus/releases/download/4.8.6/Altus-4.8.6-x86_64.AppImage"
     }, {
         "name": "antares",
-        "version": "0.7.11",
+        "version": "0.7.12",
         "description": "A modern, fast and productivity driven SQL client with a focus in UX.",
-        "url": "https://github.com/antares-sql/antares/releases/download/v0.7.11/Antares-0.7.11-linux_x86_64.AppImage",
+        "url": "https://github.com/antares-sql/antares/releases/download/v0.7.12/Antares-0.7.12-linux_x86_64.AppImage",
         "alt_arch_urls": {
             "aarch64": "https://github.com/antares-sql/antares/releases/download/v0.7.11/Antares-0.7.11-linux_arm64.AppImage",
-            "arm": "https://github.com/antares-sql/antares/releases/download/v0.7.11/Antares-0.7.11-linux_armv7l.AppImage"
+            "arm": "https://github.com/antares-sql/antares/releases/download/v0.7.12/Antares-0.7.12-linux_armv7l.AppImage"
         }
     }, {
         "name": "antimicrox",
@@ -743,9 +743,14 @@
         "url": "https://github.com/logseq/logseq/releases/download/0.9.9/Logseq-linux-x64-0.9.9.AppImage"
     }, {
         "name": "lossless-cut",
-        "version": "3.54.0",
+        "version": "3.55.2",
         "description": "The swiss army knife of lossless video/audio editing.",
-        "url": "https://github.com/mifi/lossless-cut/releases/download/v3.54.0/LosslessCut-linux-x86_64.AppImage"
+        "url": "https://github.com/mifi/lossless-cut/releases/download/v3.55.2/LosslessCut-linux-x86_64.AppImagee"
+    }, {
+        "name": "lpub3d",
+        "version": "2.4.7.19.3495_20230703",
+        "description": "Open Source WYSIWYG editing application for creating LEGO® style digital building instructions.",
+        "url": "https://github.com/trevorsandy/lpub3d/releases/download/continuous/LPub3D-2.4.7.19.3495_20230703-x86_64.AppImage"
     }, {
         "name": "lunatask",
         "version": "1.6.6",
@@ -1237,9 +1242,9 @@
         "url": "https://gitlab.com/linuxappimage/spotify/-/jobs/artifacts/master/raw/Spotify-x86_64.AppImage?job=run-build"
     }, {
         "name": "spotube",
-        "version": "2.7.1",
+        "version": "3.0.0",
         "description": "Open source Spotify client that doesn't require Premium nor uses Electron.",
-        "url": "https://github.com/KRTirtho/spotube/releases/download/v2.7.1/Spotube-linux-x86_64.AppImage"
+        "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
         "version": "3.163.3",
