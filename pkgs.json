@@ -171,8 +171,13 @@
     }, {
         "name": "blockbench",
         "version": "4.7.4",
-        "description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
+        "description": "Free, modern model editor for low-poly and boxy models with pixel art textures.",
         "url": "https://github.com/JannisX11/blockbench/releases/download/v4.7.4/Blockbench_4.7.4.AppImage"
+    }, {
+        "name": "blockstream",
+        "version": "1.2.3",
+        "description": "Non-custodial Bitcoin wallet.",
+        "url": "https://github.com/Blockstream/green_qt/releases/download/release_1.2.3/BlockstreamGreen-x86_64.AppImage"
     }, {
         "name": "boostchanger",
         "version": "5.0.2",
