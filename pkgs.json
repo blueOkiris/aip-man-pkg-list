@@ -172,7 +172,7 @@
         "name": "blockbench",
         "version": "4.8.0-beta.1",
         "description": "Free, modern model editor for low-poly and boxy models with pixel art textures.",
-        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.0-beta.1/Blockbench_4.8.0-beta.1.AppImage",
+        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.0-beta.1/Blockbench_4.8.0-beta.1.AppImage"
     }, {
         "name": "blockstream",
         "version": "1.2.3",
@@ -681,9 +681,9 @@
         }
     }, {
         "name": "koreader",
-        "version": "2023.06",
+        "version": "2023.06.1",
         "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices.",
-        "url": "https://github.com/koreader/koreader/releases/download/v2023.06/koreader-appimage-x86_64-linux-gnu-v2023.06.AppImage"
+        "url": "https://github.com/koreader/koreader/releases/download/v2023.06.1/koreader-appimage-x86_64-linux-gnu-v2023.06.1.AppImage"
     }, {
         "name": "krita",
         "version": "5.1.5",
@@ -786,9 +786,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.1.8",
+        "version": "4.1.9",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.8/linux-Miru-4.1.8.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.9/linux-Miru-4.1.9.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -1002,9 +1002,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4704",
+        "version": "1.7.4706",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4704/pcsx2-v1.7.4704-linux-AppImage-64bit-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4706/pcsx2-v1.7.4706-linux-AppImage-64bit-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1152,9 +1152,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15324-050b8fa7",
+        "version": "0.0.28-15330-482dd0e8",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-050b8fa7dfb20b0e2df9540f64a5f1fad416faf6/rpcs3-v0.0.28-15324-050b8fa7_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-482dd0e8f80720d785fa4d00ca19dd3068df0232/rpcs3-v0.0.28-15330-482dd0e8_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.14.5",
@@ -1336,12 +1336,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.2.2",
+        "version": "1.2.3",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.2.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.3.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.2-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.2-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.3/teams-for-linux-1.2.3-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.3-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1501,9 +1501,9 @@
         }
     }, {
         "name": "xemu",
-        "version": "0.7.96",
+        "version": "0.7.97",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.96/xemu-v0.7.96-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.97/xemu-v0.7.97-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
