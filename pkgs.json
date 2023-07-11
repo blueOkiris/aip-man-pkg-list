@@ -41,9 +41,9 @@
         "url": "https://github.com/altair-graphql/altair/releases/download/v5.0.28/altair_5.0.28_x86_64_linux.AppImage" 
     }, {
         "name": "altitude",
-        "version": "3.2.1",
+        "version": "3.3.0",
         "description": "The Altitude wallet is the wallet of choice for Metrix.",
-        "url": "https://github.com/TheLindaProjectInc/Altitude/releases/download/3.2.1/Altitude-Metrix-Wallet-linux-x64.AppImage" 
+        "url": "https://github.com/TheLindaProjectInc/Altitude/releases/download/3.3.0/Altitude-Metrix-Wallet-linux-x64.AppImage" 
     }, {
         "name": "altus",
         "version": "4.8.6",
@@ -543,9 +543,9 @@
         "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-6-dev/GameHub-jammy-0.16.3-6-dev-0e3146a-x86_64.AppImage"
     }, {
         "name": "gams-studio",
-        "version": "1.14.4",
+        "version": "1.15.0",
         "description": "General Algebraic Modeling System.",
-        "url": "https://github.com/GAMS-dev/studio/releases/download/v1.14.4/GAMS_Studio-1.14.4-x86_64.AppImage"
+        "url": "https://github.com/GAMS-dev/studio/releases/download/v1.15.0/GAMS_Studio-1.15.0-x86_64.AppImage"
     }, {
         "name": "gdevelop",
         "version": "5.2.166",
@@ -726,9 +726,9 @@
         "url": "https://download.librepcb.org/releases/0.1.7/librepcb-0.1.7-linux-x86_64.AppImage"
     }, {
         "name": "linked",
-        "version": "1.5.1",
+        "version": "1.5.2",
         "description": "Daily journaling without distraction.",
-        "url": "https://github.com/lostdesign/linked/releases/download/v1.5.1/linked-1.5.1.AppImage"
+        "url": "https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.AppImage"
     }, {
         "name": "linphone",
         "version": "5.0.18",
@@ -786,9 +786,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.1.9",
+        "version": "4.1.12",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.9/linux-Miru-4.1.9.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.12/linux-Miru-4.1.12.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -806,9 +806,9 @@
         "url": "https://github.com/coslyk/moonplayer/releases/download/v4.2/MoonPlayer--x86_64.AppImage"
     }, {
         "name": "moosync",
-        "version": "8.1.1",
+        "version": "9.0.2",
         "description": "Music player capable of playing local audio or from Youtube, Spotify and many more.",
-        "url": "https://github.com/Moosync/Moosync/releases/download/v8.1.1/Moosync-8.1.1-linux-x86_64.AppImage"
+        "url": "https://github.com/Moosync/Moosync/releases/download/v9.0.2/Moosync-9.0.2-linux-x86_64.AppImage"
     }, {
         "name": "motrix",
         "version": "1.8.19",
@@ -976,9 +976,9 @@
         "url": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
-        "version": "0.7.1",
+        "version": "0.7.2",
         "description": "The mod manager for the Outer Wilds Mod Loader.",
-        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.7.1/outer-wilds-mod-manager_0.7.1_amd64.AppImage"
+        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.7.2/outer-wilds-mod-manager_0.7.2_amd64.AppImage"
     }, {
         "name": "owncloud",
         "version": "4.1.0.11250",
@@ -996,15 +996,15 @@
         "url": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.1/Passky-8.1.1.AppImage"
     }, {
         "name": "passy",
-        "version": "1.5.0",
+        "version": "1.5.1",
         "description": "Offline password manager with cross-platform synchronization.",
-        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.5.0/Passy-v1.5.0-Linux-AppImage.zip",
+        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.5.1/Passy-v1.5.1-Linux-AppImage.zip",
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4706",
+        "version": "1.7.4721",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4706/pcsx2-v1.7.4706-linux-AppImage-64bit-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4721/pcsx2-v1.7.4721-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1020,9 +1020,9 @@
         "url": "https://photoqt.org/downloads/PhotoQt-3.3.AppImage"
     }, {
         "name": "picocrypt",
-        "version": "1.32",
+        "version": "1.33",
         "description": "A very small, very simple, yet very secure encryption tool.",
-        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/1.32/Picocrypt.AppImage"
+        "url": "https://github.com/HACKERALERT/Picocrypt/releases/download/1.33/Picocrypt.AppImage"
     }, {
         "name": "pkg2appimage",
         "version": "1807",
@@ -1068,14 +1068,14 @@
         "url": "https://github.com/pyfa-org/Pyfa/releases/download/v2.53.0/pyfa-v2.53.0+3-g194e4657e-linux.AppImage"
     }, {
         "name": "qbittorrent",
-        "version": "4.5.2",
+        "version": "4.5.4",
         "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent.",
-        "url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent-4.5.2_lt20_x86_64.AppImage"
+        "url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent-4.5.4_lt20_x86_64.AppImage"
     }, {
         "name": "qelectrotech",
-        "version": "0.100.0",
+        "version": "0.100.0-r7854",
         "description": "QElectroTech is a free software to create electric diagrams.",
-        "url": "https://download.tuxfamily.org/qet/builds/AppImage/QElectroTech_0.100.0-r7828-x86_64.AppImage"
+        "url": "https://download.tuxfamily.org/qet/builds/AppImage/0.100.0/QElectroTech_0.100.0-r7854-x86_64.AppImage"
     }, {
         "name": "qmplay2",
         "version": "23.02.05",
@@ -1083,9 +1083,9 @@
         "url": "https://github.com/zaps166/QMPlay2/releases/download/23.02.05/QMPlay2-23.02.05-1-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.6.6",
+        "version": "23.7.0",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.6.6/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.7.0/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -1147,19 +1147,19 @@
         }
     }, {
         "name": "rotki",
-        "version": "1.28.0",
+        "version": "1.29.0",
         "description": "rotki is an open source crypto portfolio tracking, analytics, accounting, and tax reporting tool that protects your privacy.",
-        "url": "https://github.com/rotki/rotki/releases/download/v1.28.0/rotki-linux_x86_64-v1.28.0.AppImage"
+        "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15330-482dd0e8",
+        "version": "0.0.28-15341-bff6e0d2",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-482dd0e8f80720d785fa4d00ca19dd3068df0232/rpcs3-v0.0.28-15330-482dd0e8_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-bff6e0d2778d1dde100ff5f4703d446920b9f05d/rpcs3-v0.0.28-15341-bff6e0d2_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.14.5",
+        "version": "0.14.6",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.14.5/Saber-0.14.5-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.14.6/Saber-0.14.6-x86_64.AppImage"
     }, {
         "name": "sayonara-player",
         "version": "1.8.0-beta1",
@@ -1255,11 +1255,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.165.7",
+        "version": "3.165.11",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.165.7/standard-notes-3.165.7-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.165.11/standard-notes-3.165.11-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.165.7/standard-notes-3.165.7-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.165.11/standard-notes-3.165.11-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1321,9 +1321,9 @@
         "url": "https://github.com/johannesjo/super-productivity/releases/download/v7.13.2/superProductivity-7.13.2.AppImage"
     }, {
         "name": "swell",
-        "version": "1.14.0",
+        "version": "1.15.0",
         "description": "Swell is an API development tool that enables developers to test HTTP2, GraphQL endpoints, as well as ones served over streaming technologies including Server-Sent Events (SSE), WebSockets, gRPC, WebRTC, and OpenAPI.",
-        "url": "https://github.com/open-source-labs/Swell/releases/download/v1.14.0/Swell-1.14.0.AppImage"
+        "url": "https://github.com/open-source-labs/Swell/releases/download/v1.15.0/Swell-1.15.0.AppImage"
     }, {
         "name": "swifty",
         "version": "0.6.13",
@@ -1336,12 +1336,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.3.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.3/teams-for-linux-1.2.3-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.2/teams-for-linux-1.2.3-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4-armv7l.AppImage"
         }
     }, {
         "name": "tenacity",
@@ -1534,9 +1534,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230708",
+        "version": "mainline-20230710",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1490/yuzu-mainline-20230708-ea6d6511c.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1492/yuzu-mainline-20230710-f32ca0bb6.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
