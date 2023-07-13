@@ -26,9 +26,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/alacritty/alacritty-x86_64-0.11.0.AppImage"
     }, {
         "name": "alephium",
-        "version": "2.0.2",
+        "version": "2.1.0",
         "description": "Securely store and transfer your ALPH.",
-        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.0.2/Alephium-2.0.2.AppImage"
+        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.1.0/Alephium-2.1.0.AppImage"
     }, {
         "name": "allusion",
         "version": "1.0.0-rc.10",
@@ -103,9 +103,9 @@
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
         "name": "aptakube",
-        "version": "1.4.7",
+        "version": "1.5.0",
         "description": "Modern, lightweight and multi-cluster Kubernetes desktop client.",
-        "url": "https://github.com/aptakube/aptakube/releases/download/1.4.7/aptakube_1.4.7_amd64.AppImage"
+        "url": "https://github.com/aptakube/aptakube/releases/download/1.5.0/aptakube_1.5.0_amd64.AppImage"
     }, {
         "name": "arduino-ide",
         "version": "2.1.1",
@@ -548,11 +548,11 @@
         "url": "https://github.com/GAMS-dev/studio/releases/download/v1.15.0/GAMS_Studio-1.15.0-x86_64.AppImage"
     }, {
         "name": "gdevelop",
-        "version": "5.2.166",
+        "version": "5.2.167",
         "description": "GDevelop is a full-featured, no-code, open-source game development software.",
-        "url": "https://github.com/4ian/GDevelop/releases/download/v5.2.166/GDevelop-5-5.2.166.AppImage",
+        "url": "https://github.com/4ian/GDevelop/releases/download/v5.2.167/GDevelop-5-5.2.167.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/4ian/GDevelop/releases/download/v5.2.166/GDevelop-5-5.2.166-arm64.AppImage"
+            "aarch64": "https://github.com/4ian/GDevelop/releases/download/v5.2.167/GDevelop-5-5.2.167-arm64.AppImage"
         }     
     }, {
         "name": "gdlauncher",
@@ -609,12 +609,12 @@
         "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.8.0/Heroic-2.8.0.AppImage"
     }, {
         "name": "hyper",
-        "version": "4.0.0-canary.3",
+        "version": "4.0.0-canary.5",
         "description": "A terminal built on web technologies.",
-        "url": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.4/Hyper-4.0.0-canary.4-x86_64.AppImage",
+        "url": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.5/Hyper-4.0.0-canary.5-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.4/Hyper-4.0.0-canary.4-arm64.AppImage",
-            "arm": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.4/Hyper-4.0.0-canary.4-armv7l.AppImage"
+            "aarch64": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.5/Hyper-4.0.0-canary.5-arm64.AppImage",
+            "arm": "https://github.com/vercel/hyper/releases/download/v4.0.0-canary.5/Hyper-4.0.0-canary.5-armv7l.AppImage"
         }
     }, {
         "name": "hypertrader",
@@ -652,9 +652,9 @@
         "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.7.0/jitsi-meet-x86_64.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.12.4",
+        "version": "2.12.7",
         "description": "Open source note taking and to-do application with synchronisation capabilities.",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.12.4/Joplin-2.12.4.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.12.7/Joplin-2.12.7.AppImage"
     }, {
         "name": "kate",
         "version": "23.04.2-913",
@@ -820,11 +820,11 @@
         }
     }, {
         "name": "mqttx",
-        "version": "1.9.3",
+        "version": "1.9.4",
         "description": "Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools.",
-        "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.3/MQTTX-1.9.3.AppImage",
+        "url": "https://github.com/emqx/MQTTX/releases/download/v1.9.4/MQTTX-1.9.4.AppImage",
         "alt_arch_urls": {
-            "x86": "https://github.com/emqx/MQTTX/releases/download/v1.9.3/MQTTX-1.9.3-aarch64.AppImage"
+            "aarch64": "https://github.com/emqx/MQTTX/releases/download/v1.9.4/MQTTX-1.9.4-arm64.AppImage"
         }
     }, {
         "name": "mupdf",
@@ -846,9 +846,9 @@
         }
     }, {
         "name": "musescore",
-        "version": "4.0.2",
+        "version": "4.1.0",
         "description": "Create, playback, and print sheet music for free. MuseScore is cross-platform, multi-lingual, open source music notation software.",
-        "url": "https://github.com/musescore/MuseScore/releases/download/v4.1.0-rc/MuseScore-4.1.0.231881723-x86_64.AppImage"
+        "url": "https://github.com/musescore/MuseScore/releases/download/v4.1.0/MuseScore-4.1.0.231921359-x86_64.AppImage"
     }, {
         "name": "mypaint",
         "version": "2.0.1",
@@ -996,15 +996,15 @@
         "url": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.1/Passky-8.1.1.AppImage"
     }, {
         "name": "passy",
-        "version": "1.5.1",
+        "version": "1.5.2",
         "description": "Offline password manager with cross-platform synchronization.",
-        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.5.1/Passy-v1.5.1-Linux-AppImage.zip",
+        "url": "https://github.com/GlitterWare/Passy/releases/download/v1.5.2/Passy-v1.5.2-Linux-AppImage.zip",
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4721",
+        "version": "1.7.4727",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4721/pcsx2-v1.7.4721-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4727/pcsx2-v1.7.4727-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1083,9 +1083,9 @@
         "url": "https://github.com/zaps166/QMPlay2/releases/download/23.02.05/QMPlay2-23.02.05-1-x86_64.AppImage"
     }, {
         "name": "qownnotes",
-        "version": "23.7.0",
+        "version": "23.7.2",
         "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration.",
-        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.7.0/QOwnNotes-x86_64.AppImage"
+        "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.7.2/QOwnNotes-x86_64.AppImage"
     }, {
         "name": "qprompt",
         "version": "1.1.6",
@@ -1096,11 +1096,6 @@
         "version": "0.9.33",
         "description": "Qtractor is an Audio/MIDI multi-track sequencer application.",
         "url": "https://sourceforge.net/projects/qtractor/files/qtractor/0.9.33/qtractor-0.9.33-76.1.x86_64.AppImage"
-    }, {    
-        "name": "quaternion",
-        "version": "0.0.96.1",
-        "description": "A Qt5-based IM client for Matrix.",
-        "url": "https://github.com/quotient-im/Quaternion/releases/download/0.0.96-beta1/quaternion-0.0.96-beta1.AppImage"
     }, {
         "name": "qview",
         "version": "5.0",
@@ -1152,9 +1147,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15341-bff6e0d2",
+        "version": "0.0.28-15353-a828c214",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-bff6e0d2778d1dde100ff5f4703d446920b9f05d/rpcs3-v0.0.28-15341-bff6e0d2_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-a828c214b5c0b87b81fcd13ff3c1e952c9a5d6dd/rpcs3-v0.0.28-15353-a828c214_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.14.6",
@@ -1255,11 +1250,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.165.11",
+        "version": "3.166.8",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.165.11/standard-notes-3.165.11-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.8/standard-notes-3.166.8-linux-arm64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.165.11/standard-notes-3.165.11-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.8/standard-notes-3.166.8-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1433,9 +1428,9 @@
         "url": "https://github.com/ivan-hc/VLC-appimage/releases/download/continuous/VLC_media_player-3.0.19-20230621-with-plugins-x86_64.AppImage"
     }, {
         "name": "vscodium",
-        "version": "1.80.0.23188",
+        "version": "1.80.1.23194",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.0.23188/VSCodium-1.80.0.23188.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.1.23194/VSCodium-1.80.1.23194.glibc2.17-x86_64.AppImage"
     }, {
         "name": "vup",
         "version": "0.14.3",
@@ -1472,9 +1467,9 @@
         "url": "https://github.com/manuelernestog/weektodo/releases/download/v2.1.0/WeekToDo-2.1.0.AppImage"
     }, {
         "name": "wezterm",
-        "version": "20230408-112425-69ae8472",
-        "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.",
-        "url": "https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-20230408-112425-69ae8472-Ubuntu20.04.AppImage"
+        "version": "20230712-072601-f4abf8fd",
+        "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer.",
+        "url": "https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-Ubuntu20.04.AppImage"
     }, {
         "name": "whalebird",
         "version": "5.0.7",
@@ -1534,9 +1529,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230710",
+        "version": "mainline-20230713",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1492/yuzu-mainline-20230710-f32ca0bb6.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1495/yuzu-mainline-20230713-523db3ac6.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
