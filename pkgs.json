@@ -155,9 +155,9 @@
         }
     }, {
         "name": "bforartists",
-        "version": "3.5.1",
+        "version": "3.6.0",
         "description": "Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.",
-        "url": "https://github.com/Bforartists/Bforartists/releases/download/v3.5.1/Bforartists_351-.glibc2.35-x86_64.AppImage"
+        "url": "https://github.com/Bforartists/Bforartists/releases/download/v3.6.0/Bforartists_360-.glibc2.35-x86_64.AppImage"
     }, {
         "name": "bitwarden",
         "version": "desktop-v2023.4.0",
@@ -267,9 +267,9 @@
         "url": "https://github.com/ciderapp/Cider/releases/download/v1.6.1/Cider-1.6.1.AppImage"
     }, {
         "name": "cinelerra-gg",
-        "version": "20230430",
+        "version": "20230630",
         "description": "Cinelerra GG Infinity is a free and open source video editing software for Linux.",
-        "url": "https://cinelerra-gg.org/download/images/CinGG-20230430-x86_64.AppImage"
+        "url": "https://cinelerra-gg.org/download/images/CinGG-20230630-x86_64.AppImage"
     }, {
         "name": "cinny",
         "version": "2.2.6",
@@ -372,9 +372,9 @@
         }
     }, {
         "name": "digikam",
-        "version": "8.0.0",
+        "version": "8.1.0",
         "description": "Professional Photo Management with the Power of Open Source.",
-        "url": "https://download.kde.org/stable/digikam/8.0.0/digiKam-8.0.0-x86-64.appimage"
+        "url": "https://download.kde.org/stable/digikam/8.1.0/digiKam-8.1.0-x86-64.appimage"
     }, {
         "name": "discord",
         "version": "0.0.27",
@@ -402,11 +402,11 @@
         "url": "https://github.com/huxingyi/dust3d/releases/download/1.0.0-rc.7/dust3d-1.0.0-rc.7.AppImage"
     }, {
         "name": "ecode",
-        "version": "0.4.8",
+        "version": "0.4.9",
         "description": "ecode is a lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.",
-        "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-x86_64.AppImage",
+        "url": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.9/ecode-linux-0.4.9-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.8/ecode-linux-0.4.8-aarch64.AppImage"
+            "aarch64": "https://github.com/SpartanJ/ecode/releases/download/ecode-0.4.9/ecode-linux-0.4.9-aarch64.AppImage"
         }
     }, {
         "name": "eiskaltdcpp",
@@ -657,14 +657,14 @@
         "url": "https://github.com/laurent22/joplin/releases/download/v2.12.7/Joplin-2.12.7.AppImage"
     }, {
         "name": "kate",
-        "version": "23.04.2-913",
+        "version": "23.04.3-927",
         "description": "Kate is a feature-packed Text Editor.",
-        "url": "https://binary-factory.kde.org/job/Kate_Release_appimage-centos7/lastSuccessfulBuild/artifact/kate-23.04.2-913-linux-gcc-x86_64.AppImage"
+        "url": "https://binary-factory.kde.org/job/Kate_Release_appimage-centos7/lastSuccessfulBuild/artifact/kate-23.04.3-927-linux-gcc-x86_64.AppImage"
     }, {
         "name": "kdenlive",
-        "version": "23.04.2-627",
+        "version": "23.04.3-642",
         "description": "Kdenlive is a non linear video editor.",
-        "url": "https://binary-factory.kde.org/job/Kdenlive_Stable_appimage-centos7/lastSuccessfulBuild/artifact/kdenlive-23.04.2-627-linux-gcc-x86_64.AppImage"
+        "url": "https://binary-factory.kde.org/job/Kdenlive_Stable_appimage-centos7/lastSuccessfulBuild/artifact/kdenlive-23.04.3-642-linux-gcc-x86_64.AppImage"
     }, {
         "name": "keepassxc",
         "version": "2.7.5",
@@ -733,7 +733,7 @@
         "name": "linphone",
         "version": "5.0.18",
         "description": "A complete, secure and interoperable SIP software solution for communication systems developers.",
-        "url": "https://linphone.org/releases/linux/latest_app"
+        "url": "https://download.linphone.org/releases/linux/app/Linphone-5.0.18.AppImage"
     }, {
         "name": "lmms",
         "version": "1.3.0",
@@ -761,9 +761,9 @@
         "url": "https://github.com/trevorsandy/lpub3d/releases/download/continuous/LPub3D-2.4.7.19.3495_20230703-x86_64.AppImage"
     }, {
         "name": "lunatask",
-        "version": "1.6.6",
+        "version": "1.7.2",
         "description": "Lunatask is an all-in-one encrypted to-do list, notebook, habit and mood tracker, and journaling app.",
-        "url": "https://lunatask.app/download/Lunatask-1.6.6.AppImage"
+        "url": "https://lunatask.app/download/Lunatask-1.7.2.AppImage"
     }, {
         "name": "marktext",
         "version": "0.17.1",
@@ -776,9 +776,9 @@
         "url": "https://github.com/rolandbernard/marvin/releases/download/v0.4.9/Marvin-0.4.9.AppImage"
     }, {
         "name": "mendeley",
-        "version": "2.93.0",
+        "version": "2.94.0",
         "description": "Mendeley Reference Manager is a free web and desktop reference management application",
-        "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.93.0-x86_64.AppImage"
+        "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.94.0-x86_64.AppImage"
     }, {
         "name": "microsoft-edge",
         "version": "113.0.1774.35-1",
@@ -793,7 +793,7 @@
         "name": "mochi",
         "version": "1.15.22",
         "description": "Mochi is a tool to help you learn and remember things.",
-        "url": "https://mochi.cards/releases/Mochi-1.15.22.AppImage"
+        "url": "https://mochi.cards/releases/Mochi-1.15.26.AppImage"
     }, {
         "name": "moonlight",
         "version": "4.3.1",
@@ -953,17 +953,17 @@
         "url": "https://github.com/ONLYOFFICE/appimage-desktopeditors/releases/download/v7.3.3/DesktopEditors-x86_64.AppImage"
     }, {
         "name": "openrgb",
-        "version": "0.8",
+        "version": "0.9",
         "description": "Open source RGB lighting control.",
-        "url": "https://openrgb.org/releases/release_0.8/OpenRGB_0.8_x86_64_fb88964.AppImage",
+        "url": "https://openrgb.org/releases/release_0.9/OpenRGB_0.9_x86_64_b5f46e3.AppImage",
         "alt_arch_urls": {
-            "x86": "https://openrgb.org/releases/release_0.8/OpenRGB_0.8_i386_fb88964.AppImage"
+            "x86": "https://openrgb.org/releases/release_0.9/OpenRGB_0.9_i386_b5f46e3.AppImage"
         }
     }, {
         "name": "openscad",
-        "version": "2023.0.2",
+        "version": "2023.07.09",
         "description": "OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and macOS.",
-        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.06.24.ai15506-x86_64.AppImage"
+        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.07.09.ai15799-x86_64.AppImage"
     }, {
         "name": "openshot",
         "version": "3.1.1",
@@ -1197,9 +1197,9 @@
         "url": "https://gitlab.com/linuxappimage/signal-desktop/-/jobs/artifacts/master/raw/Signal-x86_64.AppImage?job=run-build"
     }, {
         "name": "skrooge",
-        "version": "2.29.0",
+        "version": "2.30.0",
         "description": "Skrooge allows you to manage your personal finances, powered by KDE.",
-        "url": "https://download.kde.org/stable/skrooge/skrooge-2.29.0-x86_64.AppImage"     
+        "url": "https://download.kde.org/stable/skrooge/skrooge-2.30.0-x86_64.AppImage"     
     }, {
         "name": "skype-appimage",
         "version": "8.99.0.202",
@@ -1295,7 +1295,7 @@
         "name": "subtitlecomposer",
         "version": "0.7.1",
         "description": "KF5/Qt Video Subtitle Editor.",
-        "url": "https://downloadcontent.opensuse.org/repositories/home:/maxrd2/AppImage/subtitlecomposer-latest-x86_64.AppImage"
+        "url": "https://download.opensuse.org/repositories/home:/maxrd2/AppImage/subtitlecomposer-git-latest-x86_64.AppImage"
     }, {
         "name": "sunamu",
         "version": "2.1.0",
@@ -1339,15 +1339,10 @@
             "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4-armv7l.AppImage"
         }
     }, {
-        "name": "tenacity",
-        "version": "1.3-beta2",
-        "description": "an easy-to-use, cross-platform multi-track audio editor/recorder.",
-        "url": "https://codeberg.org/attachments/cafc22ad-cb38-403e-ba6b-a38841b87b0e"
-    }, {
         "name": "theia-blueprint",
         "version": "1.32.0",
         "description": "Desktop-based products based on the Eclipse Theia platform.",
-        "url": "https://www.eclipse.org/downloads/download.php?file=/theia/latest/linux/TheiaBlueprint.AppImage&r=1"
+        "url": "https://ftp.fau.de/eclipse/theia/latest/linux/TheiaBlueprint.AppImage"
     }, {
         "name": "thorium",
         "version": "M114.0.5735.134",
@@ -1443,14 +1438,14 @@
         "url": "https://github.com/WAClient/WALC/releases/download/v0.3.1/WALC-0.3.1.AppImage"
     }, {
         "name": "waterfox",
-        "version": "g-5.1.8-39.1",
+        "version": "5.1.9-40.",
         "description": "Waterfox is an open-source web browser that is forked from Firefox and developed by System1.",
-        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-5.1.8-39.1.Build39.1.glibc2.17-x86_64.AppImage"
+        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-latest-x86_64.AppImage"
     }, {
         "name": "wavebox",
-        "version": "10.113.19-2",
+        "version": "10.114.32-2",
         "description": "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
-        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.113.19-2_x86_64.AppImage"
+        "url": "https://download.wavebox.app/stable/linux/appimage/Wavebox_10.114.32-2_x86_64.AppImage"
     }, {
         "name": "webcord",
         "version": "4.3.0",
