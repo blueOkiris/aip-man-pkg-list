@@ -147,11 +147,11 @@
         "url": "https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage"
     }, {
         "name": "beekeeper-studio",
-        "version": "3.9.17",
+        "version": "3.9.18",
         "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux.",
-        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.17/Beekeeper-Studio-3.9.17.AppImage",
+        "url": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.18/Beekeeper-Studio-3.9.18.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.17/Beekeeper-Studio-3.9.17-arm64.AppImage"
+            "aarch64": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.9.18/Beekeeper-Studio-3.9.18-arm64.AppImage"
         }
     }, {
         "name": "bforartists",
@@ -170,14 +170,14 @@
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-beta.5/Blender-v2.92-x86_64.AppImage"
     }, {
         "name": "blockbench",
-        "version": "4.8.0-beta.1",
+        "version": "4.8.0-beta.2",
         "description": "Free, modern model editor for low-poly and boxy models with pixel art textures.",
-        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.0-beta.1/Blockbench_4.8.0-beta.1.AppImage"
+        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.0-beta.2/Blockbench_4.8.0-beta.2.AppImage"
     }, {
         "name": "blockstream",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "description": "Non-custodial Bitcoin wallet.",
-        "url": "https://github.com/Blockstream/green_qt/releases/download/release_1.2.3/BlockstreamGreen-x86_64.AppImage"
+        "url": "https://github.com/Blockstream/green_qt/releases/download/release_1.2.4/BlockstreamGreen-x86_64.AppImage"
     }, {
         "name": "boostchanger",
         "version": "5.0.2",
@@ -214,9 +214,9 @@
         }
     }, {
         "name": "butterfly",
-        "version": "2.0.0-beta.3",
+        "version": "2.0.0-beta.43",
         "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
-        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.3/linwood-butterfly-linux.AppImage"
+        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.4/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
         "version": "2.57.4",
@@ -252,9 +252,9 @@
         "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.4.4/Chatterino-x86_64.AppImage"
     }, {
         "name": "cherrytree",
-        "version": "0.99.56",
+        "version": "1.0.0",
         "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.",
-        "url": "https://github.com/giuspen/cherrytree/releases/download/0.99.56/CherryTree-0.99.56-x86_64.AppImage"
+        "url": "https://github.com/giuspen/cherrytree/releases/download/1.0.0/CherryTree-1.0.0-x86_64.AppImage"
     }, {
         "name": "chiaki",
         "version": "2.1.1",
@@ -543,9 +543,9 @@
         "url": "https://github.com/tkashkin/GameHub/releases/download/0.16.3-6-dev/GameHub-jammy-0.16.3-6-dev-0e3146a-x86_64.AppImage"
     }, {
         "name": "gams-studio",
-        "version": "1.15.0",
+        "version": "1.15.1",
         "description": "General Algebraic Modeling System.",
-        "url": "https://github.com/GAMS-dev/studio/releases/download/v1.15.0/GAMS_Studio-1.15.0-x86_64.AppImage"
+        "url": "https://github.com/GAMS-dev/studio/releases/download/v1.15.1/GAMS_Studio-1.15.1-x86_64.AppImage"
     }, {
         "name": "gdevelop",
         "version": "5.2.167",
@@ -647,9 +647,9 @@
         "url": "https://github.com/Kong/insomnia/releases/download/core%402023.4.0/Insomnia.Core-2023.4.0.AppImage"
     }, {
         "name": "jitsi-meet",
-        "version": "2023.7.0",
+        "version": "2023.7.2",
         "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences.",
-        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.7.0/jitsi-meet-x86_64.AppImage"
+        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.7.2/jitsi-meet-arm64.AppImage"
     }, {
         "name": "joplin",
         "version": "2.12.7",
@@ -786,9 +786,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.1.12",
+        "version": "4.2.2",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.1.12/linux-Miru-4.1.12.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.2/linux-Miru-4.2.2.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -914,9 +914,9 @@
         "name": "notesnook",
         "version": "2.5.7",
         "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
-        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.7/notesnook_linux_x86_64.AppImage",
+        "url": "https://github.com/streetwriters/notesnook/releases/download/v2.5.8/notesnook_linux_x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.7/notesnook_linux_arm64.AppImage"
+            "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.8/notesnook_linux_arm64.AppImage"
         }
     }, {
         "name": "nuclear",
@@ -942,10 +942,15 @@
             "aarch64": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.5/Obsidian-1.3.5-arm64.AppImage"
         }
     }, {
+        "name": "onekeepass",
+        "version": "0.7.0",
+        "description": "Secure password manager for macOS,Linux and Windows platforms.",
+        "url": "https://github.com/OneKeePass/desktop/releases/download/v0.7.0/OneKeePass_0.7.0_linux_x86_64.AppImage"
+    }, {
         "name": "onekey",
-        "version": "4.6.0",
+        "version": "4.9.0",
         "description": "Secure, open source and community driven crypto wallet.",
-        "url": "https://web.onekey-asset.com/app-monorepo/4.6.0/OneKey-Wallet-4.6.0-linux-x86_64.AppImage"
+        "url": "https://web.onekey-asset.com/app-monorepo/4.9.0/OneKey-Wallet-4.9.0-linux-x86_64.AppImage"
     }, {
         "name": "onlyoffice",
         "version": "7.3.3",
@@ -971,14 +976,14 @@
         "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage"
      }, {
         "name": "osu",
-        "version": "2023.621.0",
+        "version": "2023.717.0",
         "description": "A free-to-win rhythm game.",
-        "url": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.AppImage"
+        "url": "https://github.com/ppy/osu/releases/download/2023.717.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
-        "version": "0.7.2",
+        "version": "0.8.0",
         "description": "The mod manager for the Outer Wilds Mod Loader.",
-        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.7.2/outer-wilds-mod-manager_0.7.2_amd64.AppImage"
+        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.8.0/outer-wilds-mod-manager_0.8.0_amd64.AppImage"
     }, {
         "name": "owncloud",
         "version": "4.1.0.11250",
@@ -1002,9 +1007,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4727",
+        "version": "1.7.4747",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4727/pcsx2-v1.7.4727-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4747/pcsx2-v1.7.4747-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1055,11 +1060,11 @@
         "url": "https://github.com/prateekmedia/pstube/releases/download/2.6.0/pstube-linux-2.6.0-x86_64.AppImage"
     }, {
         "name": "pulsar",
-        "version": "1.106.0",
+        "version": "1.107.1",
         "description": "A Community-led Hyper-Hackable Text Editor.",
-        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.106.0/Linux.Pulsar-1.106.0.AppImage",
+        "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.107.1/Linux.Pulsar-1.107.1.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/pulsar-edit/pulsar/releases/download/v1.106.0/ARM.Linux.Pulsar-1.106.0-arm64.AppImage"
+            "aarch64": "https://github.com/pulsar-edit/pulsar/releases/download/v1.107.1/ARM.Linux.Pulsar-1.107.1-arm64.AppImage"
         }
     }, {
         "name": "pyfa",
@@ -1147,14 +1152,14 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15353-a828c214",
+        "version": "0.0.28-15364-db029ed2",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-a828c214b5c0b87b81fcd13ff3c1e952c9a5d6dd/rpcs3-v0.0.28-15353-a828c214_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-db029ed29f3d2ae78a6a9d0b7010bb1ff13ad88e/rpcs3-v0.0.28-15364-db029ed2_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.14.6",
+        "version": "0.14.7",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.14.6/Saber-0.14.6-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.14.7/Saber-0.14.7-x86_64.AppImage"
     }, {
         "name": "sayonara-player",
         "version": "1.8.0-beta1",
@@ -1172,9 +1177,9 @@
         "url": "https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.8/scribus-1.5.8-linux-x86_64.AppImage/download"
     }, {
         "name": "session",
-        "version": "1.10.8",
+        "version": "1.11.0",
         "description": "Session Desktop - Onion routing based messenger",
-        "url": "https://github.com/oxen-io/session-desktop/releases/download/v1.10.8/session-desktop-linux-x86_64-1.10.8.AppImage"
+        "url": "https://github.com/oxen-io/session-desktop/releases/download/v1.11.0/session-desktop-linux-x86_64-1.11.0.AppImage"
     }, {
         "name": "sfbrename",
         "version": "1.0.0",
@@ -1250,17 +1255,17 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.166.8",
+        "version": "3.166.16",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.8/standard-notes-3.166.8-linux-arm64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.16/standard-notes-3.166.16-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.8/standard-notes-3.166.8-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.16/standard-notes-3.166.16-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
-        "version": "0.5.4",
+        "version": "0.5.5",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
-        "url": "https://github.com/story-apps/starc/releases/download/v0.5.4/starc-setup.AppImage"
+        "url": "https://github.com/story-apps/starc/releases/download/v0.5.5/starc-setup.AppImage"
     }, {
         "name": "stoplight-studio",
         "version": "2.10.0-stable.8870",
@@ -1331,12 +1336,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.2.4",
+        "version": "1.2.5",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.5/teams-for-linux-1.2.5.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.4/teams-for-linux-1.2.4-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.5/teams-for-linux-1.2.5-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.5/teams-for-linux-1.2.5-armv7l.AppImage"
         }
     }, {
         "name": "theia-blueprint",
@@ -1493,7 +1498,7 @@
         "name": "xemu",
         "version": "0.7.97",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.97/xemu-v0.7.97-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.99/xemu-v0.7.99-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -1524,9 +1529,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230713",
+        "version": "mainline-20230716",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1495/yuzu-mainline-20230713-523db3ac6.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1499/yuzu-mainline-20230716-2461c78e3.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
