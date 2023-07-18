@@ -25,6 +25,11 @@
         "description": "A fast, cross-platform, OpenGL terminal emulator.",
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/alacritty/alacritty-x86_64-0.11.0.AppImage"
     }, {
+        "name": "alduin",
+        "version": "3.0.0",
+        "description": "An RSS, Atom and JSON feed aggregator.",
+        "url": "https://github.com/AlduinApp/alduin/releases/download/v3.0.0/alduin_3.0.0_amd64.AppImage"
+    }, {
         "name": "alephium",
         "version": "2.1.1",
         "description": "Securely store and transfer your ALPH.",
@@ -163,6 +168,11 @@
         "version": "desktop-v2023.4.0",
         "description": "Open source password management solutions for individuals, teams, and business organizations.",
         "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.4.0/Bitwarden-2023.4.0-x86_64.AppImage"
+    }, {
+        "name": "blackchocobo",
+        "version": "1.14.0",
+        "description": "Save Editor For Final Fantasy VII.",
+        "url": "https://github.com/sithlord48/blackchocobo/releases/download/v1.14.0/Black_Chocobo-v1.14.0-x86_64.AppImage"
     }, {
         "name": "blender",
         "version": "2.92",
@@ -1067,6 +1077,11 @@
             "aarch64": "https://github.com/pulsar-edit/pulsar/releases/download/v1.107.1/ARM.Linux.Pulsar-1.107.1-arm64.AppImage"
         }
     }, {
+        "name": "pydt",
+        "version": "2.1.4",
+        "description": "Civilization 5 / 6 / Beyond Earth / Old World Hotseat Multiplayer Management.",
+        "url": "https://github.com/pydt/client/releases/download/v2.1.4/playyourdamnturn-linux-2.1.4-x86_64.AppImage"
+    }, {
         "name": "pyfa",
         "version": "2.53.0",
         "description": "Python fitting assistant, cross-platform fitting tool for EVE Online.",
@@ -1267,6 +1282,11 @@
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
         "url": "https://github.com/story-apps/starc/releases/download/v0.5.5/starc-setup.AppImage"
     }, {
+        "name": "steam-rom-manager",
+        "version": "2.4.17",
+        "description": "An app for managing ROMs in Steam.",
+        "url": "https://github.com/SteamGridDB/steam-rom-manager/releases/download/v2.4.17/Steam-ROM-Manager-2.4.17.AppImage"
+    }, {
         "name": "stoplight-studio",
         "version": "2.10.0-stable.8870",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
@@ -1285,11 +1305,11 @@
         }
     }, {
         "name": "stretchly",
-        "version": "1.14.0",
+        "version": "1.14.1",
         "description": "The break time reminder app.",
-        "url": "https://github.com/hovancik/stretchly/releases/download/v1.14.0/Stretchly-1.14.0.AppImage",
+        "url": "https://github.com/hovancik/stretchly/releases/download/v1.14.1/Stretchly-1.14.1.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/hovancik/stretchly/releases/download/v1.14.0/Stretchly-1.14.0-arm64.AppImage"
+            "aarch64": "https://github.com/hovancik/stretchly/releases/download/v1.14.1/Stretchly-1.14.1-arm64.AppImage"
         }
     }, {
         "name": "structure",
