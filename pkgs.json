@@ -26,9 +26,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/alacritty/alacritty-x86_64-0.11.0.AppImage"
     }, {
         "name": "alephium",
-        "version": "2.1.0",
+        "version": "2.1.1",
         "description": "Securely store and transfer your ALPH.",
-        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.1.0/Alephium-2.1.0.AppImage"
+        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.1.1/Alephium-2.1.1.AppImage"
     }, {
         "name": "allusion",
         "version": "1.0.0-rc.10",
@@ -103,9 +103,9 @@
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
         "name": "aptakube",
-        "version": "1.5.0",
+        "version": "1.5.1",
         "description": "Modern, lightweight and multi-cluster Kubernetes desktop client.",
-        "url": "https://github.com/aptakube/aptakube/releases/download/1.5.0/aptakube_1.5.0_amd64.AppImage"
+        "url": "https://github.com/aptakube/aptakube/releases/download/1.5.1/aptakube_1.5.1_amd64.AppImage"
     }, {
         "name": "arduino-ide",
         "version": "2.1.1",
@@ -397,9 +397,9 @@
         "url": "https://github.com/stenzek/duckstation/releases/download/preview/DuckStation-x64.AppImage"
     }, {
         "name": "dust3d",
-        "version": "1.0.0-rc.7",
+        "version": "1.0.0-rc.8",
         "description": "Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.",
-        "url": "https://github.com/huxingyi/dust3d/releases/download/1.0.0-rc.7/dust3d-1.0.0-rc.7.AppImage"
+        "url": "https://github.com/huxingyi/dust3d/releases/download/1.0.0-rc.8/dust3d-1.0.0-rc.8.AppImage"
     }, {
         "name": "ecode",
         "version": "0.4.9",
@@ -786,9 +786,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.2.2",
+        "version": "4.2.3",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.2/linux-Miru-4.2.2.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.3/linux-Miru-4.2.3.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -1007,9 +1007,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4747",
+        "version": "1.7.4748",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4747/pcsx2-v1.7.4747-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4748/pcsx2-v1.7.4748-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1037,7 +1037,7 @@
         "name": "play",
         "version": "0.61",
         "description": "Play! is a portable PlayStation2 emulator.",
-        "url": "https://s3.us-east-2.amazonaws.com/playbuilds/e634f31e/Play!-e634f31e-x86_64.AppImage"
+        "url": "https://purei.org/downloads/play/stable/0.61/Play!-c74e28c2-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
@@ -1152,9 +1152,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15364-db029ed2",
+        "version": "0.0.28-15365-ba988f1d",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-db029ed29f3d2ae78a6a9d0b7010bb1ff13ad88e/rpcs3-v0.0.28-15364-db029ed2_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-ba988f1d3ff0c3fc689886eb66153f6b8261aac1/rpcs3-v0.0.28-15365-ba988f1d_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.14.7",
@@ -1255,11 +1255,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.166.16",
+        "version": "3.166.18",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.16/standard-notes-3.166.16-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.18/standard-notes-3.166.18-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.16/standard-notes-3.166.16-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.18/standard-notes-3.166.18-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1336,12 +1336,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.2.5",
+        "version": "1.2.6",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.5/teams-for-linux-1.2.5.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.6/teams-for-linux-1.2.6.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.5/teams-for-linux-1.2.5-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.5/teams-for-linux-1.2.5-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.6/teams-for-linux-1.2.6-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.6/teams-for-linux-1.2.6-armv7l.AppImage"
         }
     }, {
         "name": "theia-blueprint",
