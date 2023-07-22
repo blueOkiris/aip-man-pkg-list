@@ -1237,7 +1237,7 @@
         "name": "sigma-file-manager",
         "version": "1.6.0",
         "description": "Sigma File Manager is a free, open-source, quickly evolving, modern file manager.",
-        "url": "https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.6.0/Sigma-File-Manager-1.6.0-Linux-Debian.AppImage"
+        "url": "https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.7.0/Sigma-File-Manager-1.7.0-Linux-Debian.AppImage"
     }, {
         "name": "signal",
         "version": "6.16.0",
