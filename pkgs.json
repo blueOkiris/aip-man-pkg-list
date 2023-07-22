@@ -26,14 +26,14 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/alacritty/alacritty-x86_64-0.11.0.AppImage"
     }, {
         "name": "alduin",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "description": "An RSS, Atom and JSON feed aggregator.",
-        "url": "https://github.com/AlduinApp/alduin/releases/download/v3.0.0/alduin_3.0.0_amd64.AppImage"
+        "url": "https://github.com/AlduinApp/alduin/releases/download/v3.1.0/alduin_3.1.0_amd64.AppImage"
     }, {
         "name": "alephium",
-        "version": "2.1.1",
+        "version": "2.1.2",
         "description": "Securely store and transfer your ALPH.",
-        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.1.1/Alephium-2.1.1.AppImage"
+        "url": "https://github.com/alephium/desktop-wallet/releases/download/v2.1.2/Alephium-2.1.2.AppImage"
     }, {
         "name": "allusion",
         "version": "1.0.0-rc.10",
@@ -118,12 +118,12 @@
         "url": "https://github.com/arduino/arduino-ide/releases/download/2.1.1/arduino-ide_2.1.1_Linux_64bit.AppImage"
     }, {
         "name": "armcord",
-        "version": "3.2.0",
+        "version": "3.2.1",
         "description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
-        "url": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0.AppImage",
+        "url": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.1/ArmCord-3.2.1.AppImage",
         "alt_arch_urls": {        
-            "aarch64": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0-arm64.AppImage",
-            "arm": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.0/ArmCord-3.2.0-armv7l.AppImage"
+            "aarch64": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.1/ArmCord-3.2.1-arm64.AppImage",
+            "arm": "https://github.com/ArmCord/ArmCord/releases/download/v3.2.1/ArmCord-3.2.1-armv7l.AppImage"
     }
     }, {
         "name": "astrofox",
@@ -185,9 +185,9 @@
         "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.0-beta.2/Blockbench_4.8.0-beta.2.AppImage"
     }, {
         "name": "blockstream",
-        "version": "1.2.4",
+        "version": "1.2.5",
         "description": "Non-custodial Bitcoin wallet.",
-        "url": "https://github.com/Blockstream/green_qt/releases/download/release_1.2.4/BlockstreamGreen-x86_64.AppImage"
+        "url": "https://github.com/Blockstream/green_qt/releases/download/release_1.2.5/BlockstreamGreen-x86_64.AppImage"
     }, {
         "name": "boostchanger",
         "version": "5.0.2",
@@ -224,9 +224,9 @@
         }
     }, {
         "name": "butterfly",
-        "version": "2.0.0-beta.43",
+        "version": "2.0.0-beta.5",
         "description": "Powerful, minimalistic, cross-platform, opensource note-taking app.",
-        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.4/linwood-butterfly-linux.AppImage"
+        "url": "https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0-beta.5/linwood-butterfly-linux.AppImage"
     }, {
         "name": "caprine",
         "version": "2.57.4",
@@ -234,9 +234,9 @@
         "url": "https://github.com/sindresorhus/caprine/releases/download/v2.57.4/Caprine-2.57.4.AppImage"
     }, {
         "name": "cemu",
-        "version": "2.0-44",
+        "version": "2.0-45",
         "description": "Cemu - Wii U emulator.",
-        "url": "https://github.com/cemu-project/Cemu/releases/download/v2.0-44/Cemu-2.0-44-x86_64.AppImage"
+        "url": "https://github.com/cemu-project/Cemu/releases/download/v2.0-45/Cemu-2.0-45-x86_64.AppImage"
     }, {
         "name": "cerebro",
         "version": "0.11.0",
@@ -378,7 +378,7 @@
         "description": "An universal linux port of deezer, supporting both Flatpak and AppImage.",
         "url": "https://github.com/aunetx/deezer-linux/releases/download/v5.30.580-3/deezer-desktop-5.30.580-x86_64.AppImage",
         "alt_arch_urls": {
-            "x86": "https://github.com/aunetx/deezer-linux/releases/download/v5.30.580-3/deezer-desktop-5.30.580-arm64.AppImage"
+            "aarch64": "https://github.com/aunetx/deezer-linux/releases/download/v5.30.580-3/deezer-desktop-5.30.580-arm64.AppImage"
         }
     }, {
         "name": "digikam",
@@ -392,9 +392,12 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/discord/Discord-0.0.27-x86_64.AppImage"
     }, {
         "name": "drawio",
-        "version": "21.6.1",
+        "version": "21.6.5",
         "description": "Draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding.",
-        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.6.1/drawio-x86_64-21.6.1.AppImage"
+        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v21.6.5/drawio-x86_64-21.6.5.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/jgraph/drawio-desktop/releases/download/v21.6.5/drawio-arm64-21.6.5.AppImage"
+        }
     }, {
         "name": "dropbox",
         "version": "108.4.453-1",
@@ -470,9 +473,9 @@
         "url": "https://github.com/jeffvli/feishin/releases/download/v0.1.1/Feishin-0.1.1-linux-x86_64.AppImage"
     }, {
         "name": "ferdium",
-        "version": "6.4.1-nightly.3",
+        "version": "6.4.1-nightly.7",
         "description": "Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.",
-        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.4.1-nightly.3/Ferdium-linux-Portable-6.4.1-nightly.3-x86_64.AppImage"
+        "url": "https://github.com/ferdium/ferdium-app/releases/download/v6.4.1-nightly.7/Ferdium-linux-Portable-6.4.1-nightly.7-x86_64.AppImage"
     }, {
         "name": "figma-linux",
         "version": "0.10.0",
@@ -528,9 +531,9 @@
         "url": "https://github.com/meetfranz/franz/releases/download/v5.9.2/Franz-5.9.2.AppImage"
     }, {
         "name": "frappe-books",
-        "version": "0.17.0",
+        "version": "0.17.1",
         "description": "Free Desktop book-keeping software for small businesses and freelancers.",
-        "url": "https://github.com/frappe/books/releases/download/v0.17.0/Frappe-Books-0.17.0.AppImage"
+        "url": "https://github.com/frappe/books/releases/download/v0.17.1/Frappe-Books-0.17.1.AppImage"
     }, {
         "name": "freac",
         "version": "continuous",
@@ -618,6 +621,11 @@
         "description": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
         "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.8.0/Heroic-2.8.0.AppImage"
     }, {
+        "name": "hotspot",
+        "version": "1.4.1",
+        "description": "The Linux perf GUI for performance analysis.",
+        "url": "https://github.com/KDAB/hotspot/releases/download/v1.4.1/hotspot-v1.4.1-x86_64.AppImage"
+    }, {
         "name": "hyper",
         "version": "4.0.0-canary.5",
         "description": "A terminal built on web technologies.",
@@ -655,6 +663,11 @@
         "version": "2023.4.0",
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
         "url": "https://github.com/Kong/insomnia/releases/download/core%402023.4.0/Insomnia.Core-2023.4.0.AppImage"
+    }, {
+        "name": "iqpuzzle",
+        "version": "1.2.9",
+        "description": "iQPuzzle is a diverting I.Q. challenging pentomino puzzle.",
+        "url": "https://download.opensuse.org/repositories/home:/ElThoro/AppImage/iQPuzzle-latest-x86_64.AppImage"
     }, {
         "name": "jitsi-meet",
         "version": "2023.7.2",
@@ -699,6 +712,11 @@
         "version": "5.1.5",
         "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
         "url": "https://download.kde.org/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
+    }, {
+        "name": "ksnip",
+        "version": "1.10.1",
+        "description": "ksnip the cross-platform screenshot and annotation tool.",
+        "url": "https://github.com/ksnip/ksnip/releases/download/v1.10.1/ksnip-1.10.1-x86_64.AppImage"
     }, {
         "name": "kuro",
         "version": "9.0.0",
@@ -756,9 +774,9 @@
         "url": "https://github.com/localsend/localsend/releases/download/v1.10.0/LocalSend-1.10.0-linux-x86-64.AppImage"
     }, {
         "name": "logseq",
-        "version": "0.9.9",
+        "version": "0.9.11",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
-        "url": "https://github.com/logseq/logseq/releases/download/0.9.9/Logseq-linux-x64-0.9.9.AppImage"
+        "url": "https://github.com/logseq/logseq/releases/download/0.9.11/Logseq-linux-x64-0.9.11.AppImage"
     }, {
         "name": "lossless-cut",
         "version": "3.55.2",
@@ -774,6 +792,11 @@
         "version": "1.7.2",
         "description": "Lunatask is an all-in-one encrypted to-do list, notebook, habit and mood tracker, and journaling app.",
         "url": "https://lunatask.app/download/Lunatask-1.7.2.AppImage"
+    }, {
+        "name": "makoureactor",
+        "version": "2.0.0",
+        "description": "Final Fantasy VII field archive editor.",
+        "url": "https://github.com/myst6re/makoureactor/releases/download/2.0.0/makoureactor-gui-linux64.AppImage"
     }, {
         "name": "marktext",
         "version": "0.17.1",
@@ -796,9 +819,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.2.3",
+        "version": "4.2.7.",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.3/linux-Miru-4.2.3.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.7/linux-Miru-4.2.7.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -929,8 +952,13 @@
             "aarch64": "https://github.com/streetwriters/notesnook/releases/download/v2.5.8/notesnook_linux_arm64.AppImage"
         }
     }, {
+        "name": "nrfconnect",
+        "version": "4.1.2",
+        "description": "nRF Connect for Desktop is a cross-platform framework for desktop apps for development kits or dongles from Nordic Semiconductor.",
+        "url": "https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v4.1.2/nrfconnect-4.1.2-x86_64.AppImage"
+    }, {
         "name": "nuclear",
-        "version": "v0.6.24",
+        "version": "0.6.24",
         "description": "Streaming music player that finds free music for you.",
         "url": "https://github.com/nukeop/nuclear/releases/download/v0.6.24/nuclear-v0.6.24.AppImage"
     }, {
@@ -991,9 +1019,9 @@
         "url": "https://github.com/ppy/osu/releases/download/2023.717.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
-        "version": "0.8.0",
+        "version": "0.9.0",
         "description": "The mod manager for the Outer Wilds Mod Loader.",
-        "url": "https://github.com/Bwc9876/ow-mod-man/releases/download/gui_v0.8.0/outer-wilds-mod-manager_0.8.0_amd64.AppImage"
+        "url": "https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.9.0/outer-wilds-mod-manager_0.9.0_amd64.AppImage"
     }, {
         "name": "owncloud",
         "version": "4.1.0.11250",
@@ -1017,9 +1045,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4748",
+        "version": "1.7.4772",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4748/pcsx2-v1.7.4748-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4772/pcsx2-v1.7.4772-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1167,14 +1195,14 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15365-ba988f1d",
+        "version": "0.0.28-15372-38a5313e",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-ba988f1d3ff0c3fc689886eb66153f6b8261aac1/rpcs3-v0.0.28-15365-ba988f1d_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-38a5313ed2c4ebb626017a4f7f28ed0c0a89f931/rpcs3-v0.0.28-15372-38a5313e_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.14.7",
+        "version": "0.14.9",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.14.7/Saber-0.14.7-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.14.9/Saber-0.14.9-x86_64.AppImage"
     }, {
         "name": "sayonara-player",
         "version": "1.8.0-beta1",
@@ -1202,9 +1230,9 @@
         "url": "https://github.com/karwler/sfbrename/releases/download/v1.0.0/sfbrename-gtk-1.0.0-x86_64.AppImage"
     }, {
         "name": "shotcut",
-        "version": "23.06.14",
+        "version": "23.07.18",
         "description": "Shotcut - a free, open source, cross-platform video editor",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v23.06.14/shotcut-linux-x86_64-230614.AppImage"
+        "url": "https://github.com/mltframework/shotcut/releases/download/v23.07.18/shotcut-linux-x86_64-230718.AppImage"
     }, {
         "name": "sigma-file-manager",
         "version": "1.6.0",
@@ -1227,9 +1255,9 @@
         "url": "https://github.com/ivan-hc/Skype-appimage/releases/download/continuous/Skype-8.99.0.202-x86_64.AppImage"     
     }, {
         "name": "sleek",
-        "version": "1.3.2-rc.1",
+        "version": "2.0.0-dev2",
         "description": "sleek is an open-source (FOSS) todo manager based on the todo.txt syntax.",
-        "url": "https://github.com/ransome1/sleek/releases/download/v1.3.2-rc.1/sleek-1.3.2-rc.1.AppImage"
+        "url": "https://github.com/ransome1/sleek/releases/download/v2.0.0-dev2/sleek-2.0.0-dev2.AppImage"
     }, {
         "name": "slippi-launcher",
         "version": "2.10.1",
@@ -1270,11 +1298,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.166.18",
+        "version": "3.167.3",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.18/standard-notes-3.166.18-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.3/standard-notes-3.167.3-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.166.18/standard-notes-3.166.18-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.3/standard-notes-3.167.3-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1356,12 +1384,12 @@
         "url": "https://github.com/Syncplay/syncplay/releases/download/v1.7.0/Syncplay-1.7.0-x86_64.AppImage"
     }, {
         "name": "teams-for-linux",
-        "version": "1.2.6",
+        "version": "1.2.8",
         "description": "Unofficial Microsoft Teams for Linux client.",
-        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.6/teams-for-linux-1.2.6.AppImage",
+        "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.8/teams-for-linux-1.2.8.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.6/teams-for-linux-1.2.6-arm64.AppImage",
-            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.6/teams-for-linux-1.2.6-armv7l.AppImage"
+            "aarch64": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.8/teams-for-linux-1.2.8-arm64.AppImage",
+            "arm": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v1.2.8/teams-for-linux-1.2.8-armv7l.AppImage"
         }
     }, {
         "name": "theia-blueprint",
@@ -1370,9 +1398,9 @@
         "url": "https://ftp.fau.de/eclipse/theia/latest/linux/TheiaBlueprint.AppImage"
     }, {
         "name": "thorium",
-        "version": "M114.0.5735.134",
+        "version": "M114.0.5735.205",
         "description": "Chromium fork with additional features.",
-        "url": "https://github.com/Alex313031/thorium/releases/download/M114.0.5735.134/Thorium_Browser_114.0.5735.134_x64.AppImage"
+        "url": "https://github.com/Alex313031/thorium/releases/download/M114.0.5735.205/Thorium_Browser_114.0.5735.205_x64.AppImage"
     }, {
         "name": "thorium-reader",
         "version": "2.2.0",
@@ -1516,9 +1544,9 @@
         }
     }, {
         "name": "xemu",
-        "version": "0.7.97",
+        "version": "0.7.103",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.99/xemu-v0.7.99-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.103/xemu-v0.7.103-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -1549,9 +1577,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230716",
+        "version": "mainline-20230722",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1499/yuzu-mainline-20230716-2461c78e3.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1503/yuzu-mainline-20230722-3dfaf1ff2.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
