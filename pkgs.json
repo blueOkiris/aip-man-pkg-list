@@ -317,9 +317,9 @@
         "url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v4.5.3/CPU-X-4.5.3-x86_64.AppImage"
     }, {
         "name": "cryptomator",
-        "version": "1.9.1",
+        "version": "1.10.0-beta1",
         "description": "Multi-platform transparent client-side encryption of your files in the cloud.",
-        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.9.1/cryptomator-1.9.1-x86_64.AppImage"
+        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.10.0-beta1/cryptomator-1.10.0-beta1-x86_64.AppImage"
     }, {
         "name": "cura",
         "version": "5.4.0",
@@ -617,9 +617,9 @@
         }
     }, {
         "name": "heroic",
-        "version": "2.8.0",
+        "version": "2.9.0",
         "description": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
-        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.8.0/Heroic-2.8.0.AppImage"
+        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.9.0/Heroic-2.9.0.AppImage"
     }, {
         "name": "hotspot",
         "version": "1.4.1",
@@ -1045,9 +1045,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4772",
+        "version": "1.7.4794",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4772/pcsx2-v1.7.4772-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4794/pcsx2-v1.7.4794-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1195,14 +1195,14 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15372-38a5313e",
+        "version": "0.0.28-15391-782344ee",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-38a5313ed2c4ebb626017a4f7f28ed0c0a89f931/rpcs3-v0.0.28-15372-38a5313e_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-782344eed8b36dedfe81b2f9b542e61efbe56aba/rpcs3-v0.0.28-15391-782344ee_linux64.AppImage"
     }, {
         "name": "saber",
-        "version": "0.14.9",
+        "version": "0.14.10",
         "description": "Cross-platform libre handwritten notes app.",
-        "url": "https://github.com/adil192/saber/releases/download/v0.14.9/Saber-0.14.9-x86_64.AppImage"
+        "url": "https://github.com/adil192/saber/releases/download/v0.14.10/Saber-0.14.10-x86_64.AppImage"
     }, {
         "name": "sayonara-player",
         "version": "1.8.0-beta1",
@@ -1255,9 +1255,9 @@
         "url": "https://github.com/ivan-hc/Skype-appimage/releases/download/continuous/Skype-8.99.0.202-x86_64.AppImage"     
     }, {
         "name": "sleek",
-        "version": "2.0.0-dev2",
+        "version": "2.0.0-dev3",
         "description": "sleek is an open-source (FOSS) todo manager based on the todo.txt syntax.",
-        "url": "https://github.com/ransome1/sleek/releases/download/v2.0.0-dev2/sleek-2.0.0-dev2.AppImage"
+        "url": "https://github.com/ransome1/sleek/releases/download/v2.0.0-dev3/sleek-2.0.0-dev3.AppImage"
     }, {
         "name": "slippi-launcher",
         "version": "2.10.1",
@@ -1298,11 +1298,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.167.3",
+        "version": "3.167.9",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.3/standard-notes-3.167.3-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.9/standard-notes-3.167.9-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.3/standard-notes-3.167.3-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.9/standard-notes-3.167.9-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1418,9 +1418,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/thunderbird/Thunderbird-102.8_20230214184313.AppImage"
     }, {
         "name": "tidal-hifi",
-        "version": "5.3.0",
+        "version": "5.4.0",
         "description": "The web version of Tidal running in electron with hifi support thanks to widevine.",
-        "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.3.0/tidal-hifi-5.3.0.AppImage" 
+        "url": "https://github.com/Mastermindzh/tidal-hifi/releases/download/5.4.0/tidal-hifi-5.4.0.AppImage" 
     }, {
         "name": "tropy",
         "version": "1.14.0",
@@ -1461,9 +1461,9 @@
         "url": "https://dl.vikunja.io/desktop/0.20.3/Vikunja%20Desktop-0.20.3.AppImage"
     }, {
         "name": "viper",
-        "version": "v1.7.3",
+        "version": "v1.8.0",
         "description": "Launcher+Updater for TitanFall 2 Northstar.",
-        "url": "https://github.com/0neGal/viper/releases/download/v1.7.3/Viper-1.7.3.AppImage"
+        "url": "https://github.com/0neGal/viper/releases/download/v1.8.0/Viper-1.8.0.AppImage"
     }, {
         "name": "vivaldi",
         "version": "v1.7.3",
@@ -1544,9 +1544,9 @@
         }
     }, {
         "name": "xemu",
-        "version": "0.7.103",
+        "version": "0.7.104",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.103/xemu-v0.7.103-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.104/xemu-v0.7.104-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -1577,9 +1577,9 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
-        "version": "mainline-20230722",
+        "version": "mainline-20230724",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1503/yuzu-mainline-20230722-3dfaf1ff2.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1505/yuzu-mainline-20230724-0bbca9608.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
