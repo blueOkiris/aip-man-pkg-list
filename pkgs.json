@@ -72,7 +72,7 @@
         "name": "anydesk",
         "version": "6.2.1-1",
         "description": "Unofficial AppImage for Anydesk built. Anydesk is fast remote desktop application",
-        "url": "https://github.com/ivan-hc/Anydesk-appimage/releases/download/continuous/Anydesk-6.2.1-1-x86_64.AppImage"
+        "url": "https://github.com/ivan-hc/Anydesk-appimage/releases/download/continuous/AnyDesk_6.2.1-x86_64.AppImage"
     }, {
         "name": "aphototoollibre",
         "version": "1.0.5-3",
@@ -108,9 +108,9 @@
         "url": "https://github.com/AppImage/AppImageKit/releases/download/13/appimagetool-x86_64.AppImage"
     }, {
         "name": "aptakube",
-        "version": "1.5.1",
+        "version": "1.5.2",
         "description": "Modern, lightweight and multi-cluster Kubernetes desktop client.",
-        "url": "https://github.com/aptakube/aptakube/releases/download/1.5.1/aptakube_1.5.1_amd64.AppImage"
+        "url": "https://github.com/aptakube/aptakube/releases/download/1.5.2/aptakube_1.5.2_amd64.AppImage"
     }, {
         "name": "arduino-ide",
         "version": "2.1.1",
@@ -675,9 +675,9 @@
         "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.7.2/jitsi-meet-arm64.AppImage"
     }, {
         "name": "joplin",
-        "version": "2.12.7",
+        "version": "2.12.9",
         "description": "Open source note taking and to-do application with synchronisation capabilities.",
-        "url": "https://github.com/laurent22/joplin/releases/download/v2.12.7/Joplin-2.12.7.AppImage"
+        "url": "https://github.com/laurent22/joplin/releases/download/v2.12.9/Joplin-2.12.9.AppImage"
     }, {
         "name": "kate",
         "version": "23.04.3-927",
@@ -819,9 +819,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.2.7.",
+        "version": "4.2.8.",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.7/linux-Miru-4.2.7.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.8/linux-Miru-4.2.8.AppImagee"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -907,9 +907,9 @@
         }
     }, {
         "name": "nextcloud",
-        "version": "3.9.0",
+        "version": "3.9.1",
         "description": "Online collaboration solution",
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v3.9.0/Nextcloud-3.9.0-x86_64.AppImage"
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v3.9.1/Nextcloud-3.9.1-x86_64.AppImage"
     }, {
         "name": "nheko",
         "version": "0.11.3",
@@ -1045,9 +1045,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4794",
+        "version": "1.7.4799",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4794/pcsx2-v1.7.4794-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4799/pcsx2-v1.7.4799-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1195,9 +1195,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.0/rotki-linux_x86_64-v1.29.0.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15391-782344ee",
+        "version": "0.0.28-15395-bc40b61e",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-782344eed8b36dedfe81b2f9b542e61efbe56aba/rpcs3-v0.0.28-15391-782344ee_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-bc40b61ef1a16883a47ca7feef5fb518386506ba/rpcs3-v0.0.28-15395-bc40b61e_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.14.10",
@@ -1298,11 +1298,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.167.9",
+        "version": "3.167.11",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.9/standard-notes-3.167.9-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.11/standard-notes-3.167.11-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.9/standard-notes-3.167.9-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.11/standard-notes-3.167.11-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1461,9 +1461,9 @@
         "url": "https://dl.vikunja.io/desktop/0.20.3/Vikunja%20Desktop-0.20.3.AppImage"
     }, {
         "name": "viper",
-        "version": "v1.8.0",
+        "version": "v1.8.1",
         "description": "Launcher+Updater for TitanFall 2 Northstar.",
-        "url": "https://github.com/0neGal/viper/releases/download/v1.8.0/Viper-1.8.0.AppImage"
+        "url": "https://github.com/0neGal/viper/releases/download/v1.8.1/Viper-1.8.1.AppImage"
     }, {
         "name": "vivaldi",
         "version": "v1.7.3",
