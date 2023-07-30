@@ -1195,9 +1195,9 @@
         "url": "https://github.com/rotki/rotki/releases/download/v1.29.1/rotki-linux_x86_64-v1.29.1.AppImage"
     }, {
         "name": "rpcs3",
-        "version": "0.0.28-15405-9265ff53",
+        "version": "0.0.28-15409-fd6829f7",
         "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger.",
-        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9265ff53d08e6ca96d8fefc081c8f7ff2ed55b6c/rpcs3-v0.0.28-15405-9265ff53_linux64.AppImage"
+        "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-fd6829f7576da07e3bb90de8821834d3ce44610c/rpcs3-v0.0.28-15409-fd6829f7_linux64.AppImage"
     }, {
         "name": "saber",
         "version": "0.14.11",
