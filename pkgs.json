@@ -180,9 +180,9 @@
         "url": "https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-beta.5/Blender-v2.92-x86_64.AppImage"
     }, {
         "name": "blockbench",
-        "version": "4.8.0",
+        "version": "4.8.1",
         "description": "Free, modern model editor for low-poly and boxy models with pixel art textures.",
-        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.0/Blockbench_4.8.0.AppImage"
+        "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.1/Blockbench_4.8.1.AppImage"
     }, {
         "name": "blockstream",
         "version": "1.2.5",
@@ -660,9 +660,9 @@
         "url": "https://inkscape.org/gallery/item/37359/Inkscape-b0a8486-x86_64.AppImage"
     }, {
         "name": "insomnia",
-        "version": "2023.4.0",
+        "version": "2023.5.0-beta.8",
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.",
-        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.0-beta.6/Insomnia.Core-2023.5.0-beta.6.AppImage"
+        "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.0-beta.8/Insomnia.Core-2023.5.0-beta.8.AppImage"
     }, {
         "name": "iqpuzzle",
         "version": "1.2.9",
@@ -819,9 +819,9 @@
         "url": "https://gitlab.com/linuxappimage/microsoft_edge/-/jobs/artifacts/master/raw/Microsoft_Edge_stable-x86_64.AppImage?job=run-build"
     }, {
         "name": "miru",
-        "version": "4.2.8",
+        "version": "4.2.11",
         "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
-        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.8/linux-Miru-4.2.8.AppImage"
+        "url": "https://github.com/ThaUnknown/miru/releases/download/v4.2.11/linux-Miru-4.2.11.AppImage"
     }, {        
         "name": "mochi",
         "version": "1.15.22",
@@ -1019,9 +1019,9 @@
         "url": "https://github.com/ppy/osu/releases/download/2023.717.0/osu.AppImage"
      }, {
         "name": "outer-wilds-mod-manager",
-        "version": "0.9.0",
+        "version": "0.10.0",
         "description": "The mod manager for the Outer Wilds Mod Loader.",
-        "url": "https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.9.0/outer-wilds-mod-manager_0.9.0_amd64.AppImage"
+        "url": "https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.10.0/outer-wilds-mod-manager_0.10.0_amd64.AppImage"
     }, {
         "name": "owncloud",
         "version": "4.1.0.11250",
@@ -1045,9 +1045,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4818",
+        "version": "1.7.4847",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4818/pcsx2-v1.7.4818-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4847/pcsx2-v1.7.4847-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1230,9 +1230,9 @@
         "url": "https://github.com/karwler/sfbrename/releases/download/v1.0.0/sfbrename-gtk-1.0.0-x86_64.AppImage"
     }, {
         "name": "shotcut",
-        "version": "23.07.18",
+        "version": "23.07.29",
         "description": "Shotcut - a free, open source, cross-platform video editor",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v23.07.18/shotcut-linux-x86_64-230718.AppImage"
+        "url": "https://github.com/mltframework/shotcut/releases/download/v23.07.29/shotcut-linux-x86_64-230729.AppImage"
     }, {
         "name": "sigma-file-manager",
         "version": "1.6.0",
@@ -1260,9 +1260,9 @@
         "url": "https://github.com/ransome1/sleek/releases/download/v2.0.0-dev3/sleek-2.0.0-dev3.AppImage"
     }, {
         "name": "slippi-launcher",
-        "version": "2.10.1",
+        "version": "2.10.2",
         "description": "The Slippi Launcher is the hub for everything Slippi. It downloads and auto-updates Slippi Dolphin along with providing access to news, replays, mirroring, broadcasting, and more.",
-        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.10.1/Slippi-Launcher-2.10.1-x86_64.AppImage"
+        "url": "https://github.com/project-slippi/slippi-launcher/releases/download/v2.10.2/Slippi-Launcher-2.10.2-x86_64.AppImage"
     }, {
         "name": "smplayer",
         "version": "23.6.0",
@@ -1298,11 +1298,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.0/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.167.17",
+        "version": "3.167.22",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.17/standard-notes-3.167.17-linux-arm64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.22/standard-notes-3.167.22-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.17/standard-notes-3.167.17-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.167.22/standard-notes-3.167.22-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1476,9 +1476,9 @@
         "url": "https://github.com/ivan-hc/VLC-appimage/releases/download/continuous/VLC_media_player-3.0.19-20230621-with-plugins-x86_64.AppImage"
     }, {
         "name": "vscodium",
-        "version": "1.80.1.23208",
+        "version": "1.80.2.23209",
         "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.1.23208/VSCodium-1.80.1.23208.glibc2.17-x86_64.AppImage"
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.2.23209/VSCodium-1.80.2.23209.glibc2.17-x86_64.AppImage"
     }, {
         "name": "vup",
         "version": "0.14.3",
@@ -1554,9 +1554,9 @@
         "url": "https://github.com/xonsh/xonsh/releases/download/0.13.4/xonsh-x86_64.AppImage"
     }, {
         "name": "xournalapp",
-        "version": "1.1.3",
+        "version": "1.2.0",
         "description": "Xournal++ is a handwriting notetaking software with PDF annotation support.",
-        "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.1.3/xournalpp-1.1.3-x86_64.AppImage"
+        "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.2.0/xournalpp-1.2.0-x86_64.AppImage"
     }, {
         "name": "yana",
         "version": "1.0.16",
