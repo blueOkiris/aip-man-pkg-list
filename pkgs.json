@@ -638,7 +638,7 @@
         "name": "hypertrader",
         "version": "2.36.0",
         "description": "Crypto trading terminal with smart orders.",
-        "url": "https://download.hypertrader.app/HyperTrader-2.36.0.AppImage"
+        "url": "https://download.hypertrader.app/HyperTrader-2.37.0.AppImage"
     }, {
         "name": "icalingua-plus-plus/",
         "version": "2.9.21",
@@ -657,7 +657,7 @@
         "name": "inkscape",
         "version": "1.2.2",
         "description": "A Free and open source vector graphics editor.",
-        "url": "https://inkscape.org/gallery/item/37359/Inkscape-b0a8486-x86_64.AppImage"
+        "url": "https://inkscape.org/gallery/item/42330/Inkscape-0e150ed-x86_64.AppImage"
     }, {
         "name": "insomnia",
         "version": "2023.5.0-beta.8",
@@ -680,14 +680,14 @@
         "url": "https://github.com/laurent22/joplin/releases/download/v2.12.10/Joplin-2.12.10.AppImage"
     }, {
         "name": "kate",
-        "version": "23.04.3-927",
+        "version": "23.04.3-951",
         "description": "Kate is a feature-packed Text Editor.",
-        "url": "https://binary-factory.kde.org/job/Kate_Release_appimage-centos7/lastSuccessfulBuild/artifact/kate-23.04.3-927-linux-gcc-x86_64.AppImage"
+        "url": "https://binary-factory.kde.org/job/Kate_Release_appimage-centos7/lastSuccessfulBuild/artifact/kate-23.04.3-951-linux-gcc-x86_64.AppImage"
     }, {
         "name": "kdenlive",
-        "version": "23.04.3-642",
+        "version": "23.04.3-666",
         "description": "Kdenlive is a non linear video editor.",
-        "url": "https://binary-factory.kde.org/job/Kdenlive_Stable_appimage-centos7/lastSuccessfulBuild/artifact/kdenlive-23.04.3-642-linux-gcc-x86_64.AppImage"
+        "url": "https://binary-factory.kde.org/job/Kdenlive_Stable_appimage-centos7/lastSuccessfulBuild/artifact/kdenlive-23.04.3-666-linux-gcc-x86_64.AppImage"
     }, {
         "name": "keepassxc",
         "version": "2.7.5",
@@ -789,9 +789,9 @@
         "url": "https://github.com/trevorsandy/lpub3d/releases/download/continuous/LPub3D-2.4.7.19.3495_20230703-x86_64.AppImage"
     }, {
         "name": "lunatask",
-        "version": "1.7.2",
+        "version": "1.7.3",
         "description": "Lunatask is an all-in-one encrypted to-do list, notebook, habit and mood tracker, and journaling app.",
-        "url": "https://lunatask.app/download/Lunatask-1.7.2.AppImage"
+        "url": "https://lunatask.app/download/Lunatask-1.7.3.AppImage"
     }, {
         "name": "makoureactor",
         "version": "2.0.0",
@@ -1004,9 +1004,9 @@
         }
     }, {
         "name": "openscad",
-        "version": "2023.07.09",
+        "version": "2023.07.31",
         "description": "OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and macOS.",
-        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.07.09.ai15799-x86_64.AppImage"
+        "url": "https://files.openscad.org/snapshots/OpenSCAD-2023.07.31.ai15974-x86_64.AppImage"
     }, {
         "name": "openshot",
         "version": "3.1.1",
@@ -1174,7 +1174,7 @@
         "name": "retroshare",
         "version": "0.6.6",
         "description": "RetroShare is a decentralized, private, secure, cross-platform, communication toolkit.",
-        "url": "https://download.opensuse.org/repositories/network:/retroshare/AppImage/retroshare-gui-0.6.6-latest-x86_64.AppImage"
+        "url": "https://download.opensuse.org/repositories/network:/retroshare/AppImage/retroshare-gui-0.6.6-0-Build12.1.glibc2.17-x86_64.AppImage"
     }, {
         "name": "revolt",
         "version": "1.0.6",
