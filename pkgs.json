@@ -11,9 +11,9 @@
         "url": "https://github.com/86Box/86Box/releases/download/v3.11/86Box-Linux-x86_64-b4311.AppImage"
     }, {
         "name": "acreom",
-        "version": "1.9.1",
+        "version": "1.10.0",
         "description": "acreom is a powerful knowledge base integrated with time management running on local markdown files.",
-        "url": "https://github.com/Acreom/releases/releases/download/v1.9.1/acreom-1.9.1.AppImage"
+        "url": "https://github.com/Acreom/releases/releases/download/v1.10.0/acreom-1.10.0.AppImage"
     }, {
         "name": "aisap",
         "version": "0.7.13-alpha",
@@ -1048,9 +1048,9 @@
         "compressed": true
     }, {
         "name": "pcsx2",
-        "version": "1.7.4922",
+        "version": "1.7.4923",
         "description": "PCSX2 - The Playstation 2 Emulator.",
-        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4922/pcsx2-v1.7.4922-linux-appimage-x64-Qt.AppImage"
+        "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.4923/pcsx2-v1.7.4923-linux-appimage-x64-Qt.AppImage"
     }, {
         "name": "pencil2d",
         "version": "0.6.6",
@@ -1301,11 +1301,11 @@
         "url": "https://github.com/KRTirtho/spotube/releases/download/v3.0.1/Spotube-linux-x86_64.AppImage"
     }, {
         "name": "standard-notes",
-        "version": "3.169.35",
+        "version": "3.170.2",
         "description": "End-to-end encrypted notes app.",
-        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.169.35/standard-notes-3.169.35-linux-x86_64.AppImage",
+        "url": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.170.2/standard-notes-3.170.2-linux-x86_64.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.169.35/standard-notes-3.169.35-linux-arm64.AppImage"
+            "aarch64": "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.170.2/standard-notes-3.170.2-linux-arm64.AppImage"
         }
     }, {
         "name": "starc",
@@ -1582,7 +1582,7 @@
         "name": "yuzu-emu",
         "version": "mainline-20230816",
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
-        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1525/yuzu-mainline-20230816-e8a60d5e8.AppImage"
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1526/yuzu-mainline-20230816-02d4b0bf7.AppImage"
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
