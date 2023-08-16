@@ -546,9 +546,12 @@
         }
     }, {
         "name": "freecad",
-        "version": "0.21rc1a",
+        "version": "0.21.0",
         "description": "FreeCAD is a parametric 3D modeler.",
-        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.21rc1a/FreeCAD_0.21.0-RC1-Linux-x86_64.AppImage"
+        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.21.0/FreeCAD_0.21.0-Linux-x86_64.AppImage",
+        "alt_arch_urls": {
+            "aarch64": "https://github.com/FreeCAD/FreeCAD/releases/download/0.21.0/FreeCAD_0.21.0-Linux-aarch64.AppImage"
+        }
     }, {
         "name": "gamehub",
         "version": "0.16.3-6-dev",
@@ -774,9 +777,9 @@
         "url": "https://github.com/localsend/localsend/releases/download/v1.10.0/LocalSend-1.10.0-linux-x86-64.AppImage"
     }, {
         "name": "logseq",
-        "version": "0.9.11",
+        "version": "0.9.13",
         "description": "A privacy-first, open-source platform for knowledge management and collaboration",
-        "url": "https://github.com/logseq/logseq/releases/download/0.9.11/Logseq-linux-x64-0.9.11.AppImage"
+        "url": "https://github.com/logseq/logseq/releases/download/0.9.13/Logseq-linux-x64-0.9.13.AppImage"
     }, {
         "name": "lossless-cut",
         "version": "3.55.2",
@@ -1306,9 +1309,9 @@
         }
     }, {
         "name": "starc",
-        "version": "0.5.6",
+        "version": "0.5.6a",
         "description": "Story Architect is a project created by the authors of an open source screenwriting tool.",
-        "url": "https://github.com/story-apps/starc/releases/download/v0.5.6/starc-setup.AppImage"
+        "url": "https://github.com/story-apps/starc/releases/download/v0.5.6a/starc-setup.AppImage"
     }, {
         "name": "steam-rom-manager",
         "version": "2.4.17",
@@ -1546,7 +1549,7 @@
         "name": "xemu",
         "version": "0.7.110",
         "description": "Original Xbox Emulator.",
-        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.110/xemu-v0.7.110-dbg-x86_64.AppImage"
+        "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.111/xemu-v0.7.111-dbg-x86_64.AppImage"
     }, {
         "name": "xonsh",
         "version": "0.13.4",
@@ -1577,9 +1580,17 @@
         "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.7/YesPlayMusic-0.4.7.AppImage"
     }, {
         "name": "yuzu-emu",
+<<<<<<< HEAD
+        "version": "mainline-20230802",
+=======
         "version": "mainline-20230811",
+>>>>>>> f7eee8c31b50f376c0082dfffefdcce556a40890
         "description": "Yuzu is open-source, Nintendo Switch emulator.",
+<<<<<<< HEAD
+        "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1515/yuzu-mainline-20230802-4caa6d86a.AppImage"
+=======
         "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1521/yuzu-mainline-20230811-26ff21471.AppImage"
+>>>>>>> f7eee8c31b50f376c0082dfffefdcce556a40890
     }, {
         "name": "zettlr",
         "version": "3.0.0-beta.4",
