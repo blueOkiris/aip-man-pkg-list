@@ -1068,6 +1068,11 @@
             "x86": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-i386-0.6.6.AppImage"
         }
     }, {
+        "name": "penpot",
+        "version": "0.2.4",
+        "description": "First Open Source design and prototyping platform meant for cross-domain teams.",
+        "url": "https://sudovanilla.com/distribute/applications/penpot-desktop/v0.2.4/Penpot%20Desktop-0.2.4.AppImage"
+    }, {
         "name": "photoqt",
         "version": "3.3",
         "description": "PhotoQt is a simple yet powerful and good looking image viewer.",
