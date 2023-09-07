@@ -282,9 +282,9 @@
         "url": "https://github.com/ciderapp/Cider/releases/download/v1.6.1/Cider-1.6.1.AppImage"
     }, {
         "name": "cinelerra-gg",
-        "version": "20230630",
+        "version": "20230831",
         "description": "Cinelerra GG Infinity is a free and open source video editing software for Linux.",
-        "url": "https://cinelerra-gg.org/download/images/CinGG-20230630-x86_64.AppImage"
+        "url": "https://cinelerra-gg.org/download/images/CinGG-20230831-x86_64.AppImage"
     }, {
         "name": "cinny",
         "version": "2.2.6",
@@ -668,7 +668,7 @@
         "url": "https://github.com/WerWolv/ImHex/releases/download/v1.30.1/imhex-1.30.1-x86_64.AppImage"
     }, {
         "name": "inkscape",
-        "version": "1.2.2",
+        "version": "1.3.0",
         "description": "A Free and open source vector graphics editor.",
         "url": "https://inkscape.org/gallery/item/42330/Inkscape-0e150ed-x86_64.AppImage"
     }, {
@@ -745,9 +745,9 @@
         "url": "https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.AppImage"
     }, {    
         "name": "lens",
-        "version": "2023.5.310801",
+        "version": "2023.8.291046",
         "description": "Lens is the way the world runs Kubernetes.",
-        "url": "https://api.k8slens.dev/binaries/Lens-2023.5.310801-latest.x86_64.AppImage"
+        "url": "https://api.k8slens.dev/binaries/Lens-2023.8.291046-latest.x86_64.AppImage"
     }, {
         "name": "leocad",
         "version": "23.03",
@@ -765,9 +765,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/libreoffice-fresh-basic/LibreOffice-fresh.basic-x86_64.AppImage"
     }, {
         "name": "librepcb",
-        "version": "0.1.7",
+        "version": "1.0.0-rc1",
         "description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw schematics and design printed circuit boards.",
-        "url": "https://download.librepcb.org/releases/0.1.7/librepcb-0.1.7-linux-x86_64.AppImage"
+        "url": "https://download.librepcb.org/releases/1.0.0-rc1/librepcb-1.0.0-rc1-linux-x86_64.AppImage"
     }, {
         "name": "linked",
         "version": "1.5.2",
@@ -775,9 +775,9 @@
         "url": "https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.AppImage"
     }, {
         "name": "linphone",
-        "version": "5.0.18",
+        "version": "5.1.2",
         "description": "A complete, secure and interoperable SIP software solution for communication systems developers.",
-        "url": "https://download.linphone.org/releases/linux/app/Linphone-5.0.18.AppImage"
+        "url": "https://download.linphone.org/releases/linux/app/Linphone-5.1.2.AppImage"
     }, {
         "name": "lmms",
         "version": "1.3.0",
@@ -910,9 +910,9 @@
         "url": "https://github.com/naev/naev/releases/download/v0.10.6/naev-0.10.6-linux-x86-64.AppImage"
     }, {
         "name": "neovim",
-        "version": "0.9.1",
+        "version": "0.9.2",
         "description": "Neovim is a refactor of the Vim text editor designed to encourage new features, advanced UIs, and powerful extensions.",
-        "url": "https://github.com/neovim/neovim/releases/download/v0.9.1/nvim.appimage"
+        "url": "https://github.com/neovim/neovim/releases/download/v0.9.2/nvim.appimage"
     }, {
         "name": "netbeans",
         "version": "19-build1",
@@ -1094,9 +1094,9 @@
         "url": "https://github.com/blueOkiris/aip-man-pkgs/raw/pkg2appimage/pkg2appimage-1807-x86_64.AppImage"
     }, {
         "name": "play",
-        "version": "0.61",
+        "version": "0.62",
         "description": "Play! is a portable PlayStation2 emulator.",
-        "url": "https://purei.org/downloads/play/stable/0.61/Play!-c74e28c2-x86_64.AppImage"
+        "url": "https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage"
     }, {
         "name": "pocket-browser",
         "version": "1.8.0",
@@ -1137,14 +1137,14 @@
         "url": "https://github.com/pyfa-org/Pyfa/releases/download/v2.53.0/pyfa-v2.53.0+3-g194e4657e-linux.AppImage"
     }, {
         "name": "qbittorrent",
-        "version": "4.5.4",
+        "version": "4.5.5",
         "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent.",
-        "url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent-4.5.4_lt20_x86_64.AppImage"
+        "url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent-4.5.5_lt20_x86_64.AppImage"
     }, {
         "name": "qelectrotech",
-        "version": "0.100.0-r7854",
+        "version": "0.100.0-r7871",
         "description": "QElectroTech is a free software to create electric diagrams.",
-        "url": "https://download.tuxfamily.org/qet/builds/AppImage/0.100.0/QElectroTech_0.100.0-r7854-x86_64.AppImage"
+        "url": "https://download.qelectrotech.org/qet/builds/AppImage/0.100.0/QElectroTech_0.100.0-r7871-x86_64.AppImage"
     }, {
         "name": "qmplay2",
         "version": "23.02.05",
@@ -1256,7 +1256,7 @@
         "url": "https://github.com/mltframework/shotcut/releases/download/v23.07.29/shotcut-linux-x86_64-230729.AppImage"
     }, {
         "name": "sigma-file-manager",
-        "version": "1.6.0",
+        "version": "1.7.0",
         "description": "Sigma File Manager is a free, open-source, quickly evolving, modern file manager.",
         "url": "https://github.com/aleksey-hoffman/sigma-file-manager/releases/download/v1.7.0/Sigma-File-Manager-1.7.0-Linux-Debian.AppImage"
     }, {
@@ -1265,15 +1265,10 @@
         "description": "A private messenger for Windows, macOS, and Linux",
         "url": "https://gitlab.com/linuxappimage/signal-desktop/-/jobs/artifacts/master/raw/Signal-x86_64.AppImage?job=run-build"
     }, {
-        "name": "skrooge",
-        "version": "2.30.0",
-        "description": "Skrooge allows you to manage your personal finances, powered by KDE.",
-        "url": "https://download.kde.org/stable/skrooge/skrooge-2.30.0-x86_64.AppImage"     
-    }, {
         "name": "skype-appimage",
-        "version": "8.99.0.202",
+        "version": "8.102.0.211",
         "description": "Unofficial AppImage of Skype built from the official deb package.",
-        "url": "https://github.com/ivan-hc/Skype-appimage/releases/download/continuous/Skype-8.99.0.202-x86_64.AppImage"     
+        "url": "https://github.com/ivan-hc/Skype-appimage/releases/download/continuous/Skype-8.102.0.211-x86_64.AppImage"     
     }, {
         "name": "sleek",
         "version": "2.0.0-dev5",
@@ -1347,10 +1342,10 @@
         "name": "streamlink",
         "version": "5.5.1-2",
         "description": "Streamlink, a CLI tool for extracting streams to a video player of your choice.",
-        "url": "https://github.com/streamlink/streamlink-appimage/releases/download/5.5.1-2/streamlink-5.5.1-2-cp311-cp311-manylinux2014_x86_64.AppImage",
+        "url": "https://github.com/streamlink/streamlink-appimage/releases/download/6.1.0-2/streamlink-6.1.0-2-cp311-cp311-manylinux2014_x86_64.AppImage",
         "alt_arch_urls": {
-            "x86": "https://github.com/streamlink/streamlink-appimage/releases/download/5.5.1-2/streamlink-5.5.1-2-cp311-cp311-manylinux2014_i686.AppImage",
-            "aarch64": "https://github.com/streamlink/streamlink-appimage/releases/download/5.5.1-2/streamlink-5.5.1-2-cp311-cp311-manylinux2014_aarch64.AppImage"
+            "x86": "https://github.com/streamlink/streamlink-appimage/releases/download/6.1.0-2/streamlink-6.1.0-2-cp311-cp311-manylinux2014_i686.AppImage",
+            "aarch64": "https://github.com/streamlink/streamlink-appimage/releases/download/6.1.0-2/streamlink-6.1.0-2-cp311-cp311-manylinux2014_aarch64.AppImage"
         }
     }, {
         "name": "stretchly",
@@ -1369,7 +1364,11 @@
         "name": "subtitlecomposer",
         "version": "0.7.1",
         "description": "KF5/Qt Video Subtitle Editor.",
-        "url": "https://download.opensuse.org/repositories/home:/maxrd2/AppImage/subtitlecomposer-git-latest-x86_64.AppImage"
+        "url": "https://download.opensuse.org/repositories/home:/maxrd2/AppImage/subtitlecomposer-git-0.7.1+git314.5c4c963-Build193.1.glibc2.14-x86_64.AppImage",
+        "alt_arch_urls": {
+            "arm": "https://download.opensuse.org/repositories/home:/maxrd2/AppImage/subtitlecomposer-git-0.7.1+git314.5c4c963-Build193.1.glibc2.4-armv7l.AppImage",
+            "aarch64": "https://download.opensuse.org/repositories/home:/maxrd2/AppImage/subtitlecomposer-git-0.7.1+git314.5c4c963-Build193.1.glibc2.17-aarch64.AppImage"
+        }
     }, {
         "name": "sunamu",
         "version": "2.1.0",
@@ -1512,9 +1511,9 @@
         "url": "https://github.com/WAClient/WALC/releases/download/v0.3.1/WALC-0.3.1.AppImage"
     }, {
         "name": "waterfox",
-        "version": "5.1.9-40.",
+        "version": "5.1.10-41.2.",
         "description": "Waterfox is an open-source web browser that is forked from Firefox and developed by System1.",
-        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-latest-x86_64.AppImage"
+        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-5.1.10-41.2.Build42.1.glibc2.17-x86_64.AppImage"
     }, {
         "name": "wavebox",
         "version": "10.114.32-2",
