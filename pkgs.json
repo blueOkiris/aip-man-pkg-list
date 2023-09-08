@@ -1468,11 +1468,11 @@
         "url": "https://github.com/ozmartian/vidcutter/releases/download/6.0.5.1/VidCutter-6.0.5.1-x86_64.AppImage"
     }, {
         "name": "vieb",
-        "version": "9.7.0",
+        "version": "10.3.0",
         "description": "Vim Inspired Electron Browser - Vim bindings for the web by design.",
-        "url": "https://github.com/Jelmerro/Vieb/releases/download/9.7.0/Vieb-9.7.0.AppImage",
+        "url": "https://github.com/Jelmerro/Vieb/releases/download/10.3.0/Vieb-10.3.0.AppImage",
         "alt_arch_urls": {
-            "aarch64": "https://github.com/Jelmerro/Vieb/releases/download/9.7.1/Vieb-9.7.1-arm64.AppImage"
+            "aarch64": "https://github.com/Jelmerro/Vieb/releases/download/10.3.0/Vieb-10.3.0-arm64.AppImage"
         }
     }, {
         "name": "vikunja",
